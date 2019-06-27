@@ -104,7 +104,7 @@ echo "<br><hr>";
 $food = "すき家の牛丼";
 echo mb_strlen($food);
 echo "<br><hr>";
-
+echo "hello";
 //
 
 // $animal = array(
