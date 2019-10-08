@@ -1,0 +1,418 @@
+﻿<!doctype html>
+<!--[if IE]>
+<html class="no-js ie" lang="ja">
+<![endif]-->
+<!--[if !IE]><!-->
+<html class="no-js" lang="ja">
+<!--<![endif]-->
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <link rel="canonical" href="http://www.tiautogarage.jp/">
+  <title>【滋賀県】コーティングのプロショップ｜大切な愛車を最高級の輝きに　TIAUTOGARAGE</title>
+  <meta name="keywords" content="滋賀,コーティング,車,洗車,専門店,アルミホイール,メンテナンス,磨き,車コーティング">
+  <meta name="description" content="滋賀で車のコーティングをお考えなら、ガラスコーティング専門店の【TI AUTO GARAGE】にお任せください。コーティングのほか、洗車や各種パーツクリーニング(アルミホイール・ウィンドウガラスなど)にも対応しております。">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="og:url" content="http://www.tiautogarage.jp/">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="http://www.tiautogarage.jp/assets/img/logo_ogp.jpg">
+  <meta property="og:title" content="TI AUTO GARAGE｜【完全予約制】滋賀県近江八幡市のカーコーティング、ポイントプロテクションフィルム施工専門店">
+  <meta property="og:site_name" content="TI AUTO GARAGE">
+  <meta property="og:description" content="滋賀県にあるボディコーティーングと車磨き研磨専門店TIAUTOGARAGEは竜王にあるボディガラスコーティングやカーフィルム、カーラッピングを取り扱っています。身近な丁寧な施工が自慢のお店です！">
+  <link rel="stylesheet" href="./assets/css/main.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="./assets/css/ik-css.css">
+  <script src="./assets/js/vendor/respond.min.js"></script>
+  <meta name="google-site-verification" content="ohrE4CC2lsxdY50U0p40KCfSoqKcnorh6iPT8_WX9Wg" />
+</head>
+
+<body>
+  <header>
+    <section class="primary_header">
+      <div class="container">
+        <div class="row">
+          <h1 class="title"> <img src="./assets/img/logo.png" alt="TI AUTO GARAGE"> </h1>
+          <nav class="global_nav sp-only">
+            <ul>
+              <li><a href="./">HOME</a></li>
+              <li><a href="./company#a02">お店紹介</a></li>
+              <li><a href="./company">こだわり</a></li>
+              <li><a href="./contents">施工料金</a></li>
+              <li><a href="./contents#c01">施工例</a></li>
+              <li><a href="http://tiautogarage.jp/inquiry/">お問い合わせ</a></li>
+              <li><a href="../column/shiga-coating-column.html">コラム</a></li>
+            </ul>
+            <div class="menu_icon"> <a href="#menu">メニュー開閉</a> </div>
+          </nav>
+          <p class="header_text pc-only text-right"> お問い合わせ <span class="text-large text-red">050-3736-1113</span><span class="text-red">【完全予約制】</span> <br> 滋賀県蒲生郡竜王町大字岡屋1224-2 </p>
+        </div>
+      </div>
+    </section>
+    <section class="secondary_header">
+      <nav class="local_nav">
+        <ul class="list-inline">
+          <li><a href="./">HOME</a></li>
+          <li><a href="./company#a02">お店紹介</a></li>
+          <li><a href="./company">こだわり</a></li>
+          <li><a href="./contents">施工料金</a></li>
+          <li><a href="./contents#c01">施工例</a></li>
+          <li><a href="http://tiautogarage.jp/inquiry/">お問い合わせ</a></li>
+          <li><a href="../column/shiga-coating-column.html">コラム</a></li>
+        </ul>
+      </nav>
+    </section>
+  </header>
+  <main>
+    <section>
+      <div class="slider-pro" data-type="center" data-height="500">
+        <div class="sp-slides">
+          <div class="sp-slide"> <img src="./assets/img/image1.jpg" alt="愛車に新車の時の輝きをいつまでも" class="sp-image"> </div>
+          <div class="sp-slide"> <img src="./assets/img/image2.jpg" alt="大切な家族を乗せる車をいつも綺麗に" class="sp-image"> </div>
+          <div class="sp-slide"> <img src="./assets/img/image3.jpg" alt="ガラスコーティングで快適なカーライフを" class="sp-image"> </div>
+        </div>
+      </div>
+    </section>
+    <section>
+<div class="container gutters">
+<div class="row pc-only">
+<div class="col span_4">
+<figure>
+<a href="./company"><img src="assets/css/ikimg/menu005_shop.jpg" title="お店のこだわり" alt="お店のこだわり"></a>
+</figure>
+</div>
+<div class="col span_4">
+<figure>
+<a href="http://tiautogarage.jp/inquiry/"><img src="assets/css/ikimg/menu006_contact.jpg" title="お問い合わせページ" alt="お問い合わせページ"></a>
+</figure>
+</div>
+<div class="col span_4">
+<figure>
+<a href="./contents#c01"><img src="assets/css/ikimg/menu006_list.jpg" title="当店の施工例" alt="当店の施工例"></a>
+</figure>
+</div>
+</div>
+<div class="row sp-only">
+<div class="col span_4">
+<figure>
+<a href="./company"><img src="assets/css/ikimg/menu005_shop.jpg" title="お店のこだわり" alt="お店のこだわり"></a>
+</figure>
+</div>
+<div class="col span_4">
+<figure>
+<a href="http://tiautogarage.jp/inquiry/"><img src="assets/css/ikimg/menu006_contact.jpg" title="お問い合わせページ" alt="お問い合わせページ"></a>
+</figure>
+</div>
+<div class="col span_4">
+<figure>
+<a href="./contents#c01"><img src="assets/css/ikimg/menu006_list.jpg" title="当店の施工例" alt="当店の施工例"></a>
+</figure>
+</div>
+</div>
+<!--icon_img3rd-->
+<div class="row">
+<div class="col span_6">
+<figure>
+<a href="./contents#anc01"><img src="./assets/css/ikimg/menu001_body.jpg" title="ボディガラスコーティング" alt="ボディガラスコーティング"></a>
+</figure>
+</div>
+<div class="col span_6">
+<figure>
+<a href="./contents#anc05"><img src="./assets/css/ikimg/menu003_point.jpg" title="ポイントプロテクションフィルム" alt="ポイントプロテクションフィルム"></a>
+</figure>
+</div>
+</div>
+<!--menu_b_top-->
+<div class="row">
+<div class="col span_6">
+<figure>
+<a href="./contents#anc06"><img src="./assets/css/ikimg/menu002_junsui.jpg" title="純粋洗車" alt="純粋洗車"></a>
+</figure>
+</div>
+<div class="col span_6">
+<figure>
+<a href="./contents#anc03"><img src="./assets/css/ikimg/menu004_etc.jpg" title="各種パーツクリーニング" alt="各種パーツクリーニング"></a>
+</figure>
+</div>
+</div>
+<!--menu_b_bottom-->
+</div><!--icon_wrap-->
+
+      </div>
+    </section>
+    <section>
+      <div class="parallax parallax_2 text-center">
+        <div class="parallax_contents">
+          <div class="top_parallax">
+            <h2 class="text-shadow">ガラスコーティング専門店　TI AUTO GARAGEにお任せください！</h2>
+            <p class="sp-text-left text-shadow"> <strong>TI AUTO GARAGEはCAR DETAILING業専門店です。<br> 主にガラスコーティング、プロテクションフィルムを専門にしています、<br class="pc-only">お気軽にお問合せください！！ </strong> </p>
+            <p><a href="./company" class="button large"><span>TI AUTO GARAGEのこだわり</span></a></p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section>
+      <div class="container gutters"> {$bbs-contents} </div>
+    </section>
+    <section>
+      <div class="container gutters">
+        <div class="row">
+          <div class="col span_12">
+            <figure> <a href="./contents#anc06"><img src="./assets/img/top_img012.jpg" alt="キャンペーン"></a> </figure>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="highlight">
+      <h2><span class="text-winered">TI AUTO GARAGE</span><span class="text-navy">のカーコーティング施工例</span></h2>
+      <div class="container gutters">
+        <div class="row">
+          <div class="col span_4">
+            <figure> <a href="./contents#c01"><img src="./assets/img/top_img015.jpg" alt="カーコーティング施工例"></a>
+              <!--figcaption>カーコーティング施工例</figcaption-->
+            </figure>
+          </div>
+          <div class="col span_4">
+            <figure> <a href="./contents#c01"><img src="./assets/img/top_img016.jpg" alt="カーコーティング施工例"></a>
+              <!--figcaption>カーコーティング施工例</figcaption-->
+            </figure>
+          </div>
+          <div class="col span_4">
+            <figure> <a href="./contents#c01"><img src="./assets/img/top_img017.jpg" alt="カーコーティング施工例"></a>
+              <!--figcaption>カーコーティング施工例</figcaption-->
+            </figure>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col span_4">
+            <figure> <a href="./contents#c01"><img src="./assets/img/top_img018.jpg" alt="カーコーティング施工例"></a>
+              <!--figcaption>カーコーティング施工例</figcaption-->
+            </figure>
+          </div>
+          <div class="col span_4">
+            <figure> <a href="./contents#c01"><img src="./assets/img/top_img019.jpg" alt="カーコーティング施工例"></a>
+              <!--figcaption>カーコーティング施工例</figcaption-->
+            </figure>
+          </div>
+          <div class="col span_4">
+            <figure> <a href="./contents#c01"><img src="./assets/img/top_img020.jpg" alt="カーコーティング施工例"></a>
+              <!--figcaption>カーコーティング施工例</figcaption-->
+            </figure>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section>
+      <h2 class="text-navy">カーコーティングの<br class="sp-only">お問い合わせはこちら</h2>
+      <div class="container">
+        <div class="guide">
+          <figure> <img src="./assets/img/top_img008.jpg" alt="カーコーティングのお問い合わせはこちら" class="circle"> </figure>
+          <div class="message">
+            <ul class="top_contact">
+              <li>
+                <p class="pc-text-right sp-text-center"> <strong class="text-large text-orange">【完全予約制】</strong> </p>
+              </li>
+              <li class="contact_img">
+                <p> <img src="./assets/img/top_img009.jpg" alt="050"> </p>
+              </li>
+              <li>
+                <p class="sp-text-center"> <strong class="text-xlarge text-red">050-3736-1113</strong> </p>
+              </li>
+            </ul>
+            <p class="text-large sp-text-center"> 完全予約制のためご来店前に <br class="sp-only">ご予約のご連絡ください。 </p>
+            <p class="contents_link"> <a href="http://tiautogarage.jp/inquiry/" class="button large"><span>お問い合わせはこちら</span></a> </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="highlight">
+      <h2><span class="text-navy">カーコーティング</span><span class="text-winered">TI AUTO GARAGE</span><span class="text-navy">のお知らせ</span></h2>
+      <div class="container gutters news typeC">
+        <div class="row">
+          <div class="col span_6">
+            <div class="news_bg">
+              <div class="content">
+                <dl>
+                  <dt>2016/7/12</dt>
+                  <dd>ホームページを公開しました。</dd>
+                </dl>
+              </div>
+            </div>
+          </div>
+          <div class="col span_6">
+            <div id="fb-root"></div>
+            <script>(function(d, s, id) {
+
+              var js, fjs = d.getElementsByTagName(s)[0];
+
+              if (d.getElementById(id)) return;
+
+              js = d.createElement(s); js.id = id;
+
+              js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.5";
+
+              fjs.parentNode.insertBefore(js, fjs);
+
+            }(document, 'script', 'facebook-jssdk'));</script>
+            <div class="news_bg">
+              <div class="fb-page" data-href="https://www.facebook.com/TIAUTOGARAGE-1690772451247473/?hc_ref=PAGES_TIMELINE" data-tabs="timeline" data-width="500" data-height="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                <div class="fb-xfbml-parse-ignore">
+                  <blockquote cite="https://www.facebook.com/TIAUTOGARAGE-1690772451247473/?hc_ref=PAGES_TIMELINE"><a href="https://www.facebook.com/TIAUTOGARAGE-1690772451247473/?hc_ref=PAGES_TIMELINE">TIAUTOGARAGE</a></blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <h2 class="text-navy" style="padding-top:2%;">LINE</h2>
+
+      <div class="container">
+
+        <div class="row">
+
+        <div class="col span_12">
+
+          <figure>
+
+            <img src="./assets/img/line.jpg" alt="LINE">
+
+            <figcaption class="text-center"><a href="https://line.me/R/ti/p/%40myj6668t"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a></figcaption>
+
+          </figure>
+
+        </div>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+
+
+
+    <section>
+
+      <h2><span class="text-navy">カーコーティング</span><span class="text-winered">TI AUTO GARAGE</span><span class="text-navy">のお店紹介</span></h2>
+      <div class="container gutters">
+        <div class="row shopinfo">
+          <div class="col span_3">
+            <figure> <img src="assets/img/top_img013.jpg" alt="ALSOK警備導入店舗です。">
+              <figcaption>※ALSOK警備導入店舗です。</figcaption>
+            </figure>
+            <dl>
+              <dt>住所</dt>
+              <dd> 〒520-2541<br> 滋賀県蒲生郡竜王町大字岡屋1224-2 </dd>
+              <dt>電話番号</dt>
+              <dd>050-3736-1113</dd>
+              <dt>事業内容</dt>
+              <dd>
+                <ul class="list-unstyled">
+                  <li>CAR DETAILING</li>
+                  <li>USED　CAR　SALES</li>
+                </ul>
+              </dd>
+              <dt>営業時間</dt>
+              <dd> 完全予約制のため、<br class="pc-only"> 事前にお問い合わせください </dd>
+              <dt>定休日</dt>
+              <dd>不定休</dd>
+            </dl>
+            <figure>
+            <img src="assets/img/top_img014.jpg" alt="カーコーティングTI AUTO GARAGEのお店紹介">
+            </figure>
+            <p> <a href="./company" class="button block"><span>お店紹介</span></a> </p>
+            <a href="http://ninkirank.misty.ne.jp/15/takahiro.htm" target="_blank"?>人気サイトランキング</a>
+          </div>
+          <div class="col span_9">
+            <div class="map_container">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d36954.120683203255!2d136.09113726939623!3d35.04889624038316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001649115e0720d%3A0x4d3dce16eb098f22!2z44CSNTIwLTI1NDEg5ruL6LOA55yM6JKy55Sf6YOh56uc546L55S65bKh5bGL77yR77yS77yS77yU4oiS77yS!5e0!3m2!1sja!2sjp!4v1473815503781"
+
+              frameborder="0" style="border:0" allowfullscreen="" class="googlemap"></iframe>
+
+
+<div style="clear: both;"></div>
+
+            </div>
+
+<!-- 2017/7/追加 -->
+  <div style="clear:both; padding: 30px 0 0; margin:30px auto 0;">
+   <div style="padding: 15px 15px; border-radius: 0;">
+    <h3 style="font-size: 17px; border-left: 6px solid #1C52AC; padding: 0 0 0 8px; font-weight:700;">滋賀でコーティングを依頼するなら専門店【TI AUTO GARAGE】へ</h3>
+    <p style="margin: 0; padding: 7px 5px 5px; line-height: 1.8;">
+     <strong style="font-weight:normal;">滋賀</strong>で<strong style="font-weight:normal;">車</strong>のガラスコーティングをお考えの際は、<strong style="font-weight:normal;">コーティング</strong><em style="font-style:normal;">専門店</em>の【TI AUTO GARAGE】にお任せください。コーティング後は汚れがつきにくくなりますので、<em style="font-style:normal;">洗車</em>の頻度も少なくなり、楽になります。
+     <br>
+     また、コーティングだけではなく、アルミホイールなど各種パーツのクリーニング、ドアやバンパーヘッドライトを傷から守るポイントプロテクションフィルムなどにも対応しております。さらに、極上の洗浄液剤と純水を使用した洗車も行っていますので、愛車の定期的なメンテナンスとしてご利用ください。
+     </p>
+     <div class="ichiran-link" style="margin-top:10px;">
+      <div>
+      <div style="padding: 10px; text-align: right;">
+        <a href="/column/shiga-coating-column.html">滋賀のコーティング専門店【TI AUTO GARAGE】が教えるお役立ちコラム</a>
+      </div>
+      </div>
+    </div>
+  </div>
+  </div>
+<style type="text/css">
+.ichiran-link a { display: inline-block; color: #1C52AC; text-decoration: underline; background:none; font-weight:700; font-size:13px;}
+.ichiran-link a:hover {color: #B50609; text-decoration: none; background:none;}
+</style>
+<!-- 2017/7/追加 -->
+
+
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <div class="container">
+      <div class="row nav">
+        <nav class="col span_12">
+          <ul>
+            <li><a href="./">HOME</a></li>
+            <li><a href="./company#a02">お店紹介</a></li>
+            <li><a href="./company">こだわり</a></li>
+            <li><a href="./contents">施工料金</a></li>
+            <li><a href="./contents#c01">施工例</a></li>
+            <li><a href="http://tiautogarage.jp/inquiry/">お問い合わせ</a></li>
+            <li><a href="./policy">プライバシーポリシー</a></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="row copyright">
+        <div class="col span_12">
+          <p>Copyright(C) TI AUTO GARAGE All Rights Reserved.</p>
+        </div>
+      </div>
+    </div>
+    <p class="pagetop"> <a href="#top">
+      <object type="image/svg+xml" data="./assets/img/parts/btn_scroll_top.svg">
+      </object>
+    </a> </p>
+  </footer>
+  <script src="./assets/js/vendor/bundle.js"></script>
+  <script src="./assets/js/main.js"></script>
+  <!-- リマーケティング タグの Google コード -->
+<!--------------------------------------------------
+リマーケティング タグは、個人を特定できる情報と関連付けることも、デリケートなカテゴリに属するページに設置することも許可されません。タグの設定方法については、こちらのページをご覧ください。
+http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 854002672;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/854002672/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body>
+</html>

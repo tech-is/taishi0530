@@ -1,0 +1,56 @@
+Return-Path: <info@rosstrade.ru>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: *
+X-Spam-Status: No, score=1.6 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FSL_BULK_SIG,HTML_MESSAGE,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CHECK,SPF_HELO_PASS,URIBL_BLOCKED autolearn=no autolearn_force=no
+	version=3.4.0
+Received: (qmail 273651 invoked by uid 89); 28 Feb 2019 23:58:15 +0900
+Received: from rosstrade.ru (212.92.98.227)
+  by c4.hpms1.jp with SMTP; 28 Feb 2019 23:58:15 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at rosstrade.ru designates 212.92.98.227 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=rosstrade.ru;
+ h=Message-ID:From:To:Subject:Date:MIME-Version:Content-Type;
+ bh=xnpMeRLXGw5Hb1nd2p7ArsX2zE0=;
+ b=NPhv6IhqUxhLMJIPS73tn8If35WmQdt+X1ym2KtjQybx8jdqoa7wg3Vq7zutDjgUgGn9kTW/Kjxc
+   vnVpq5DQkdtLTrSI7zH4UPQ2My5tUAh0uIiPZx08+w5+WVwfsWvfyU3gt9oeBua5jAlWXqjNq9VJ
+   INmdoHx/MiY+acF/2z6b5e9Oa8llL9izd33+icPhY6GLxD9qmp0mvCbb7tBnuYfs4A1I9YYVapAw
+   WF0SvKrkSnKptejlN+oNuck68x+kukaRzhaGrA6nqJ7oZ86bLSTKzO3MJkFF4dVhNGiCy+dEljuT
+   dET7XjAl164k8PGFc0hMUq50CmfQTpliuL1LOg==
+Message-ID: <88753c93c418323ba7a214b85eeac0c66e949a@rosstrade.ru>
+From: "Ramiro Planes" <info@rosstrade.ru>
+To: <info@tiautogarage.jp>
+Subject: Copy of: Hello
+Date: Thu, 28 Feb 2019 17:58:11 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="2a87ce6136eac0c95550e64aac183234cf68a4"
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25372/Tue Feb 26 19:34:09 2019
+
+--2a87ce6136eac0c95550e64aac183234cf68a4
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Ciao There is an amazing offering
+
+Good day Here is an important offering
+
+--2a87ce6136eac0c95550e64aac183234cf68a4
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><FONT size=3D2 face=3DArial>
+<DIV align=3Dleft><FONT size=3D2 face=3DArial><A=20
+href=3D"https://clck.ru/FH8gF">Ciao There is=20
+an amazing offering</A></FONT></DIV></FONT></DIV>
+<DIV align=3Dleft><FONT size=3D2 face=3DArial><A=20
+href=3D"https://clck.ru/FH8sK">Good day Here is=20
+an important offering </A></FONT></DIV></BODY></HTML>
+
+--2a87ce6136eac0c95550e64aac183234cf68a4--
+

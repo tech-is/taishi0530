@@ -1,0 +1,210 @@
+Return-Path: <01000168f9d3cc3d-76cd2485-ef88-43e8-aaf6-63e63c28dde3-000000@ses.gmo-sol.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham autolearn_force=no
+	version=3.4.0
+Received: (qmail 135328 invoked by uid 89); 17 Feb 2019 14:00:37 +0900
+Received: from a9-41.smtp-out.amazonses.com (54.240.9.41)
+  by c4.hpms1.jp with AES128-SHA256 encrypted SMTP; 17 Feb 2019 14:00:37 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at amazonses.com designates 54.240.9.41 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=c75gjujjxgzx6a4hz6cdvqhvsyarenhj; d=gmo-sol.jp; t=1550379633;
+	h=Date:From:To:Subject:Reply-To:Message-ID:Mime-Version:Content-Type:Content-Transfer-Encoding;
+	bh=szsbXCqQ8Nm0Ep3pLHznG4nupNnvuGcX8qBNcUt1848=;
+	b=uL3jXBN+/7RiKbg2r5M0raZFk2orU7/21O6jX4Cl9GbeSvvkv7YVo2ZihTFr8hZa
+	Lxhtu2LU+pykgG9p11j634D6ycdycHO5NkqE7RJX8IoFkzjapPl/ihCPvlWdaVLKNUC
+	iKkbp0wpEGgnaAgt88/IpUb9cPUyFvvDTgVkYUTc=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug; d=amazonses.com; t=1550379633;
+	h=Date:From:To:Subject:Reply-To:Message-ID:Mime-Version:Content-Type:Content-Transfer-Encoding:Feedback-ID;
+	bh=szsbXCqQ8Nm0Ep3pLHznG4nupNnvuGcX8qBNcUt1848=;
+	b=X6HwuiHCcRurAMMxQCJ1mrRDKHkogQeciuYk/nrA/SQ4qzkAFt0hNT5Qmjuq+IVN
+	b7aYsfodwcIobwIo/rcfmP6gCp27BPBci2ZPwfd0B35Wxrh1PoHNIoS9Iynwhyrab4w
+	SfjHiX90rE303McpEIOqQO9H6EHW0InJ8J3mwsfY=
+Date: Sun, 17 Feb 2019 05:00:33 +0000
+From: <find-a@gmo-sol.jp>
+To: info@tiautogarage.jp
+Subject: =?UTF-8?Q?=E3=80=90=E9=A0=86=E4=BD=8D=E3=83=AC=E3=83=9D=E3=83=BC?= =?UTF-8?Q?=E3=83=88=E3=80=91=E6=9C=AC=E6=97=A5=E3=81=AE=E6=A4=9C=E7=B4=A2?= =?UTF-8?Q?=E9=A0=86=E4=BD=8D=E3=81=AE=E3=81=8A=E7=9F=A5=E3=82=89=E3=81=9B?= =?UTF-8?Q?=EF=BC=88=E3=83=A9=E3=83=B3=E3=82=AD=E3=83=B3=E3=82=B0=E3=83=81?= =?UTF-8?Q?=E3=82=A7=E3=83=83=E3=82=AF=E3=83=84=E3=83=BC=E3=83=AB[F-?= =?UTF-8?Q?station]=EF=BC=89?=
+Reply-To: <find-a@gmo-sol.jp>
+X-Sender: find-a@gmo-sol.jp
+X-Priority: 3 (Normal)
+Message-ID: <01000168f9d3cc3d-76cd2485-ef88-43e8-aaf6-63e63c28dde3-000000@email.amazonses.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-SES-Outgoing: 2019.02.17-54.240.9.41
+Feedback-ID: 1.us-east-1.EK4qO1i/+VMlGdObHfA+PTaETi/szzUqyPBg55HDtQc=:AmazonSES
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25361/Fri Feb 15 20:07:11 2019
+
+※本メールは自動送信されております。
+
+TI　AUTO　GARAGE（H0000051） 様
+
+いつもお世話になっております。
+GMOソリューションパートナー株式会社、
+Find-Aサポートチームでございます。
+
+本日のご契約キーワードの検索順位をお知らせいたしま
+す。
+
+***************************************************
+過去の検索順位についてはF-Stationにてご確認いただけま
+す。
+[F-Station]
+https://f-station.tools/login?utm_source=ranking_mail&utm_medium=email&utm_campaign=promotion
+
+F-Stationに関するお問い合わせは、本メールにご返信くだ
+さい。
+***************************************************
+
+[ 比較年月日 ]
+2019年02月16日 - 2019年02月17日
+[ Yahoo ]
+・滋賀 コーティング -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 コーティング 車 - https://ti-coating.net/
+    73位 -> 73位 (→ 0位)
+・滋賀 コーティング 洗車 -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 コーティング 専門店 -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 コーティング アルミホイール -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 コーティング メンテナンス -
+    -47位 -> 圏外 (↓ -47位)
+・滋賀 車コーティング -
+https://ti-coating.net/free/column-shiga-coating
+    87位 -> 72位 (↑ 15位)
+・滋賀 車コーティング 磨き -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 車コーティング 洗車 -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 車コーティング 専門店 -
+    -38位 -> 圏外 (↓ -38位)
+・滋賀 車コーティング アルミホイール -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 車コーティング メンテナンス -
+https://ti-coating.net/free/shiga-bodycoating-maintenance
+    33位 -> 23位 (↑ 10位)
+・滋賀 カーコーティング -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 カーコーティング 施工 -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 カーコーティング 塗装 -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 カーコーティング 愛車 -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 カーコーティング 傷 -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 カーコーティング プロテクションフィルム -
+https://ti-coating.net/
+    16位 -> 15位 (↑ 1位)
+・滋賀 ボディコーティング -
+    -50位 -> 圏外 (↓ -50位)
+・滋賀 ボディコーティング メンテナンス -
+    -27位 -> 圏外 (↓ -27位)
+・滋賀 ボディコーティング 光沢 -
+    -53位 -> 圏外 (↓ -53位)
+・滋賀 ボディコーティング 長持ち -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 ボディコーティング 艶 -
+    -47位 -> 圏外 (↓ -47位)
+・滋賀 ボディコーティング 仕上がり -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 ガラスコーティング -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 ガラスコーティング 撥水 -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 ガラスコーティング パーツ -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 ガラスコーティング 車種 -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 ガラスコーティング 汚れ -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 ガラスコーティング 洗車 -
+    -68位 -> 圏外 (↓ -68位)
+
+[ Google ]
+・滋賀 コーティング -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 コーティング 車 - https://ti-coating.net/
+    89位 -> 89位 (→ 0位)
+・滋賀 コーティング 洗車 -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 コーティング 専門店 -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 コーティング アルミホイール -
+https://ti-coating.net/free/column-shiga-coating
+    22位 -> 20位 (↑ 2位)
+・滋賀 コーティング メンテナンス -
+https://ti-coating.net/free/shiga-bodycoating-maintenance
+    74位 -> 53位 (↑ 21位)
+・滋賀 車コーティング -
+https://ti-coating.net/free/column-shiga-coating
+    80位 -> 92位 (↓ -12位)
+・滋賀 車コーティング 磨き -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 車コーティング 洗車 -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 車コーティング 専門店 -
+https://ti-coating.net/free/column-shiga-coating
+    40位 -> 43位 (↓ -3位)
+・滋賀 車コーティング アルミホイール -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 車コーティング メンテナンス -
+    -33位 -> 圏外 (↓ -33位)
+・滋賀 カーコーティング -
+    -88位 -> 圏外 (↓ -88位)
+・滋賀 カーコーティング 施工 -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 カーコーティング 塗装 -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 カーコーティング 愛車 - https://ti-coating.net/
+    63位 -> 57位 (↑ 6位)
+・滋賀 カーコーティング 傷 -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 カーコーティング プロテクションフィルム -
+https://ti-coating.net/
+    17位 -> 14位 (↑ 3位)
+・滋賀 ボディコーティング -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 ボディコーティング メンテナンス -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 ボディコーティング 光沢 -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 ボディコーティング 長持ち -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 ボディコーティング 艶 -
+    -44位 -> 圏外 (↓ -44位)
+・滋賀 ボディコーティング 仕上がり -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 ガラスコーティング -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 ガラスコーティング 撥水 -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 ガラスコーティング パーツ -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 ガラスコーティング 車種 -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 ガラスコーティング 汚れ -
+    圏外 -> 圏外 (→ 0位)
+・滋賀 ガラスコーティング 洗車 -
+    圏外 -> 圏外 (→ 0位)
+
+―――――――――――――――――――――――――
+――――――――――――――
+Find-Aサポート窓口
+フリーダイヤル ：0120-32-0510　(平日10：00～18：00)
+E-mail　　　　 ：find-a@gmo-sol.jp
+―――――――――――――――――――――――――
+――――――――――――――
+GMOソリューションパートナー株式会社
+―――――――――――――――――――――――――
+――――――――――――――
+■GMO INTERNET GROUP■ http://www.gmo.jp/
+―――――――――――――――――――――――――
+――――――――――――――-
+

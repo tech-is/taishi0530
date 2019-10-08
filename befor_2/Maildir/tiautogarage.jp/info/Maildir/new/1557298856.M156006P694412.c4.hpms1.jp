@@ -1,0 +1,77 @@
+Return-Path: <info@hust.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham autolearn_force=no
+	version=3.4.0
+Received: (qmail 694408 invoked by uid 89); 8 May 2019 16:00:46 +0900
+Received: from ns.hustms.jp (210.143.103.42)
+  by c4.hpms1.jp with SMTP; 8 May 2019 16:00:46 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at hust.jp designates 210.143.103.42 as permitted sender)
+Received: from ns.hustdc.jp (ns.hustdc.jp [210.143.104.99])
+	by ns.hustms.jp (Postfix) with ESMTPA id C018D37E3979
+	for <info@tiautogarage.jp>; Wed,  8 May 2019 16:00:45 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hust.jp;
+	s=dkimselector; t=1557298845;
+	bh=pdoQjFpLGr9bWHFmpULUNGYrnEayL5FcIELZu52dGf8=;
+	h=To:From:Subject:Date;
+	b=NZYyvRyYKscZS31/eUeoendVgx5bgbfuoQ0oWkd/uL5h9Og2VnaSvO2Fj22V0d+Bu
+	 AygNdO/2H4o/kMBEYe//MDO/jaggxBniWsaMY1oa1LNI3nwBnou5pop08SLbFmi+z4
+	 5Z5EIaf+Op152Mjc5Hqedv9tETEBZPjlXIYl/saM=
+Received: by ns.hustdc.jp (Postfix, from userid 48)
+	id 9833DD40955; Wed,  8 May 2019 16:00:45 +0900 (JST)
+To: info@tiautogarage.jp
+From: =?ISO-2022-JP?B?GyRCJU8lOSVIJU0lQyVIM3Q8MDJxPFIbKEI=?= <info@hust.jp>
+ 
+Subject: =?ISO-2022-JP?B?GyRCIVQlTyU5JUglTSVDJUgkRyQ5IVVITkdkPlpMQD1xJE4kNDBGGyhC?=
+ =?ISO-2022-JP?B?GyRCRmIhPzBmPmUbKEIgGyRCNS5CZxsoQiAbJEJNTRsoQg==?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-2022-JP
+Message-Id: <20190508070045.9833DD40955@ns.hustdc.jp>
+Date: Wed,  8 May 2019 16:00:45 +0900 (JST)
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25442/Tue May  7 17:01:24 2019
+
+井上 貴大 様
+
+■ハストネット株式会社、お客様担当の斉藤 琴実です。
+
+この度は、大変お世話になっております。
+
+下記の販売証明書のとおり、追加分も含めて、５月１５日（水曜日）の商品
+お届け予定にてお客様のご注文が確定しましたのでご確認下さい。
+
+※配送時の受渡しは、一階軒先か配送車両の進入可能な所迄の車上渡しとなりま
+す。階上げや搬入作業等は承っておりませんので、お客様にてお願いいたします。
+
+販売証明書
+→ https://www.hustdb.jp/mfile2019/HS/1557298831-9410.pdf
+→ https://www.hustdb.jp/mfile2019/HS/1557298724-6478.pdf
+
+------------------------------------------------------------------------
+
+■商品は到着後直ちにご確認下さい。（万一の運送事故や商品不良時のご案内）
+→ https://www.hust.jp/info6.html
+
+■お届け予定日の前日迄に運送会社の連絡先や、お荷物の送り状番号をご案内
+致しておりますので、当日の納入時間帯などのご確認にご利用下さい。
+※出荷状況によっては、稀に当日のご案内となる場合がございます。
+
+------------------------------------------------------------------------
+
+その他、ご不明な点等ございましたらお気軽にご相談下さい。
+
+どうぞ宜しくお願い致します。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+■ハストネット株式会社
+〒190-0014 東京都立川市緑町7-1 アーバス立川高松駅前ビル7F
+公式サイト： https://www.hust.jp/  Mail： info@hust.jp
+業務用ＷＥＢサイト総合案内
+Tel：0120-45-9950(フリーダイヤル)／Tel：042-512-7117(代)
+Fax：0120-45-9952(フリーダイヤル)／Fax：042-548-1555(代)
+月〜金曜日 9:00〜18:00 (12:00〜13:00を除く) ※土 日 祝日は休業日です。
+
+
+

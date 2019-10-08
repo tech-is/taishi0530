@@ -1,0 +1,55 @@
+Return-Path: <e5er_47454_M_11_294643_5ed0ed00@expa-rx.com>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.8 required=6.0 tests=BAYES_00,
+	CK_HELO_DYNAMIC_SPLIT_IP,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HELO_MISC_IP,
+	NO_FM_NAME_IP_HOSTN,RDNS_DYNAMIC,URIBL_BLOCKED autolearn=no
+	autolearn_force=no version=3.4.0
+Received: (qmail 86985 invoked by uid 89); 10 Jan 2019 11:11:42 +0900
+Received: from 103-57-4-235.suhon.jp (103.57.4.235)
+  by c4.hpms1.jp with SMTP; 10 Jan 2019 11:11:42 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at _spf.ex-pa.jp designates 103.57.4.235 as permitted sender)
+To: info@tiautogarage.jp
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=atarundesu.com;
+	s=e47454; t=1547086302;
+	bh=fNop47FNR3mO0/QHMO0RvOkR4ZPqCWzjCPUxWV5XY4U=;
+	h=From:Date:Subject;
+	b=jDLHYm5sTj9FZFGnTX1+UhRtfTJ3n+SHTStn2R40AmlhAPd86HqhYLB1BOYfRfyxB
+	 WSojfJ0FrZpZwrYWeFqzle/ZSqeE1nD1m09RdBd6LZk+NwWCEwyWjGk+mRmVH+ofKS
+	 XVqN7QkeQWH9A4482mZ3Hn69rQyotlAJ+65Vvoh0=
+From: =?ISO-2022-JP?B?GyRCRXYkPyRrJHMkRyQ5GyhC?= <support@atarundesu.com>
+Date: Thu, 10 Jan 2019 11:11:42 +0900
+Subject: =?ISO-2022-JP?B?GyRCIVpFdiQ/JGskcyRHJDkhWzwrRjAlQSVjITwlODUhRz08QkF1GyhC?=
+ =?ISO-2022-JP?B?GyRCJEtIPCQmNSxMczJ+RHskTiQqJDckaSQ7GyhC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+Message-Id: <20190110021142.1ABC1121E59@103-57-4-235.suhon.jp>
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25281/Wed Jan  9 07:23:44 2019
+
+いつも「当たるんです」をご利用いただきありがとうございます。
+
+自動チャージ機能実装に伴い、会員規約の改訂及び、自動チャージ規約を追加させていただきました。
+「自動チャージ機能」とは購入予約、自動購入予約後にチャージ残高が設定金額より少ない場合、
+ご指定の金額を自動でチャージする機能となります。
+
+◆自動チャージの詳細はこちら
+https://www.atarundesu.com/notification/93
+
+◆会員規約はこちら
+https://www.atarundesu.com/terms/
+
+◆自動チャージ規約はこちら
+https://www.atarundesu.com/terms/autocharge
+
+引き続き「当たるんです」をよろしくお願いいたします。
+
+
+お問い合わせは以下のページよりお願いいたします。
+https://www.atarundesu.com/contact/
+
+
+
+

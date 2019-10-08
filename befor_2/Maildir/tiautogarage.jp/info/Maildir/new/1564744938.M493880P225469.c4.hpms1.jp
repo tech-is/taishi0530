@@ -1,0 +1,73 @@
+Return-Path: <newsletterc@str8-creative.io>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Flag: YES
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.4 required=6.0 tests=BAYES_50,DIGEST_MULTIPLE,
+	DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,PYZOR_CHECK,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CHECK,SPF_HELO_PASS,URIBL_ABUSE_SURBL,URIBL_BLOCKED autolearn=no
+	autolearn_force=no version=3.4.0
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: str8-creative.io]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4999]
+	* -0.0 SPF_HELO_PASS SPF: HELO matches SPF record
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.9 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  1.2 URIBL_ABUSE_SURBL Contains an URL listed in the ABUSE SURBL
+	*      blocklist
+	*      [URIs: str8-creative.io]
+	*  1.4 PYZOR_CHECK Listed in Pyzor
+	*      (https://pyzor.readthedocs.io/en/latest/)
+	*  0.3 DIGEST_MULTIPLE Message hits more than one network digest check
+Received: (qmail 225460 invoked by uid 89); 2 Aug 2019 20:22:08 +0900
+Received: from hn.kd.ny.adsl (HELO str8-creative.io) (42.231.162.195)
+  by c4.hpms1.jp with SMTP; 2 Aug 2019 20:22:08 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at str8-creative.io designates 42.231.162.195 as permitted sender)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+	s=key79; d=str8-creative.io;
+	h=Message-ID:Date:Reply-To:From:User-Agent:MIME-Version:To:Subject:Content-Type:Content-Transfer-Encoding;
+	b=JGp92ZU1+/MppO45Ze8g+Jk9BJbUjIqTPFJAcfuRrEP+X4DJEn0AmzL7jh04VjkK+dC1J5Yq5M4v9GdfwHDRqQLDHAoKNnmjeTMPunyj73NNSlr3O5wFJvVrGw650AmzJG6bzLfLipN/QS/jqzcW7NnqtA04eUJPNzzWkcK719Q=;
+Message-ID: <7995D6CA.990D4C6C@str8-creative.io>
+Date: Fri, 02 Aug 2019 04:22:08 -0700
+Reply-To: "Aleen Schiller  " <newsletterc@str8-creative.io>
+From: "Aleen Schiller  " <newsletterc@str8-creative.io>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; de; rv:1.8.1.22) Gecko/20090605 Thunderbird/2.0.0.22
+MIME-Version: 1.0
+To: <info@tiautogarage.jp>
+Subject: *****SPAM***** re: boost ranks for tiautogarage.jp
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Spam-Prev-Subject: re: boost ranks for tiautogarage.jp
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25529/Fri Aug  2 17:21:20 2019
+
+Increase ranks with
+high quality links from high PA, TF, CF pages
+
+
+Service page:
+http://str8-creative.io/product/400-high-tfda-pa-backlinks-mix/
+
+
+
+
+
+
+
+
+
+
+http://www.str8-creative.io/unsubscribe/
+
+

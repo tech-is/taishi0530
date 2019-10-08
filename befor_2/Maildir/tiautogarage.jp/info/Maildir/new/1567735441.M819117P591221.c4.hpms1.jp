@@ -1,0 +1,165 @@
+Return-Path: <bounce-000077937-0005182363b179@manage3.sonicmail.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.9 required=6.0 tests=BAYES_00,DKIMWL_WL_MED,
+	DKIM_SIGNED,DKIM_VALID,FORGED_SPF_HELO,SPF_HELO_PASS,URIBL_BLOCKED
+	autolearn=no autolearn_force=no version=3.4.0
+Received: (qmail 591217 invoked by uid 89); 6 Sep 2019 11:03:51 +0900
+Received: from delivery1.manage3.sonicmail.jp (HELO manage3.sonicmail.jp) (203.133.232.168)
+  by c4.hpms1.jp with SMTP; 6 Sep 2019 11:03:51 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at spf.gao.ne.jp designates 203.133.232.168 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=dkim.cuenote.jp;
+	s=y174; t=1567735431; x=1568340231;
+	bh=AZiUUg47NpUqb48p0CBM+IRN+uACWTuxqwA3AHa8dk8=;
+	h=Date:From:Subject:To;
+	b=PLc12jr+PXk8fEFwN0SijljWq+OvpKk64L81r9q18JHT4FpM+Vbi18X1cSoR
+	 k2wOHw7H4CQzGDczU4teEiUi3iu5JZ5GWB7iLZuktGixLY0O7hBhNPWpg/82C
+	 DMAwKy0759fS1YJNewpzYyYwWiw9Ld7dRabfuhK+i/k0lJbWdM=
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=ISO-2022-JP
+Date: Fri, 06 Sep 2019 11:03:51 +0900
+Errors-To: bounce-000077937-0005182363b179@manage3.sonicmail.jp
+From: <magazine@hanshintigers.jp>
+Message-ID: <12fe9db3-2c1a-4b57-b730-cfb183fac820@manage3.sonicmail.jp>
+MIME-Version: 1.0
+Subject: =?ISO-2022-JP?B?GyRCNWVDRDh4PDAlYSVrJV4lLCFWGyhCV2Vla2x5IA==?=
+ =?ISO-2022-JP?B?GyRCJT8lJCUsITwlORsoQiEbJEIhVxsoQg==?=
+To: <info@tiautogarage.jp>
+X-Priority: 3
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25563/Thu Sep  5 17:24:28 2019
+
+------------------------------------------------------------
+　球団公式メルマガ「Weekly タイガース！」　 ＝2019/09/06＝
+　　　　　　　　　　　　　　　　　　　　発行：阪神タイガース
+------------------------------------------------------------
+
+今日から敵地で広島と3連戦です。
+クライマックスシリーズ出場のためにも、3連勝を決めたいですね！
+
+
+【目次】
+------------------------------------------------------------
+★ タイガース最新情報
+------------------------------------------------------------
+★ イベントのお知らせ
+------------------------------------------------------------
+★ チケットのお知らせ
+------------------------------------------------------------
+★ グッズショップからのお知らせ
+------------------------------------------------------------
+★ 公式ファンクラブからのお知らせ
+------------------------------------------------------------
+★ 公式モバイルサイトからのお知らせ
+------------------------------------------------------------
+
+
+◆◆◆ファンクラブ会員様へお得な情報！提携施設のご案内◆◆◆
+2019年度公式ファンクラブ・ファンクラブKIDS会員様へお得な情報！
+提携施設のご案内です。Joshinの店舗で1回2,000円以上お買い上げの方に、
+ファンクラブ会員証のご提示でジョーシンポイント200ポイントをプレゼント！
+http://hanshintigers.jp/rd/2608/
+
+
+◆◇◆球団ニュース◆◇◆
+・「伝統の一戦　人文字イベント」開催！(8/31)
+http://hanshintigers.jp/rd/2940/
+
+・月刊タイガース9月号、本日発売！(9/2)
+http://hanshintigers.jp/rd/2941/
+
+・2019年 “甲子園キッチンカー祭” 開催のお知らせ(9/2)
+http://hanshintigers.jp/rd/2942/
+
+・近本光司選手球団新人最多安打記念グッズ発売(9/5)
+http://hanshintigers.jp/rd/2945/
+
+その他の球団ニュースはこちらから！
+http://hanshintigers.jp/rd/359/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆試合情報◆◇◆
+9/6(金)対 広島 (マツダ) 18:00
+9/7(土)対 広島 (マツダ) 14:00
+9/8(日)対 広島 (マツダ) 13:30
+9/10(火)対 東京ヤクルト (甲子園) 18:00
+9/11(水)対 東京ヤクルト (甲子園) 18:00
+9/12(木)対 東京ヤクルト (甲子園) 18:00
+
+試合結果・今後の試合日程はこちらから
+http://hanshintigers.jp/rd/2619/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆イベント◆◇◆
+2019年フードイベント「祭シリーズ」の締めくくりとして、
+9/10(火)〜12(木)、18(水)対ヤクルト戦、21(土)対広島戦、22(日)対DeNA戦で
+「甲子園 キッチンカー祭」を開催します。
+全国から選りすぐりのキッチンカーが多数集結！ご来場お待ちしております。
+http://hanshintigers.jp/rd/2942/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆チケット◆◇◆
+9/19(木)対ヤクルト戦、24(火)対巨人戦のガンプラ付きチケット、ただいま好評販売中です！
+http://hanshintigers.jp/rd/2932/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆グッズショップ◆◇◆
+■T-SHOP
+--------------------------------------------
+六甲ビール いきがりタイガースバージョン好評発売中！
+--------------------------------------------
+http://hanshintigers.jp/rd/2943/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式ファンクラブ◆◇◆
+★2020年度公式ファンクラブ会員募集中！★
+ただいま、球団公式ファンクラブでは2020年度の会員を募集中です！
+料金そのままにプランを充実させて、皆様の入会をお待ちしております！
+↓詳しくはこちら↓
+http://hanshintigers.jp/rd/2944/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式モバイルサイト◆◇◆
+公式モバイルサイトでは、7/21(日)の対ヤクルト戦で配布いたしました「虎フェス♪ハット」を
+抽選で200名様にプレゼント！
+応募締め切りは9/12(木)23:59まで。
+http://hanshintigers.jp/rd/2931/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆SNS◆◇◆
+タイガースの最新情報をイチ早くキャッチ！
+・Facebook   http://hanshintigers.jp/rd/907/
+
+・Twitter    http://hanshintigers.jp/rd/908/
+
+
+---阪神タイガースオフィシャルスポンサー---------------------
+
+Joshin
+http://hanshintigers.jp/rd/369/
+
+ミズノ
+http://hanshintigers.jp/rd/370/
+
+ローソン
+http://hanshintigers.jp/rd/371/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+※このメールマガジンの購読は無料です。
+※配信予定 ： 定期配信（毎週1回金曜予定） ＋ スポット配信（不定期）
+※このメールは返信できません。
+
+配信停止はこちら↓
+http://hanshintigers.jp/rd/372/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Copyright(C) HANSHIN Tigers. All Rights Reserved.
+

@@ -1,0 +1,180 @@
+Return-Path: <bounce-000078260-00051894b9854b@manage3.sonicmail.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.9 required=6.0 tests=BAYES_00,DKIMWL_WL_MED,
+	DKIM_SIGNED,DKIM_VALID,FORGED_SPF_HELO,SPF_HELO_PASS,URIBL_BLOCKED
+	autolearn=no autolearn_force=no version=3.4.0
+Received: (qmail 195687 invoked by uid 89); 13 Sep 2019 11:35:22 +0900
+Received: from delivery2.manage3.sonicmail.jp (HELO manage3.sonicmail.jp) (203.133.232.169)
+  by c4.hpms1.jp with SMTP; 13 Sep 2019 11:35:22 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at spf.gao.ne.jp designates 203.133.232.169 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=dkim.cuenote.jp;
+	s=y174; t=1568342122; x=1568946922;
+	bh=iFFSMWI0a0pGYCeygeaUv/B4v6oWVSr5cmGsL10L8Sw=;
+	h=Date:From:Subject:To;
+	b=B5dYlkiHSUXwvBWIz4cLFkRYBKRvOj3df7LwcmvitIHQ7FTaGilwZX7+nM+1
+	 x2K0sHGd6KgBv+LdwPikGvkNQE+rxv7MkxTN6InOozYtPmUZ2xPU8rhx8lEKo
+	 5o0pzMFzu1fM5A2XGWFJjKbUubZx5duRDUFLWgAe/sw4GsE/VI=
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=ISO-2022-JP
+Date: Fri, 13 Sep 2019 11:35:22 +0900
+Errors-To: bounce-000078260-00051894b9854b@manage3.sonicmail.jp
+From: <magazine@hanshintigers.jp>
+Message-ID: <5d7b9451-dc71-420d-b9e5-d7bbdb8bb810@manage3.sonicmail.jp>
+MIME-Version: 1.0
+Subject: =?ISO-2022-JP?B?GyRCNWVDRDh4PDAlYSVrJV4lLCFWGyhCV2Vla2x5IA==?=
+ =?ISO-2022-JP?B?GyRCJT8lJCUsITwlORsoQiEbJEIhVxsoQg==?=
+To: <info@tiautogarage.jp>
+X-Priority: 3
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25570/Thu Sep 12 17:22:52 2019
+
+------------------------------------------------------------
+　球団公式メルマガ「Weekly タイガース！」　 ＝2019/09/13＝
+　　　　　　　　　　　　　　　　　　　　発行：阪神タイガース
+------------------------------------------------------------
+
+今日から敵地で中日・巨人との連戦が続きます。
+上位を狙うため、一戦必勝でいきたいですね！
+
+
+【目次】
+------------------------------------------------------------
+★ タイガース最新情報
+------------------------------------------------------------
+★ イベントのお知らせ
+------------------------------------------------------------
+★ チケットのお知らせ
+------------------------------------------------------------
+★ グッズショップからのお知らせ
+------------------------------------------------------------
+★ 公式ファンクラブからのお知らせ
+------------------------------------------------------------
+★ 公式モバイルサイトからのお知らせ
+------------------------------------------------------------
+
+
+◆◆◆ファンクラブ会員様へお得な情報！提携施設のご案内◆◆◆
+2019年度公式ファンクラブ・ファンクラブKIDS会員様へお得な情報！
+提携施設のご案内です。Joshinの店舗で1回2,000円以上お買い上げの方に、
+ファンクラブ会員証のご提示でジョーシンポイント200ポイントをプレゼント！
+http://hanshintigers.jp/rd/2608/
+
+
+◆「虎魂(KODAMA)9月は福留選手」◆
+常に理想を追い求めて<前半>を配信！
+20年以上安打を積み重ねながらも、”足りない”とバットを振る福留選手の思いとは。
+http://hanshintigers.jp/rd/2960/
+
+
+◆◇◆球団ニュース◆◇◆
+・虎テレ「第16回みやざきフェニックス・リーグ」タイガース戦ライブ配信決定！(9/9)
+http://hanshintigers.jp/rd/2950/
+
+・8/27・29中日戦(雨天中止)の振替日程について(9/9)
+http://hanshintigers.jp/rd/2951/
+
+・ 外国人選手の契約解除並びに帰国について(9/9)
+http://hanshintigers.jp/rd/2952/
+
+・セリーグ公式戦追加日程の入場券発売について(9/10)
+http://hanshintigers.jp/rd/2953/
+
+・9/22(日)、ファーストピッチセレモニーに
+次期NHK連続テレビ小説「スカーレット」ヒロイン・川原喜美子役　戸田恵梨香さんが登場！(9/11)
+http://hanshintigers.jp/rd/2954/
+
+・「2020年阪神タイガース年間予約席」の新規資料請求受付開始について(9/11)
+http://hanshintigers.jp/rd/2955/
+
+・球団選定8月度月間最優秀選手に島本選手(9/11)
+http://hanshintigers.jp/rd/2956/
+
+その他の球団ニュースはこちらから！
+http://hanshintigers.jp/rd/359/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆試合情報◆◇◆
+9/13(金)対 中日 (ナゴヤD) 18:00
+9/14(土)対 中日 (ナゴヤD) 14:00
+9/15(日)対 巨人 (東京D) 14:00
+9/16(月・祝)対 巨人 (東京D) 14:00
+9/18(水)対 東京ヤクルト (甲子園) 18:00
+9/19(木)対 東京ヤクルト (甲子園) 18:00
+
+試合結果・今後の試合日程はこちらから
+http://hanshintigers.jp/rd/2619/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆イベント◆◇◆
+2019年フードイベント「祭シリーズ」の締めくくりとして、
+9/18(水)対ヤクルト戦、21(土)対広島戦、22(日)対DeNA戦で「甲子園 キッチンカー祭」を開催します。
+全国から選りすぐりのキッチンカーが多数集結！ご来場お待ちしております。
+http://hanshintigers.jp/rd/2942/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆チケット◆◇◆
+9/29(日)、30(月)の対中日戦（甲子園）のチケットを本日より電話・インターネットで販売！
+店舗は明日14日(土)より販売いたします。
+http://hanshintigers.jp/rd/2953/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆グッズショップ◆◇◆
+■T-SHOP
+--------------------------------------------
+近本選手球団新人最多安打記念グッズただいま好評発売中
+--------------------------------------------
+http://hanshintigers.jp/rd/2957/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式ファンクラブ◆◇◆
+★2020年度公式ファンクラブ会員募集中！★
+球団公式ファンクラブでは2020年度の会員を絶賛募集中です！
+内容がパワーアップした20年度の紹介キャンペーンは、10/3(木)まで!!
+お誘いあわせの上、皆様のご入会をお待ちしております！
+↓詳しくはこちら↓
+http://hanshintigers.jp/rd/2958/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式モバイルサイト◆◇◆
+公式モバイルサイトでは、「平田ファーム監督の若トラ日記」など、充実のコラムを配信中です！
+http://hanshintigers.jp/rd/2959/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆SNS◆◇◆
+タイガースの最新情報をイチ早くキャッチ！
+・Facebook   http://hanshintigers.jp/rd/907/
+
+・Twitter    http://hanshintigers.jp/rd/908/
+
+
+---阪神タイガースオフィシャルスポンサー---------------------
+
+Joshin
+http://hanshintigers.jp/rd/369/
+
+ミズノ
+http://hanshintigers.jp/rd/370/
+
+ローソン
+http://hanshintigers.jp/rd/371/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+※このメールマガジンの購読は無料です。
+※配信予定 ： 定期配信（毎週1回金曜予定） ＋ スポット配信（不定期）
+※このメールは返信できません。
+
+配信停止はこちら↓
+http://hanshintigers.jp/rd/372/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Copyright(C) HANSHIN Tigers. All Rights Reserved.
+

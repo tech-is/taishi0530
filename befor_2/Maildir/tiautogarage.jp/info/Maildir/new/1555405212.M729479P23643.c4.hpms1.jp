@@ -1,0 +1,105 @@
+Return-Path: <spiral-error-fced03940f0c405ca07809a863faa3f7@rcv26.smp.ne.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,URIBL_BLOCKED autolearn=ham autolearn_force=no version=3.4.0
+Received: (qmail 23639 invoked by uid 89); 16 Apr 2019 18:00:02 +0900
+Received: from agent2603.smp.ne.jp (59.106.4.42)
+  by c4.hpms1.jp with AES256-GCM-SHA384 encrypted SMTP; 16 Apr 2019 18:00:02 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at smp.ne.jp designates 59.106.4.42 as permitted sender)
+Received: (qmail 11873 invoked by uid 200); 16 Apr 2019 18:00:02 +0900
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=n01.smp.ne.jp;
+	s=D20180423-spiral; t=1555405202;
+	bh=bs/9VABzUN8X4miDnoGI9ADhrUMuTbRFYE1hsPBxkAo=;
+	h=Message-Id:Date:From:Subject:To:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=WJTVefK91p9fijN33Pe4p4rjZ4LXWXHi5e2BegI6GDwVu1zQikSD6hLIVIIhe2Uqd
+	 4RPmQnSamTqbpTnfSiRD8XAai5UZKKsrqIIDPfXvOZk2FrIMON7+ow395uolOzmy2t
+	 9DViCW/NlC2j8JnseSDHYpeOfkRrTEJNzaneLk5bY+ixpnFAqWeuD7DmnxKGQwP9io
+	 SyfvG6Q2XvJqGISad7hTknRiWUv2tktHkI6s+I+ZNJZrEQBp/XINFWOB6X+PK9oIS+
+	 9NHgYTSVzPUfgXqo3iCEaGQl0gUglJxKBLwXaeYodZT0whS9M6jQ2TtxfbYfJk4S4F
+	 aYFXRzXPkYF6A==
+Message-Id: <SMP606_596143_53.1555405202@agent2603.smp.ne.jp>
+Date: Tue, 16 Apr 2019 18:00:02 +0900
+From: IT=?iso-2022-jp?B?GyRCRjNGfjtZMWc7djZIPz1AQUJlOVQlQSE8JWAbKEI=?= <find-a@gmo-sol.jp>
+Subject: =?iso-2022-jp?B?GyRCIVpKP0AuGyhCMjkbJEJHL0VZGyhCSVQbJEJGM0Z+SmQbKEI=?=
+ =?iso-2022-jp?B?GyRCPXU2YiFbOHoyTEpzOXAkSyREJCQkRhsoQg==?=
+To: info@tiautogarage.jp
+User-Agent: Spiral/1.12; Messaging Agent
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25421/Tue Apr 16 16:57:17 2019
+
+TI　AUTO　GARAGE　御中
+
+いつも大変お世話になっております。
+GMOソリューションパートナー株式会社 
+IT導入補助金サポートチームでございます。
+
+IT導入補助金の事業実績効果報告についてご連絡いたしました。
+
+効果報告は申請マイページにログインし、お客様に数値などの
+入力をしていただく必要がございます。
+ご協力のほど、どうぞよろしくお願いいたします。
+
+ご入力いただく項目は下記となります。
+売上、原価、従業員数、1人当たりの年間労働時間
+集計対象期間：2018年4月31日〜2019年3月31日
+　※決算期等の関係上、実績値の集計・算出が難しい場合、実績値が
+　　集計できる任意の1年間、あるいは直近の実績値から予測できる
+　　概算値にて、報告を行ってください。
+　報告操作画面や注意点等につきましては、下記URLをご確認ください.
+　URL:https://gmo-sol.jp/doc/it-hojo/h29_report/index.html?utm_medium=email&utm_source=KS29-0006218
+---------------------報告方法---------------------
+
+マイページ　ログイン画面
+https://portal.it-hojo.jp/mypage
+
+1.上記URLにアクセスし、マイページ開設時に作成いただいたIDと
+　パスワードを入力してログイン。
+2.左上の「申請者メニュー」をクリックし、表示される「効果報告詳細」を
+　クリック。
+3.「宣誓事項」にチェック。
+4.「実績入力画面へ」をクリック。
+5.下へスクロールし、黄色で表示されている項目へ「実績数値」を入力。
+　※決算期等の関係上、実績値の集計・算出が難しい場合、
+　　実績値が集計できる任意の１年間、
+　　あるいは直近の実績値から予想できる概算値の入力をお願いいたします。
+6.下へスクロールし、【独自指標】内の「実績数値」へ数値を入力。
+独自指標の数値は「14」でございます。
+7.「ITツール導入によって実現した効果」へのご記入は任意となります。
+8.右下にある「確認ボタン」をクリック。
+9.確認画面が表示されます。
+　一番下までスクロールし、【IT導入支援事業者に提出を依頼】をクリック。
+
+--------------------------------------------------
+
+不明点等ございましたら、
+当社補助金サポートチーム（0120-32-0510　ガイダンス1番）
+までご連絡ください。
+
+お手数をおかけいたしますが、
+何卒宜しくお願い申し上げます。
+
+―――――――――――――――――――――――――――― 
+◇　　　　　IT導入支援事業申請代行チーム　　　　　　 ◇ 
+―――――――――――――――――――――――――――― 
+　フリーダイヤル ：0120-32-0510　(平日10：00〜18：00) 
+　E-mail　　　　 ：find-a@gmo-sol.jp 
+―――――――――――――――――――――――――――― 
+◇　　　 GMOソリューションパートナー株式会社　　　 ◇ 
+―――――――――――――――――――――――――――― 
+　　 おかげさまで23周年　すべての人にインターネット 
+　　　　 当社は東証一部上場GMOインターネット
+　　　　（証券コード9449）のグループ企業です。　　
+　          　  ■ GMO INTERNET GROUP　■　 
+                  　https://www.gmo.jp/ 
+―――――――――――――――――――――――――――― 
+機密情報に関する注意事項：このE-mailは、発信者が意図した 
+受信者のみが利用することを意図したものです。万が一、 
+貴殿がこのE-mailの発信者が意図した受信者でない場合には、 
+直ちに送信者へ の連絡とこのE-mailを破棄願います。
+

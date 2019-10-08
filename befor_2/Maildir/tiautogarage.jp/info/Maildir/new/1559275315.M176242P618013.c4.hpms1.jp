@@ -1,0 +1,182 @@
+Return-Path: <bounce-000073315-0005084638d6aa@manage3.sonicmail.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,SPF_HELO_PASS,T_DKIMWL_WL_MED,URIBL_BLOCKED autolearn=ham
+	autolearn_force=no version=3.4.0
+Received: (qmail 618009 invoked by uid 89); 31 May 2019 13:01:45 +0900
+Received: from delivery5.manage3.sonicmail.jp (HELO manage3.sonicmail.jp) (203.133.232.172)
+  by c4.hpms1.jp with SMTP; 31 May 2019 13:01:45 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at spf.gao.ne.jp designates 203.133.232.172 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=dkim.cuenote.jp;
+	s=y174; t=1559275305; x=1559880105;
+	bh=WqFKZ6f5OmUzKQ3e1cyeNTaypyourUsUj1DoskpSuQ4=;
+	h=Date:From:Subject:To;
+	b=AyJF2+AgGWrRfBhTgvBG7kasBaoN1dZADxKI2HFjB7hH0VJlybgjcK7DCE6/
+	 oOfKdarTW1pFdvXVebzGkBMiHFnWypCYsSTXMUWL33L3v2bdW8Gk6uEpXvHvF
+	 UyKNs3Z63EIH/+HX8yY/3qy259AIrs7MlbwslXg2+Dz5Gjf8jU=
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=ISO-2022-JP
+Date: Fri, 31 May 2019 13:01:45 +0900
+Errors-To: bounce-000073315-0005084638d6aa@manage3.sonicmail.jp
+From: <magazine@hanshintigers.jp>
+Message-ID: <10bfa2e5-7241-490d-94a8-93792d2a943d@manage3.sonicmail.jp>
+MIME-Version: 1.0
+Subject: =?ISO-2022-JP?B?GyRCNWVDRDh4PDAlYSVrJV4lLCFWGyhCV2Vla2x5IA==?=
+ =?ISO-2022-JP?B?GyRCJT8lJCUsITwlORsoQiEbJEIhVxsoQg==?=
+To: <info@tiautogarage.jp>
+X-Priority: 3
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25465/Thu May 30 16:58:26 2019
+
+------------------------------------------------------------
+　球団公式メルマガ「Weekly タイガース！」　 ＝2019/05/31＝
+　　　　　　　　　　　　　　　　　　　　発行：阪神タイガース
+------------------------------------------------------------
+
+セ・パ交流戦前最後の3連戦は、敵地で広島東洋カープと対戦です。
+3連勝と勢いをつけて交流戦に臨みたいですね！
+
+
+【目次】
+------------------------------------------------------------
+★ タイガース最新情報
+------------------------------------------------------------
+★ イベントのお知らせ
+------------------------------------------------------------
+★ チケットのお知らせ
+------------------------------------------------------------
+★ グッズショップからのお知らせ
+------------------------------------------------------------
+★ 公式ファンクラブからのお知らせ
+------------------------------------------------------------
+★ 公式モバイルサイトからのお知らせ
+------------------------------------------------------------
+
+
+◆◆◆ファンクラブ会員様へお得な情報！提携施設のご案内◆◆◆
+2019年度公式ファンクラブ・ファンクラブKIDS会員様へお得な情報！
+提携施設のご案内です。Joshinの店舗で1回2,000円以上お買い上げの方に、
+ファンクラブ会員証のご提示でジョーシンポイント200ポイントをプレゼント！
+http://hanshintigers.jp/rd/2608/
+
+
+◆☆★無料カードコレクションアプリ！虎スピ登場！★☆◆
+あの試合の思い出がよみがえる感動の名シーンをカードに収録。
+試合結果と連動し、報酬が貰えるから応援がもっと楽しくなる！
+今なら虎スピ限定の鳥谷選手のスペシャルカードをプレゼント！
+↓↓↓基本無料で遊べる！虎スピを今すぐダウンロード↓↓↓
+http://hanshintigers.jp/rd/2736/
+
+
+◆「虎魂(KODAMA)5月は能見選手」◆
+男40歳、すべてはチームのため＜後半＞を配信！
+優勝した2005年をルーキーとして過ごした能見選手が、今の若手に思うこととは。
+http://hanshintigers.jp/rd/2735/
+
+
+◆◇◆球団ニュース◆◇◆
+・第2戦は甲子園で開催!「マイナビオールスターゲーム2019」ファン投票受付中!(5/24)
+http://hanshintigers.jp/rd/2742/
+
+・ミニ色紙を集める大チャンス”お得なスタンプ２倍キャンペーン開催！(5/24)
+http://hanshintigers.jp/rd/2743/
+
+・「虎フェス♪」イベント開催のご案内(5/27)
+http://hanshintigers.jp/rd/2744/
+
+・6月の壁紙カレンダーを更新！6月は近本選手、木浪選手が登場！(5/27)
+http://hanshintigers.jp/rd/2745/
+
+・大山選手・ジョンソン選手とのコラボメニューが登場！(5/27)
+http://hanshintigers.jp/rd/2746/
+
+その他の球団ニュースはこちらから！
+http://hanshintigers.jp/rd/359/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆試合情報◆◇◆
+5/31(金)対 広島東洋 (マツダ) 18:00
+6/1(土)対 広島東洋 (マツダ) 14:00
+6/2(日)対 広島東洋 (マツダ) 13:30
+6/4(火)対 千葉ロッテ (ZOZOマリン) 18:15
+6/5(水)対 千葉ロッテ (ZOZOマリン) 18:15
+6/6(木)対 千葉ロッテ (ZOZOマリン) 18:15
+
+試合結果・今後の試合日程はこちらから
+http://hanshintigers.jp/rd/2619/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆イベント◆◇◆
+7/21(日)対ヤクルト戦では「虎フェス♪」を開催！
+「虎フェス♪ハット」プレゼントのほか、石井竜也さん（米米CLUB）と
+マークパンサーさん（globe）も来場し、球場を盛り上げます！
+http://hanshintigers.jp/rd/2744/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆チケット◆◇◆
+阪神甲子園球場で主催するセ・パ交流戦のチケットをただいま絶賛販売中です！
+チケットのご購入はお早めに！
+http://hanshintigers.jp/rd/2733/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆グッズショップ◆◇◆
+■T-SHOP
+--------------------------------------------
+夏を楽しむ限定グッズがぞくぞく登場！サマーカタログ発刊！！
+--------------------------------------------
+http://hanshintigers.jp/rd/2748/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式ファンクラブ◆◇◆
+★本日5/31(金)23:00締切！！★
+2019年度ファンクラブ会員の追加募集は
+本日5/31(金)23:00まで！
+http://hanshintigers.jp/rd/2749/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式モバイルサイト◆◇◆
+公式モバイルサイトでは、4/14(日)のキャッププレゼントデーで配布いたしました
+レザー調キャップを抽選で200名様にプレゼント！
+モバイル会員様限定企画となっておりますので、まだご入会いただいていない方はぜひご入会ください！
+応募締切は6/3(月)23時59分まで。
+http://hanshintigers.jp/rd/2723/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆SNS◆◇◆
+タイガースの最新情報をイチ早くキャッチ！
+・Facebook   http://hanshintigers.jp/rd/907/
+
+・Twitter    http://hanshintigers.jp/rd/908/
+
+
+---阪神タイガースオフィシャルスポンサー---------------------
+
+Joshin
+http://hanshintigers.jp/rd/369/
+
+ミズノ
+http://hanshintigers.jp/rd/370/
+
+ローソン
+http://hanshintigers.jp/rd/371/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+※このメールマガジンの購読は無料です。
+※配信予定 ： 定期配信（毎週1回金曜予定） ＋ スポット配信（不定期）
+※このメールは返信できません。
+
+配信停止はこちら↓
+http://hanshintigers.jp/rd/372/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Copyright(C) HANSHIN Tigers. All Rights Reserved.
+

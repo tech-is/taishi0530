@@ -1,0 +1,171 @@
+Return-Path: <bounce-000074076-00051120140c56@manage3.sonicmail.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=6.0 tests=BAYES_00,DKIMWL_WL_MED,
+	DKIM_SIGNED,DKIM_VALID,SPF_HELO_PASS,URIBL_BLOCKED autolearn=ham
+	autolearn_force=no version=3.4.0
+Received: (qmail 900571 invoked by uid 89); 14 Jun 2019 11:34:23 +0900
+Received: from delivery7.manage3.sonicmail.jp (HELO manage3.sonicmail.jp) (203.133.232.174)
+  by c4.hpms1.jp with SMTP; 14 Jun 2019 11:34:23 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at spf.gao.ne.jp designates 203.133.232.174 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=dkim.cuenote.jp;
+	s=y174; t=1560479663; x=1561084463;
+	bh=nEFQburq7TTiBQ+6s/Wd+HU/qXCxatwyXgWHaElAEYU=;
+	h=Date:From:Subject:To;
+	b=aRwJ8nQXCe29GR0johgy6TMaHcl0h/Uu31PStU8AGA5iF5WMOcQQgp6AkznY
+	 LA/n2Mu1dJSXgHSWsxfMiys35pPLfYydHTInqpPh+NCvrXn2S4TpG+0ePnPTp
+	 ZQ70tKpdw1Kvb4ZaQr8fwgHKg6WCdfKcNC1kPb0lSv8MTFTl/w=
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=ISO-2022-JP
+Date: Fri, 14 Jun 2019 11:34:23 +0900
+Errors-To: bounce-000074076-00051120140c56@manage3.sonicmail.jp
+From: <magazine@hanshintigers.jp>
+Message-ID: <e2e134bd-4ada-45b2-88b4-ff6c1da49505@manage3.sonicmail.jp>
+MIME-Version: 1.0
+Subject: =?ISO-2022-JP?B?GyRCNWVDRDh4PDAlYSVrJV4lLCFWGyhCV2Vla2x5IA==?=
+ =?ISO-2022-JP?B?GyRCJT8lJCUsITwlORsoQiEbJEIhVxsoQg==?=
+To: <info@tiautogarage.jp>
+X-Priority: 3
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25479/Thu Jun 13 17:12:53 2019
+
+------------------------------------------------------------
+　球団公式メルマガ「Weekly タイガース！」　 ＝2019/06/14＝
+　　　　　　　　　　　　　　　　　　　　発行：阪神タイガース
+------------------------------------------------------------
+
+今年のセ・パ交流戦、早くも今日で折り返しとなりました。
+今日からは、京セラドーム大阪でオリックスとの関西対決です！
+
+
+【目次】
+------------------------------------------------------------
+★ タイガース最新情報
+------------------------------------------------------------
+★ イベントのお知らせ
+------------------------------------------------------------
+★ チケットのお知らせ
+------------------------------------------------------------
+★ グッズショップからのお知らせ
+------------------------------------------------------------
+★ 公式ファンクラブからのお知らせ
+------------------------------------------------------------
+★ 公式モバイルサイトからのお知らせ
+------------------------------------------------------------
+
+
+◆◆◆ファンクラブ会員様へお得な情報！提携施設のご案内◆◆◆
+2019年度公式ファンクラブ・ファンクラブKIDS会員様へお得な情報！
+提携施設のご案内です。Joshinの店舗で1回2,000円以上お買い上げの方に、
+ファンクラブ会員証のご提示でジョーシンポイント200ポイントをプレゼント！
+http://hanshintigers.jp/rd/2608/
+
+
+◆「虎魂(KODAMA)6月は大山選手」◆
+信頼される存在になるために＜前半＞を配信！
+重責に負けることなく、開幕から4番を打ち続けている大山選手の思いとは。
+http://hanshintigers.jp/rd/2770/
+
+
+◆◇◆球団ニュース◆◇◆
+・球団選定5月度月間最優秀選手にピアース・ジョンソン選手(6/7)
+http://hanshintigers.jp/rd/2764/
+
+・8/30(金)「伝統の一戦リバーシブルタオル」プレゼント・「伝統の一戦人文字イベント」開催！(6/10)
+http://hanshintigers.jp/rd/2765/
+
+・“甲子園 肉祭” 開催のお知らせ(6/10)
+http://hanshintigers.jp/rd/2766/
+
+その他の球団ニュースはこちらから！
+http://hanshintigers.jp/rd/359/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆試合情報◆◇◆
+6/14(金)対 オリックス (京セラD) 18:00
+6/15(土)対 オリックス (京セラD) 18:00
+6/16(日)対 オリックス (京セラD) 14:00
+6/18(火)対 東北楽天 (倉敷) 18:00
+6/19(水)対 東北楽天 (甲子園) 18:00
+6/20(木)対 東北楽天 (甲子園) 18:00
+
+試合結果・今後の試合日程はこちらから
+http://hanshintigers.jp/rd/2619/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆イベント◆◇◆
+フードイベント第3弾として、甲子園球場ミズノスクエアにて
+「甲子園 肉祭」を6/21(金)〜23(日)の対西武戦で開催！
+肉料理をメインとした名店が出店するほか、22日(土)には
+「2019年甲子園グルメ大使」のNMB48の川上千尋さん、山本彩加さんがステージに登場します！
+http://hanshintigers.jp/rd/2766/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆チケット◆◇◆
+5/28(火)対巨人戦の雨天中止に伴い、来場者プレゼントとして予定しておりました
+「伝統の一戦リバーシブルタオル」のプレゼントと「人文字イベント」を
+8/30(金)の対巨人戦にて実施します。
+チケットは6/27(木)10時から発売予定です。
+http://hanshintigers.jp/rd/2765/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆グッズショップ◆◇◆
+■T-SHOP
+--------------------------------------------
+はずれなし！デジタルくじ第2弾は6/23(日)まで！！
+--------------------------------------------
+http://hanshintigers.jp/rd/2767/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式ファンクラブ◆◇◆
+★「マイナビオールスターゲーム2019 第2戦」ファンクラブ先行抽選受付について★
+7/13(土)に阪神甲子園球場で開催されます「マイナビオールスター2019 第2戦」の
+ファンクラブ先行抽選受付を6/19(水)12:00より開始いたします。
+↓詳しくはこちら↓
+http://hanshintigers.jp/rd/2768/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式モバイルサイト◆◇◆
+公式モバイルサイトでは、隔週木曜日に「平田フォーム監督の若トラ通信」を連載中！
+平田監督自ら、ファームの注目選手やチーム状況について語ります。
+ファン必見の内容！ぜひご覧ください。
+http://hanshintigers.jp/rd/2769/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆SNS◆◇◆
+タイガースの最新情報をイチ早くキャッチ！
+・Facebook   http://hanshintigers.jp/rd/907/
+
+・Twitter    http://hanshintigers.jp/rd/908/
+
+
+---阪神タイガースオフィシャルスポンサー---------------------
+
+Joshin
+http://hanshintigers.jp/rd/369/
+
+ミズノ
+http://hanshintigers.jp/rd/370/
+
+ローソン
+http://hanshintigers.jp/rd/371/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+※このメールマガジンの購読は無料です。
+※配信予定 ： 定期配信（毎週1回金曜予定） ＋ スポット配信（不定期）
+※このメールは返信できません。
+
+配信停止はこちら↓
+http://hanshintigers.jp/rd/372/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Copyright(C) HANSHIN Tigers. All Rights Reserved.
+

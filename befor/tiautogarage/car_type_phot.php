@@ -1,0 +1,35 @@
+<?php
+    //国産車の配列を作る
+    $domes = array(
+        "https://www.unite-carlife.com/img/price/img_lexus.jpg",
+        "https://www.unite-carlife.com/img/price/img_toyota.jpg",
+        "https://www.unite-carlife.com/img/price/img_nissan.jpg",
+        "https://www.unite-carlife.com/img/price/img_honda.jpg",
+        "https://www.unite-carlife.com/img/price/img_mazda.jpg",
+        "https://www.unite-carlife.com/img/price/img_mitsubishi.jpg",
+        "https://www.unite-carlife.com/img/price/img_subaru.jpg",
+        "https://www.unite-carlife.com/img/price/img_suzuki.jpg",
+        // 外車
+        "https://www.unite-carlife.com/img/price/img_benz.jpg",
+        "https://www.unite-carlife.com/img/price/img_bmw.jpg",
+        "https://www.unite-carlife.com/img/price/img_audi.jpg",
+        "https://www.unite-carlife.com/img/price/img_wagen.jpg",
+        "https://www.unite-carlife.com/img/price/img_porche.jpg",
+        "https://www.unite-carlife.com/img/price/img_peugeot.jpg",
+        "https://www.unite-carlife.com/img/price/img_renault.jpg",
+        "https://www.unite-carlife.com/img/price/img_citroen.jpg",
+        "https://www.unite-carlife.com/img/price/img_rover.jpg",
+        "https://www.unite-carlife.com/img/price/img_jaguar.jpg",
+        "https://www.unite-carlife.com/img/price/img_fiat.jpg",
+        "https://www.unite-carlife.com/wp/wp-content/uploads/2019/06/img_abarth.jpg",
+        "https://www.unite-carlife.com/img/price/img_alfa.jpg",
+        "https://www.unite-carlife.com/img/price/img_saab.jpg",
+        "https://www.unite-carlife.com/img/price/img_volvo.jpg",
+        "https://www.unite-carlife.com/img/price/img_chevrolet.jpg",
+        "https://www.unite-carlife.com/img/price/img_ford.jpg",
+        "https://www.unite-carlife.com/img/price/img_caderac.jpg",
+        "https://www.unite-carlife.com/img/price/img_jeep.jpg",
+        "https://www.unite-carlife.com/img/price/img_teslamotors.jpg",
+        "https://www.unite-carlife.com/img/price/img_maserati.jpg"
+    );
+?>

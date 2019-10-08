@@ -1,0 +1,183 @@
+Return-Path: <bounce-000076358-000516647d1810@manage3.sonicmail.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=6.0 tests=BAYES_00,DKIMWL_WL_MED,
+	DKIM_SIGNED,DKIM_VALID,SPF_HELO_PASS,URIBL_BLOCKED autolearn=ham
+	autolearn_force=no version=3.4.0
+Received: (qmail 1013013 invoked by uid 89); 2 Aug 2019 11:31:32 +0900
+Received: from delivery5.manage3.sonicmail.jp (HELO manage3.sonicmail.jp) (203.133.232.172)
+  by c4.hpms1.jp with SMTP; 2 Aug 2019 11:31:32 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at spf.gao.ne.jp designates 203.133.232.172 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=dkim.cuenote.jp;
+	s=y174; t=1564713092; x=1565317892;
+	bh=yy7Pc4c/9e4PuJ0KUEXtHrVcXea+HN8xESOntjNIE4A=;
+	h=Date:From:Subject:To;
+	b=ci8mD7Vg2XhZ+fk2ajefJGMEACk7cXHid7n8sJrDtQZPRghngTjXcu4HOO0K
+	 aO5XcTjai54o9dJgfLeldHH1ySQqkmmZoBd1J6fkqJt8L2Mfe7S4H1WcmsYH3
+	 tmYCerindqeVt54EuwXpSFR3SZ+xn+xegqtxD181RPapVariWU=
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=ISO-2022-JP
+Date: Fri, 02 Aug 2019 11:31:32 +0900
+Errors-To: bounce-000076358-000516647d1810@manage3.sonicmail.jp
+From: <magazine@hanshintigers.jp>
+Message-ID: <61232911-37ed-41cc-baae-18cc25bec4c8@manage3.sonicmail.jp>
+MIME-Version: 1.0
+Subject: =?ISO-2022-JP?B?GyRCNWVDRDh4PDAlYSVrJV4lLCFWGyhCV2Vla2x5IA==?=
+ =?ISO-2022-JP?B?GyRCJT8lJCUsITwlORsoQiEbJEIhVxsoQg==?=
+To: <info@tiautogarage.jp>
+X-Priority: 3
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25527/Wed Jul 31 17:17:33 2019
+
+------------------------------------------------------------
+　球団公式メルマガ「Weekly タイガース！」　 ＝2019/08/02＝
+　　　　　　　　　　　　　　　　　　　　発行：阪神タイガース
+------------------------------------------------------------
+
+今日から本拠地甲子園を離れ、夏のロードに出ます。まずは広島との3連戦！
+新加入のソラーテ選手の敵地での活躍にも期待したいですね！
+
+
+【目次】
+------------------------------------------------------------
+★ タイガース最新情報
+------------------------------------------------------------
+★ イベントのお知らせ
+------------------------------------------------------------
+★ チケットのお知らせ
+------------------------------------------------------------
+★ グッズショップからのお知らせ
+------------------------------------------------------------
+★ 公式ファンクラブからのお知らせ
+------------------------------------------------------------
+★ 公式モバイルサイトからのお知らせ
+------------------------------------------------------------
+
+
+◆◆◆ファンクラブ会員様へお得な情報！提携施設のご案内◆◆◆
+2019年度公式ファンクラブ・ファンクラブKIDS会員様へお得な情報！
+提携施設のご案内です。Joshinの店舗で1回2,000円以上お買い上げの方に、
+ファンクラブ会員証のご提示でジョーシンポイント200ポイントをプレゼント！
+http://hanshintigers.jp/rd/2608/
+
+
+◆◇◆球団ニュース◆◇◆
+・【モバイル会員限定】「ウル虎の夏 2019」限定オリジナルジャージを抽選でプレゼント！(7/26)
+http://hanshintigers.jp/rd/2883/
+
+・福留孝介選手、公式戦通算1000得点記録達成！(7/28)
+http://hanshintigers.jp/rd/2884/
+
+・ベースボールスクール8月無料体験会追加開催のご案内 (7/29)
+http://hanshintigers.jp/rd/2885/
+
+・ダンススクール8月無料体験会追加開催のご案内（7/29）
+http://hanshintigers.jp/rd/2886/
+
+・【ふれあいイベント】幼稚園・保育所訪問二次募集開始！！(7/29)
+http://hanshintigers.jp/rd/2887/
+
+・片山雄哉選手との支配下選手契約締結について(7/30)
+http://hanshintigers.jp/rd/2888/
+
+・8/4(日)、姫路でウエスタン・リーグ公式戦開催(7/30)
+http://hanshintigers.jp/rd/2889/
+
+・球団公式戦通算8000号ホームラン達成(7/30)
+http://hanshintigers.jp/rd/2894/
+
+・月刊タイガース8月号、本日発売！(8/1)
+http://hanshintigers.jp/rd/2895/
+
+・阪神タイガース公式「LINE」スタンプ発売！ (8/2)
+http://hanshintigers.jp/rd/2890/
+
+その他の球団ニュースはこちらから！
+http://hanshintigers.jp/rd/359/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆試合情報◆◇◆
+8/2(金)対 広島東洋 (マツダ) 18:00
+8/3(土)対 広島東洋 (マツダ) 18:00
+8/4(日)対 広島東洋 (マツダ) 18:00
+8/6(火)対 東京ヤクルト (神宮) 18:00
+8/7(水)対 東京ヤクルト (神宮) 18:00
+8/8(木)対 東京ヤクルト (神宮) 18:00
+
+試合結果・今後の試合日程はこちらから
+http://hanshintigers.jp/rd/2619/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆イベント◆◇◆
+8/20(火)京セラD大阪で開催される対DeNA戦は、女性ファンが楽しめるイベント「TORACO DAY」を開催します！
+当日エントリー可能なイベントも多数ご用意。皆様の参加をお待ちしています！
+http://hanshintigers.jp/rd/2891/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆チケット◆◇◆
+8/22(木)京セラD大阪で開催される対DeNA戦はKIDSスペシャルデー！
+小学生以下のお子様入場者先着5,000名様にオリジナルKIDSリュックをプレゼント！
+http://hanshintigers.jp/rd/2848/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆グッズショップ◆◇◆
+■T-SHOP
+--------------------------------------------
+豪華景品が当たる！夏のロードでも応援よろしくキャンペーン実施中！！
+--------------------------------------------
+http://hanshintigers.jp/rd/2892/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式ファンクラブ◆◇◆
+★2020年度公式ファンクラブ会員募集中！★
+球団公式ファンクラブでは2020年度の会員を絶賛募集中です！
+20年度の紹介キャンペーンはライトプランの方も対象となり、
+内容もパワーアップして皆様のご入会をお待ちしております！
+↓詳しくはこちら↓
+http://hanshintigers.jp/rd/2893/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式モバイルサイト◆◇◆
+公式モバイルサイトでは、「ウル虎の夏 2019」で配布中の限定オリジナルジャージを
+モバイル会員様限定で抽選で200名様にプレゼント！
+奮ってご応募ください。締め切りは8/8(木)23:59まで。
+http://hanshintigers.jp/rd/2883/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆SNS◆◇◆
+タイガースの最新情報をイチ早くキャッチ！
+・Facebook   http://hanshintigers.jp/rd/907/
+
+・Twitter    http://hanshintigers.jp/rd/908/
+
+
+---阪神タイガースオフィシャルスポンサー---------------------
+
+Joshin
+http://hanshintigers.jp/rd/369/
+
+ミズノ
+http://hanshintigers.jp/rd/370/
+
+ローソン
+http://hanshintigers.jp/rd/371/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+※このメールマガジンの購読は無料です。
+※配信予定 ： 定期配信（毎週1回金曜予定） ＋ スポット配信（不定期）
+※このメールは返信できません。
+
+配信停止はこちら↓
+http://hanshintigers.jp/rd/372/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Copyright(C) HANSHIN Tigers. All Rights Reserved.
+

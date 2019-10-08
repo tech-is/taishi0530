@@ -1,0 +1,284 @@
+Return-Path: <bounce-25_HTML-698698589-365557-7229410-402227@bounce.e.ea.com>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.3 required=6.0 tests=BAYES_00,DKIMWL_WL_HIGH,
+	DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,MIME_HTML_ONLY,
+	URIBL_BLOCKED autolearn=no autolearn_force=no version=3.4.0
+Received: (qmail 507756 invoked by uid 89); 30 Apr 2019 10:19:30 +0900
+Received: from mta10.e.ea.com (136.147.183.215)
+  by c4.hpms1.jp with AES256-GCM-SHA384 encrypted SMTP; 30 Apr 2019 10:19:30 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at cust-spf.exacttarget.com designates 136.147.183.215 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=e.ea.com;
+ h=From:To:Subject:Date:MIME-Version:Reply-To:List-ID:Message-ID:Content-Type:
+ Content-Transfer-Encoding; i=EA@e.ea.com;
+ bh=4MZS01C3AEk8wLaqYSvxoCg/+krD7ElP0G9WOqeE1ok=;
+ b=D/wVxqCrMQ+oO7dMIfWZyJQp795s1BRjelf1bLok6Z/MgxKaKWwG30Xx+2iV9ktX08v3tf6YwN78
+   XzkV+6PFtiJA4bGkc9dleMIUd4TwbvNFfeRLYrd2slO7LepWOJ8gT/DQ70yhHk1AjBFj1mEZA5M/
+   ast2rDQAKX7eYsiDmMA=
+Received: by mta10.e.ea.com id houha42fmd4q for <info@tiautogarage.jp>; Tue, 30 Apr 2019 01:19:28 +0000 (envelope-from <bounce-25_HTML-698698589-365557-7229410-402227@bounce.e.ea.com>)
+From: "EA" <EA@e.ea.com>
+To: <info@tiautogarage.jp>
+Subject: =?UTF-8?B?44GK5a6i5qeY44GuRUHjgrvjgq3jg6Xjg6rjg4bjgqPjgrPjg7w=?=
+ =?UTF-8?B?44OJ77yaNjI4Nzcw?=
+Date: Mon, 29 Apr 2019 19:19:28 -0600
+MIME-Version: 1.0
+Reply-To: "EA" <reply-fec017767061017a-25_HTML-698698589-7229410-402227@e.ea.com>
+List-ID: <7225794.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 7229410_365557
+Message-ID: <40f37261-4028-431a-8242-39068c5f31bd@atl1s07mta651.xt.local>
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25434/Mon Apr 29 16:57:17 2019
+
+<!--  -->
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
+<html xmlns="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<head>
+ <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+ <title></title>
+ <link href='https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+ <style type="text/css">
+
+  /** RESET STYLES **/
+  p{margin:1em 0;} /*Yahoo paragraph fix*/
+  table td{border-collapse:collapse;} /*This resolves the Outlook 07, 10, and Gmail td padding issue fix*/ 
+  img, a img{border:0; height:auto; outline:none; text-decoration:none;} /* Remove the borders that appear when linking images with "border:none" and "outline:none" */
+  @-ms-viewport{width: device-width;}
+  h1, h2, h3, h4, h5, h6{display:block !important; margin:0 !important; padding:0 !important;}
+  body,{height:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100 margin:0; padding:0; width:100% !important;} /* Prevent Webkit and Windows Mobile platforms from changing default font sizes, while not breaking desktop design. */
+  linkfix a {color: #bababa !important; text-decoration: none;}
+  
+  /** CLIENT-SPECIFIC STYLE **/
+  img{-ms-interpolation-mode: bicubic;} /* Force IE to smoothly render resized images. */
+  table{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up. */
+  .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Outlook.com to display emails at full width. */
+  p, a, li, td, blockquote{mso-line-height-rule:exactly;} /* Force Outlook to render line heights as they're originally set. */
+  a[href^="tel"], a[href^="sms"]{color:inherit; cursor:default; text-decoration:none;} /* Force mobile devices to inherit declared link styles. */
+  p, a, li, td, body, table, blockquote{-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%;} /* Prevent Windows- and Webkit-based mobile platforms from changing declared text sizes. */
+  .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{line-height:100%;} /* Force Outlook.com to display line heights normally. */
+  
+  /** STRUCTURAL STYLES **/
+  
+  /** CONTENT STYLES **/
+  body {
+   width: 100%;
+   background-color: #e8e8e8; 
+   margin:0 auto;
+   padding:0; 
+   -webkit-font-smoothing: antialiased;
+   font-family:"Arial", sans-serif !important;
+  }
+  
+  /** MOBILE STYLES **/
+  @media only screen and (max-device-width: 480px), screen and (max-width: 480px) {
+   /* CLIENT-SPECIFIC STYLES */
+   /* Template Shell */
+   body[yahoo] {
+    width:100% !important; 
+    min-width:100% !important; 
+    margin: 0 auto !important;
+   } /* Force iOS Mail to render the email at full width & removes margins. */
+   
+   
+   /*** STRUCTURAL ***/
+   
+   body[yahoo] .container { width: 100% !important; max-width: 480px !important; }
+   body[yahoo] .mobileShow { display: block !important; margin:0 !important; padding:0 !important; overflow: visible !important; width: auto !important; max-height:inherit !important;}
+   body[yahoo] .mobileHide { display:none !important; }
+   body[yahoo] .photo img { width: 100% !important; max-width:100% !important; height: auto !important; } 
+   body[yahoo] .columnStack { width:100% !important; display: block !important;}
+   body[yahoo] .contentCenter, body[yahoo] .contentCenter img, body[yahoo] .contentCenter table { margin: 0 auto !important; }
+   body[yahoo] .textCenter { text-align: center !important; }
+   body[yahoo] .textLeft { text-align: left !important; }
+   body[yahoo] .nullBorder { border: none !important; }
+   body[yahoo] .alignTop { vertical-align: top !important;}
+   body[yahoo] .autoHeight {height: auto !important;}
+     
+   /*** PADDING ***/
+    
+   body[yahoo] .nullPad { padding: 0px !important; } 
+   body[yahoo] .mobilePad { padding-right: 30px !important; padding-left: 30px !important; }
+   body[yahoo] .bottomPad5 { padding-bottom: 5px !important; } 
+   body[yahoo] .topPad5 { padding-bottom: 5px !important; }
+   body[yahoo] .topPad10 { padding-top: 10px !important; }
+   body[yahoo] .bottomPad10 { padding-bottom: 10px !important; }
+   body[yahoo] .topPad15 { padding-top: 15px !important; }
+   body[yahoo] .bottomPad15 { padding-bottom: 15px !important; }
+   body[yahoo] .topPad20 { padding-top: 20px !important; }
+   body[yahoo] .bottomPad20 { padding-bottom: 20px !important; }
+   body[yahoo] .topPad25 { padding-top: 25px !important; }
+   body[yahoo] .bottomPad25 { padding-bottom: 25px !important; }
+   body[yahoo] .bottomPad30 { padding-bottom: 30px !important; }
+   body[yahoo] .rightPad30 { padding-right: 30px !important; }
+   
+   /*** FONT RESIZING ***/
+   
+   body[yahoo] .fontResize17 { font-size: 17px !important; }
+   
+  }   
+
+  
+</style>
+
+<!--[if gte mso 9]> <style>     /* Target Outlook 2007 and 2010 */    html, body { font-family: Arial, sans-serif !important; }      table { font-family: Arial, sans-serif !important; }      td { font-family: Arial, sans-serif !important; } </style> <![endif]-->
+
+</head>
+<body style="margin: 0px; -webkit-text-size-adjust:none; background-color: #dddddd;" yahoo="fix">
+ <!-- Start of: Header--> 
+ <table cellpadding="0" cellspacing="0" border="0" width="100%">
+  <tr>
+   <td align="center" bgcolor="#dddddd" style="padding: 0px 20px;" class="nullPad">
+    <table border="0" cellspacing="0" cellpadding="0" width="600" class="container">
+     <tr>
+      <td align="center" bgcolor="#ffffff">
+       <!-- Start of: EA Header -->
+                            <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                <tr>
+                                    <td align="center" valign="middle" style="padding: 13px 40px;" class="mobilePad">
+                                        <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                            <tr>
+                                                <td align="left" valign="middle">
+                                                    <a href="https://click.e.ea.com/?qs=4620ad9e3fcbf17e784a473922a37fcb68914857b6ec64465e94e19b69dff469478a8defa43fb1a1e6cc38285a0426f8d9470f96667992188666434241525611"  target="_blank"><img alt="EA" src="http://image.e.ea.com/lib/fe8f13727664017572/m/1/Transactional_EA_Logo.png" width="53" height="53" border="0" style="display: block;" /></a>
+                                                </td>
+                                                <td align="right" valign="middle" style="font-family: 'Arial', sans-serif; font-size: 10px; line-height: 10px; color: #808285;" class="mobileHide">
+                                                    <a href="https://view.e.ea.com/?qs=8ebec0503e7dd4bec98910181a506efd560ac64591934c516125d8cf2aa25535164885d7e015b9749ca7438c78161a580ad00c93f0b9c9e0341a7832d866592af4b46730663ffdb0abe80bd192ef583b"  target="_blank" style="color: #808285; text-decoration: underline;">オンラインで見るには、こちらをクリックしてください。</a>
+                                                </td>
+                                                
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End of: EA Header -->
+      </td>
+     </tr>
+    </table>
+   </td>
+  </tr>
+ </table>
+ <!-- End of: Header -->
+ <!-- Start of: Content --> 
+ <table cellpadding="0" cellspacing="0" border="0" width="100%">
+  <tr>
+   <td align="center" bgcolor="#dddddd" style="padding: 0px 20px;" class="nullPad">
+    <table border="0" cellspacing="0" cellpadding="0" width="600" class="container">
+     <tr>
+      <td align="center" bgcolor="#ffffff">
+       <!-- Start of: Security Code -->
+                            <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                <tr>
+                                    <td align="left" valign="top" width="100%" style="font-family: 'Arial', sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 22px; color: #939598; padding: 30px 30px 30px;" class="mobilePad">
+                                        <span style="color: #000000;"><b>お客様のEAセキュリティコード：</b></span><br><br>
+                                        <span style="color: #000000;"><b>628770</b></span><br><br>
+                                        ログイン認証の設定を通じてこのコードをリクエストされていない場合は、「 <a href="https://click.e.ea.com/?qs=6b459e55dc9bf7a70fda77e2477999a9fe0f212d7f4ff4705b0137329e693dfc9d47601203ccc42454c29ce06c36387358b077ba949fd30119dd1a4f4534cd68"  target="_blank" style="color: #4dafd4; text-decoration: none;"><b>マイアカウント</b></a> 」ページにアクセスし、すぐにパスワードを変更してください。 サポートが必要な場合は、 <a href="https://click.e.ea.com/?qs=155f9d2291dfdfdb85c8d5eee95fa84483ac3fd21df3419305ce2bd6b78c09a751a8492988c45e4fb0dedc7ace12e93c72ca0bd95a3d73de0ce63949629a64a1"  target="_blank" style="color: #4dafd4; text-decoration: none;"><b>EAヘルプ</b></a>までお問い合わせください。<br><br>
+                                        
+                                        アカウントのセキュリティの維持にご協力いただきありがとうございます。<br><br>
+                                        素晴らしいゲームライフをお送りください。<br>EAチーム
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End of: Security Code -->
+      </td>
+     </tr>
+    </table>
+   </td>
+  </tr>
+ </table>
+ <!-- End of: Content -->
+   <table align="center" cellpadding="0" cellspacing="0" border="0" width="100%">
+  <tr>
+   <td align="center" bgcolor="#dddddd" style="padding: 0px 20px;" class="nullPad">
+    <table cellpadding="0" cellspacing="0" border="0" width="600" class="container">
+     <tr>
+      <td align="center" bgcolor="#ffffff" height="1" style="font-size: 0px; mso-line-height-rule: exactly; line-height: 1px; height: 1px; padding: 0px 30px;" class="mobilePad">
+       <table cellpadding="0" cellspacing="0" border="0" width="100%">
+        <tr>
+         <td align="center" bgcolor="#dddddd" height="1" style="font-size: 0px; mso-line-height-rule: exactly; line-height: 1px; height: 1px;">&nbsp;
+          
+         </td>
+        </tr>
+       </table>
+      </td>
+     </tr>
+    </table>
+   </td>
+  </tr>
+ </table>
+ <!-- Start of: Footer --> 
+ <table cellpadding="0" cellspacing="0" border="0" width="100%">
+  <tr>
+   <td align="center" bgcolor="#dddddd" style="padding: 0px 20px;" class="nullPad">
+    <table border="0" cellspacing="0" cellpadding="0" width="600" class="container">
+     <tr>
+      <td align="center" bgcolor="#ffffff">
+       <!-- Start of: EA Footer-->
+                            <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                <tr>
+                                    <td align="left" valign="top" width="100%" style=" padding: 30px;" class="mobilePad">
+                                        <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                            <tr>
+                                                <td align="left" valign="top" style="font-family: 'Arial', sans-serif; font-size: 11px; mso-line-height-rule: exactly; line-height: 12px; color: #939598; padding-bottom: 12px;">
+                                                    
+                                                    技術的なサポートが必要な場合は、 <a href="https://click.e.ea.com/?qs=8a9ee14c5610b419db24485bf6f52c3fdc22ce68e887db5e18d349207b2c0207072d0aa54ca6edfb5d773d30fd3f79e5eb790410c217d8d08c96d0ec10cb49fb"  target="_blank" style="color: #4dafd4; text-decoration: none;"><b>EAヘルプ</b></a>.<br>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align="left" valign="top" style="font-family: 'Arial', sans-serif; font-size: 11px; mso-line-height-rule: exactly; line-height: 12px; color: #939598;">
+                                                    プライバシーポリシー：認定を受けた当社のオンラインプライバシーポリシーによって、どこでも安心してEAのゲームをお楽しみいただけます。当社のプライバシー＆クッキーポリシーの全文をご覧になるには、 <a href="https://click.e.ea.com/?qs=a07401788968805279a358fe2b0d0e84440c33cad9cac7e534fb49013715760d9039b64793b53261e032c381f771e88f8231ed4b6180b62fa193cbc4c50708ce"  target="_blank" style="color: #4dafd4; text-decoration: none;"><b>privacy.ea.com/ja</b></a> にアクセスするか、下記宛てに書面でご連絡ください： Privacy Policy Administrator, Electronic Arts Inc., 209 Redwood Shores Parkway, Redwood City, CA 94065.<br><br>                                                    <br>
+                                                    
+                                                    <a href="https://click.e.ea.com/?qs=89197de0023b9e067bb116ac77409f33f221d90869a42d14efb2541f862a066f3d96542c8197303b948269a761c5f3a7c0fe85bf005b09460707786d59ae0e83"  target="_blank" style="color: #4dafd4; text-decoration: none;"><b>プライバシー & クッキーポリシー</b></a> |
+                                                    
+                                                    <a href="https://click.e.ea.com/?qs=a1a5d34d13821c64476fced6feb8244d782ee2177d8783e2a356f45d1cce53bce7654f70af5b226f812136472d233f88a6aec4430ac26c7134bef624f138c685"  target="_blank" style="color: #4dafd4; text-decoration: none;"><b>利用規約</b></a> |
+                                                    
+                                                    <a href="https://click.e.ea.com/?qs=05c0a094442b85e83c62628773809e06edf26731c6ab58b48b5ff211878bccbf3461f32154b5f8ef66e926985b4971278dfb2c6ff5235b23ca1c0f3b1d9b6885"  target="_blank" style="color: #4dafd4; text-decoration: none;"><b>法的通知</b></a> 
+                                                    
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align="left" valign="middle" style="padding: 12px 0px">
+                                                    <a href="https://click.e.ea.com/?qs=69bbef3951f82cad28ddd44cdc02d2b8be4e762b4124cc97fa5022db25d76fa16ab82bfcb0bf64c9b800488364b724a24e2a7e9cd90c136ad62156486620517c"  target="_blank"><img alt="EA | Origin" src="http://image.e.ea.com/lib/fe8f13727664017572/m/1/Transactional_EA_Origin_Footer_Logos.png" width="97" height="26" border="0" style="display: block;" /></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align="left" valign="top" style="font-family: 'Arial', sans-serif; font-size: 11px; mso-line-height-rule: exactly; line-height: 12px; color: #939598; ">
+                                                    OriginはEAネットワークの一部です
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End of: EA Footer -->
+      </td>
+     </tr>
+    </table>
+   </td>
+  </tr>
+ </table>
+ <!-- End of: Footer -->
+ <table cellpadding="0" cellspacing="0" border="0" width="100%">
+  <tr>
+   <td align="center" bgcolor="#dddddd" height="50" style="font-size: 0px; mso-line-height-rule: exactly; line-height: 50px; height: 50px;">&nbsp;
+    
+   </td>
+  </tr>
+ </table>
+ <!-- Start of : keep gmail android from collapsing table -->
+ <table align="center" border="0" cellpadding="0" cellspacing="0" width="620" class="mobileHide">
+  <tr>
+   <td height="1" style="font-size: 1px; line-height: 1px; min-width: 620px;">&nbsp;</td>
+  </tr>
+ </table>
+  <img src="https://click.e.ea.com/open.aspx?ffcb10-fec017767061017a-fe271c707265027f7c1774-fe961372776d007c75-ff981675-fe0b12797d620d75701c79-fece10707766067a&d=70074" width="1" height="1">
+ <!-- End of : keep gmail android from collapsing table -->
+</body>
+</html>
+

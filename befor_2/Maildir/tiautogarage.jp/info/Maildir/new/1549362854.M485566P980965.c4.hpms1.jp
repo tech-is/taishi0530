@@ -1,0 +1,50 @@
+Return-Path: <info@sportmassiv.ru>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: *
+X-Spam-Status: No, score=1.4 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FSL_BULK_SIG,HTML_MESSAGE,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CHECK,SPF_HELO_PASS,URIBL_BLOCKED autolearn=no autolearn_force=no
+	version=3.4.0
+Received: (qmail 980961 invoked by uid 89); 5 Feb 2019 19:34:04 +0900
+Received: from sportmassiv.ru (185.143.172.189)
+  by c4.hpms1.jp with SMTP; 5 Feb 2019 19:34:04 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at sportmassiv.ru designates 185.143.172.189 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=sportmassiv.ru;
+ h=Message-ID:From:To:Subject:Date:MIME-Version:Content-Type;
+ bh=nijavn3mWxAf2Rd83bE6WqU5juE=;
+ b=abjExewqPkEb05Op6ko4G8j33ev2R0Xmk8u0C1a8I++w2dPYAUqQeJuNntqRsF6T1SphpEgPwMQs
+   iCd+udQ7FTf0RxymkbYzMvAzYvlznKeUkbxZmd0ZMZ/QhCYcBdddqOIoaFSVqAHwF2qxq7BIViNa
+   75oKrT+DXQ3/F65Yf2TD/g+gHNOc9mi7SP7CXku2DPAbievJzv4mL5VbfV3hT/DIYJQyIPrIdrFt
+   lhr6uDMQu7R5EjU7RDImKnrtl3XlBGHE76mEWpcJ+gKpAT2foumxJw4fqXDAgCxYXQLuPv2CiLz3
+   ChGViw55j1OSsJSWpf9vIwPNcepJTUUtXeq1jg==
+Message-ID: <a69b4da054c5448ead52f4a7ac78409cbf5db4a474@sportmassiv.ru>
+From: "Hasnaine Siddique" <info@sportmassiv.ru>
+To: <info@tiautogarage.jp>
+Subject: Libin Joseph Jacob  Paritosh Mandi
+Date: Tue, 5 Feb 2019 13:33:54 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ab515d5a68bc9370aca9e05e7aae9cc4867b"
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25349/Sun Feb  3 19:31:29 2019
+
+--ab515d5a68bc9370aca9e05e7aae9cc4867b
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Moch Muzacki Shilpa Sathvara Onkabetse Letsman Ndulula Kesego http:=
+//61M50.TK
+
+--ab515d5a68bc9370aca9e05e7aae9cc4867b
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft>&nbsp;Moch Muzacki Shilpa Sathvara=20
+Onkabetse Letsman Ndulula Kesego http://61M50.TK</DIV></BODY></HTML>
+
+--ab515d5a68bc9370aca9e05e7aae9cc4867b--
+

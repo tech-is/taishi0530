@@ -1,0 +1,72 @@
+Return-Path: <info@hust.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham autolearn_force=no
+	version=3.4.0
+Received: (qmail 632666 invoked by uid 89); 26 Apr 2019 15:17:38 +0900
+Received: from ns.hustms.jp (210.143.103.42)
+  by c4.hpms1.jp with SMTP; 26 Apr 2019 15:17:38 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at hust.jp designates 210.143.103.42 as permitted sender)
+Received: from ns.hustdc.jp (ns.hustdc.jp [210.143.104.99])
+	by ns.hustms.jp (Postfix) with ESMTPA id 19E1A37E3307
+	for <info@tiautogarage.jp>; Fri, 26 Apr 2019 15:17:38 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hust.jp;
+	s=dkimselector; t=1556259458;
+	bh=ho3/D/wvV+bnQ6wE48tvByRrbXMLCtbFPKZseA2BEY4=;
+	h=To:From:Subject:Date;
+	b=dzmFJGgWKuwyMS97h8HOj4+UufLVyaDejofZkSmQrkB/74nNAkVqyTgJBkzKWfFnf
+	 hxvEvpok/wqnRhPHFJqbStutY5lQAcHGfrXfRxz4Als1YoM+wA2k44nAyqlMFiEZS9
+	 Dfvz3n4yC+V3N4528BXtWc1hMa2tzJv/ZIOQIZhE=
+Received: by ns.hustdc.jp (Postfix, from userid 48)
+	id 03AC1D4066B; Fri, 26 Apr 2019 15:17:37 +0900 (JST)
+To: info@tiautogarage.jp
+From: =?ISO-2022-JP?B?GyRCJU8lOSVIJU0lQyVIM3Q8MDJxPFIbKEI=?= <info@hust.jp>
+ 
+Subject: =?ISO-2022-JP?B?GyRCIVQlTyU5JUglTSVDJUgkRyQ5IVU+JklKQ21KOD1xJE4kNEpWGyhC?=
+ =?ISO-2022-JP?B?GyRCPy4kIiRqJCwkSCQmJDQkNiQkJF4kOSE/MGY+ZRsoQiAbJEI1LhsoQg==?=
+ =?ISO-2022-JP?B?GyRCQmcbKEIgGyRCTU0bKEI=?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-2022-JP
+Message-Id: <20190426061738.03AC1D4066B@ns.hustdc.jp>
+Date: Fri, 26 Apr 2019 15:17:37 +0900 (JST)
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25430/Thu Apr 25 16:58:44 2019
+
+井上 貴大 様
+
+■ハストネット株式会社、お客様担当の斉藤 琴実です。
+
+この度は、弊社にご用命頂きまして誠にありがとうございます。
+
+「商品注文書」を受領しましたご報告と併せまして、心よりお礼申し上げます。
+
+尚、ご注文は商品代金の前払いによるご決済と、商品注文書の受領で確定となり
+ますので、御見積書に記載の銀行口座の方へ商品代金のお振込をご準備下さい。
+
+ご決済のタイミングによっては、納入予定日が変動する可能性もありますことを
+予めご了承下さい。
+
+本メールと行き違いでお支払い頂いております折りは、何卒ご了承下さい。
+
+------------------------------------------------------------------------
+
+ご注文確定後、商品の発注手続きが完了した時点で「販売証明書」を改めて
+ご案内しますので、しばらくお待ち下さい。
+
+ご注文頂きました商品は、責任を持って納入させて頂きます。
+
+どうぞ宜しくお願い致します。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+■ハストネット株式会社
+〒190-0014 東京都立川市緑町7-1 アーバス立川高松駅前ビル7F
+公式サイト： https://www.hust.jp/  Mail： info@hust.jp
+業務用ＷＥＢサイト総合案内
+Tel：0120-45-9950(フリーダイヤル)／Tel：042-512-7117(代)
+Fax：0120-45-9952(フリーダイヤル)／Fax：042-548-1555(代)
+月〜金曜日 9:00〜18:00 (12:00〜13:00を除く) ※土 日 祝日は休業日です。
+
+
+

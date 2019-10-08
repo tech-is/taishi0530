@@ -1,0 +1,162 @@
+Return-Path: <bounces+5913708-64f4-info=tiautogarage.jp@sends.surveys2.netpop.com>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.7 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,HTML_OBFUSCATE_05_10,URIBL_BLOCKED
+	autolearn=ham autolearn_force=no version=3.4.0
+Received: (qmail 287347 invoked by uid 89); 5 Dec 2018 12:37:54 +0900
+Received: from xtrwsrkd.outbound-mail.sendgrid.net (167.89.101.29)
+  by c4.hpms1.jp with AES128-GCM-SHA256 encrypted SMTP; 5 Dec 2018 12:37:54 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at sendgrid.net designates 167.89.101.29 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=surveys2.netpop.com; 
+	h=from:list-unsubscribe:subject:to:mime-version:content-type; 
+	s=s1; bh=3AAs/ZpekBhx3jPZeineGo+NK0k=; b=ovxzboh1yBF8oU+j4BUpuXZ
+	6djIYqGBypPpjMAp0XC2tzRse2GUwM+zGU3nbBpQ09mtq+QAhKCxs5dDXDPVmDxF
+	I8cw8AaPPo1fGy4OuPjkAL59qDdKO8PPT6N/dXjEEgEbKNppE6uQG1gP76xkRxOm
+	/ZFalY/Vdly9ny4TmAjg=
+Received: by filter0185p1iad2.sendgrid.net with SMTP id filter0185p1iad2-24536-5C074810-E
+        2018-12-05 03:37:52.381855358 +0000 UTC m=+92381.643314152
+Received: from bragi.decipherinc.com (bragi2.decipherinc.com [65.212.180.75])
+	by ismtpd0003p1sjc2.sendgrid.net (SG) with ESMTP id QMcLphpkQR-OO8Z9CHE9XQ
+	for <info@tiautogarage.jp>; Wed, 05 Dec 2018 03:37:52.191 +0000 (UTC)
+From: "NetPop Research" <invites@surveys2.netpop.com>
+x-sguser: Netpop
+List-Unsubscribe: <mailto:unsubscribe+fcnz-834570-2136277592+fvto=696e666f4074696175746f6761726167652e6a70@decipherinc.com>
+Date: Wed, 05 Dec 2018 03:37:52 +0000 (UTC)
+X-Complaints-To: abuse@decipherinc.com
+Message-Id: <fcnz-834570-2136277592-j6bzvc3fvm-invites@surveys2.netpop.com>
+Subject: =?utf-8?b?fOagquW8j+S8muekvuOCouOCpOODleODqeODg+OCsHwg57eg44KB5YiH44KK?=
+ =?utf-8?b?44GM5bu26ZW344Gr44Gq44KK44G+44GX44Gf77yBMTDliIbplpPjga5Hb29n?=
+ =?utf-8?b?bGUgQWRzIOmhp+Wuoua6gOi2s+W6puOCouODs+OCseODvOODiOiqv+afuzog?=
+ =?utf-8?b?5LuK44GZ44GQ44GU5Zue562U44KS44GK6aGY44GE44GX44G+44GZIA==?=
+To: info@tiautogarage.jp
+Precedence: bulk
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+        boundary="----=_NextPart_001_001F_01C26331.F7121560"
+X-SG-EID: m3vxwqw0pAi07xiiWRmNS22vBvwT4Q7cAuyaXilMFaQ4YdMkC66lhruWVhUwJlZKVUim8h5UaN34gp
+ VOPsggCQiamDzYP264NjadigRQDORxCOD9cioODOuHZurUPm2I3aD1BnEuMPddcrSKV55uJJ9sU/PS
+ K6UN2jRUgWyafzcXS97oNYKE1gIDfhE+cXioIcJ+IcFLUQigWKP1z99cHlPMT+S+XANcFg7r3t5hLu
+ /CuJvP3Ga7q9bAXqgXBjuE
+X-SG-ID: C2eImUXa5sp9l+cD2/NaOBNSBpts9OQJ5qIhQQ29jMPd23/wHO0aW8rri+X0mXZIztM9Stgr4f1RIw
+ SMF1NY3TFhVwpP+r9qxv2EPAQtwnBffnT1s/OF+1r85xnOiLQI9ETZlYL4ApzqvSGl/2o3Sg==
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25178/Tue Dec  4 16:29:20 2018
+
+------=_NextPart_001_001F_01C26331.F7121560
+Content-Type: text/plain; charset="utf-8"
+
+株式会社アイフラッグ のお客様
+
+「Google Ads顧客満足度アンケート調査」のご回答期限を延長いたしますので、早急にご回答いただきますようお願いいたします。（本調査は5分程度で完了できるように設計されておりますので、是非ご協力ください。）
+
+平素より、Google Adsのご出稿ありがとうございます。
+更なるお客さまサービス向上のため、Google  Adsをご出稿のお客さまを対象に「Google Ads顧客満足度アンケート調査」を実施しております。
+このアンケート調査は、Google社および株式会社アイフラッグが、今後、サービスを改善していく上で非常に重要な役割を果たします。Google Adsについてのご感想、 株式会社アイフラッグからお受けになっているサービスに対するご意見等につきご回答をお願いいたします。
+ 
+ご担当者さまのお名前とメールアドレスは株式会社アイフラッグより提供されたもので、機密扱いといたします。また、ご回答いただいた情報は、他のお客さまの回答と一緒に集計され、集計結果としてGoogle社および株式会社アイフラッグへフィードバックいたします。そのため、Google社および 株式会社アイフラッグは、貴社のご回答内容を直接把握することができない仕組みとなっております。なお、「Google Ads顧客満足度アンケート調査」の回答に要する時間はほんの10分程度です。
+
+以下のリンクをクリックしてアンケート調査にご協力をお願いいたします。:
+https://surveys2.netpop.com/survey/selfserve/dcc/ntp18004?source=myHhlPiG9o
+
+ご質問等がある場合は、jcrandall@netpopresearch.comまでご連絡ください。
+
+以上、ご回答のご協力かたよろしくお願いいたします。
+
+Josh Crandall, CEO
+NetPop Research, LLC
+322 Cortland Avenue
+San Francisco, CA 94110
+www.netpopresearch.com
+
+--------------------------------------------------------------------------------------------------------------------------
+
+本アンケート調査について
+
+NetPop Research社は、Google社および株式会社アイフラッグに代わって本調査を実施している独立の市場調査会社です。貴社からいただいたご回答は、完全に匿名および機密扱いとし、調査の目的のみに使用いたします。
+ 
+Google Inc. 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+もし、今後、本アンケート調査に関するメールをお受け取りになりたくない場合は、https://goo.gl/forms/iemh8aZ1DPwXKa6S2にてメールアドレスをご登録していただくようお願いいたします。なお、メール配信停止のご登録をいただいた場合でも、ご出稿中のGoogle Ads、その他サービスにおいては、何ら影響ございません。
+
+このような年次アンケート調査プログラムに関するお知らせの購読を止めるには、https://surveys2.netpop.com/survey/ntp/remove?ex=info@tiautogarage.jp&lang=japanese をクリックしてください。
+
+
+
+------=_NextPart_001_001F_01C26331.F7121560
+Content-Type: text/html;
+        charset="utf-8"
+
+<html>
+<head>
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+</head>
+<body>
+   <table>
+        <tr>
+            <td colspan="2" style="font-family: arial; font-size: 14px; padding: 15px; border-bottom: 1px solid #999;">
+
+<a style="color: #000000">株式会社アイフラッグ</a> のお客様
+<br><br>
+「Google Ads顧客満足度アンケート調査」のご回答期限を延長いたしますので、早急にご回答いただきますようお願いいたします。（本調査は5分程度で完了できるように設計されておりますので、是非ご協力ください。）
+<br><br>
+平素より、Google Adsのご出稿ありがとうございます。<br>
+更なるお客さまサービス向上のため、Google  Adsをご出稿のお客さまを対象に「Google Ads顧客満足度アンケート調査」を実施しております。<br>
+このアンケート調査は、Google社および株式会社アイフラッグが、今後、サービスを改善していく上で非常に重要な役割を果たします。Google Adsについてのご感想、 株式会社アイフラッグからお受けになっているサービスに対するご意見等につきご回答をお願いいたします。
+<br><br>
+ご担当者さまのお名前とメールアドレスは株式会社アイフラッグより提供されたもので、機密扱いといたします。また、ご回答いただいた情報は、他のお客さまの回答と一緒に集計され、集計結果としてGoogle社および株式会社アイフラッグへフィードバックいたします。そのため、Google社および 株式会社アイフラッグは、貴社のご回答内容を直接把握することができない仕組みとなっております。なお、「Google Ads顧客満足度アンケート調査」の回答に要する時間はほんの10分程度です。
+<br><br>
+
+<b>以下のリンクをクリックしてアンケート調査にご協力をお願いいたします。:</b><br>
+
+<a href="https://surveys2.netpop.com/survey/selfserve/dcc/ntp18004?source=myHhlPiG9o" target="_blank">https://surveys2.netpop.com/survey/selfserve/dcc/ntp18004?source=myHhlPiG9o</a>
+
+<br><br>
+
+ご質問等がある場合は、<a href="mailto:jcrandall@netpopresearch.com">jcrandall@netpopresearch.com</a> までご連絡ください。
+<br><br>
+
+以上、ご回答のご協力かたよろしくお願いいたします。
+<br><br> 
+Josh Crandall, CEO<br>
+NetPop Research, LLC<br>
+322 Cortland Avenue<br>
+San Francisco, CA 94110<br>
+<a href="http://www.netpopresearch.com" target="_blank">www.netpopresearch.com</a>
+<br><br>
+    <table width="100%">
+        <tr>
+            <td style="text-align: left; padding: 15px; width: 80px">
+                <img src="http://static.decipherinc.com/survey/selfserve/dcc/ntp18004/2018_Partner_Badge.png"><br/></td>
+            <td style="text-align: left;"><img src="http://static.decipherinc.com/survey/selfserve/dcc/ntp18004/192.png"/></td>
+
+            <td style="text-align: right; padding: 15px;">
+                <img src="http://static.decipherinc.com/survey/selfserve/dcc/ntp18004/netpop_logo2.jpg"/></td></tr>
+    </table>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-family: arial; font-size: 12px; padding: 15px; vertical-align: top;">
+本アンケート調査について
+<br><br>
+NetPop Research社は、Google社および株式会社アイフラッグに代わって本調査を実施している独立の市場調査会社です。貴社からいただいたご回答は、完全に匿名および機密扱いとし、調査の目的のみに使用いたします。
+<br><br>
+Google Inc. 1600 Amphitheatre Parkway, Mountain View, CA 94043
+<br><br>
+もし、今後、本アンケート調査に関するメールをお受け取りになりたくない場合は、<a href="https://goo.gl/forms/iemh8aZ1DPwXKa6S2" target="_blank">https://goo.gl/forms/iemh8aZ1DPwXKa6S</a>にてメールアドレスをご登録していただくようお願いいたします。なお、メール配信停止のご登録をいただいた場合でも、ご出稿中のGoogle Ads、その他サービスにおいては、何ら影響ございません。
+<br><br>
+このような年次アンケート調査プログラムに関するお知らせの購読を止めるには、<a href="https://surveys2.netpop.com/survey/ntp/remove?ex=info@tiautogarage.jp&amp;lang=japanese" target="_blank">https://surveys2.netpop.com/survey/ntp/remove?ex=info@tiautogarage.jp&amp;lang=japanese</a> をクリックしてください。 
+            </td>
+    </table>
+    <img src="https://surveys2.netpop.com/tracker/myHhlPiG9o/selfserve/dcc/ntp18004/file.gif"/>
+
+<img src="https://u5913708.ct.sendgrid.net/wf/open?upn=rojQG26eAcf4GkAb-2FyFQATVGN2V2lQSNO-2FzC51yIHA30LPMLwsVSqFlQU2lPPBFH2cC2VsIA0Tj7TToEGsM35zND9TtsE4VHUM6OXgfP8b7oy0f85Sp1I7d-2BiEoszXumFdDtcY9rulpBJvEx-2FnG5aGU-2BhD4VT4r4zIIHjMCRajr6ymZMMY-2BbeUkIVCEnV9ZyzpkfQ2dfnf2tMBvm-2F4nqzYa7qcKK7pRYVmSsaKkdvpRiKlmy0a43Nos4-2BoQ2QGQxrjniDTn-2BcPb5KBlRr5jO6dFgJi-2BnBzJAPv4Q0FO7s1u4GZbrbRupdefGZ-2BmLeZ-2BW3bUpkRP0EVtbZaJmszPv8bbPXmTIm0fyjHQ1QXKJaeM-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+
+------=_NextPart_001_001F_01C26331.F7121560--
+

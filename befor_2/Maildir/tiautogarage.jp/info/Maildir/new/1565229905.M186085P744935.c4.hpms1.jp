@@ -1,0 +1,1115 @@
+Return-Path: <bounce-mc.us7_20595995.134693-f82549f3ce@mail250.suw14.mcdlv.net>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.5 required=6.0 tests=BAYES_00,DKIMWL_WL_MED,
+	DKIM_SIGNED,DKIM_VALID,HTML_IMAGE_RATIO_04,HTML_MESSAGE,MIME_QP_LONG_LINE,
+	PYZOR_CHECK,SPF_HELO_PASS,URIBL_BLOCKED autolearn=no autolearn_force=no
+	version=3.4.0
+Received: (qmail 744923 invoked by uid 89); 8 Aug 2019 11:04:54 +0900
+Received: from mail250.suw14.mcdlv.net (198.2.183.250)
+  by c4.hpms1.jp with AES256-GCM-SHA384 encrypted SMTP; 8 Aug 2019 11:04:54 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at mail250.suw14.mcdlv.net designates 198.2.183.250 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mailchimpapp.net;
+	s=k1; t=1565229892;
+	i=announcements=3D3Dmail.hotfrog.jp@mailchimpapp.net;
+	bh=MR6pJAVzACF670R89WegAEhQ67xNwhfK5yTmPd1CKGE=;
+	h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:
+	 Content-Type:MIME-Version;
+	b=08ESdkHViBeE89OdiGWbZSD2F99URlmLPPdzqw7xGDoNA0uDcWYZ9qY+T0DmHChMH
+	 ylrc6JifslCgNCegvPfYzHV9SqKj5NKme5FDPWQX40HdAuxshFdPSvjk6l5tmrvYas
+	 B2h2GFPriuTMC6MYGViy/nMjArdhhdiKxv3FQvbw=
+Received: from localhost (localhost [127.0.0.1])
+	by mail250.suw14.mcdlv.net (Mailchimp) with ESMTP id 463sBr1ctyz1DsKG
+	for <info@tiautogarage.jp>; Thu,  8 Aug 2019 02:04:52 +0000 (GMT)
+x-mcpf-jobid: mc.us7_20595995.134693.5d4b832c1b1a5.full_000001
+Subject: =?utf-8?Q?Hotfrog=E6=97=A5=E6=9C=AC=E3=81=AB=E6=96=B0=E3=81=97=E3=81=84=E3=83=AB=E3=83=83=E3=82=AF=E3=82=B9=E3=81=8C=E7=99=BB=E5=A0=B4?=
+From: =?utf-8?Q?Hotfrog?= <announcements@mail.hotfrog.jp>
+Reply-To: =?utf-8?Q?Hotfrog?= <announcements@mail.hotfrog.jp>
+To: <info@tiautogarage.jp>
+Date: Thu,  8 Aug 2019 02:04:45 +0000
+Message-ID: <1492630898df7cdc885387fa0.f82549f3ce.20190808020431.dea891d57c.449f673f@mail250.suw14.mcdlv.net>
+X-Mailer: MailChimp Mailer - **CIDdea891d57cf82549f3ce**
+X-Campaign: mailchimp1492630898df7cdc885387fa0.dea891d57c
+X-campaignid: mailchimp1492630898df7cdc885387fa0.dea891d57c
+X-Report-Abuse: Please report abuse for this campaign here: https://mailchimp.com/contact/abuse/?u=1492630898df7cdc885387fa0&id=dea891d57c&e=f82549f3ce
+X-MC-User: 1492630898df7cdc885387fa0
+Feedback-ID: 20595995:20595995.134693:us7:mc
+List-ID: 1492630898df7cdc885387fa0mc list <1492630898df7cdc885387fa0.68405.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <https://hotfrog.us7.list-manage.com/unsubscribe?u=1492630898df7cdc885387fa0&id=777f795c8f&e=f82549f3ce&c=dea891d57c>, <mailto:unsubscribe-mc.us7_1492630898df7cdc885387fa0.dea891d57c-f82549f3ce@mailin.mcsv.net?subject=unsubscribe>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_385043262"
+MIME-Version: 1.0
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25534/Wed Aug  7 17:22:15 2019
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_385043262
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+View this email in your browser (https://mailchi.mp/mail/hotfrog-134693?e=
+=3Df82549f3ce)
+http://www.hotfrog.jp?utm_source=3DHotfrog+List+for+JP&utm_campaign=3Ddea8=
+91d57c-EMAIL_CAMPAIGN_2019_05_30_12_17_COPY_05&utm_medium=3Demail&utm_term=
+=3D0_777f795c8f-dea891d57c-41714833
+Hotfrog=E6=97=A5=E6=9C=AC=E3=81=AB=E6=96=B0=E3=81=97=E3=81=84=E3=83=AB=E3=
+=83=83=E3=82=AF=E3=82=B9=E3=81=8C=E7=99=BB=E5=A0=B4
+=E7=9A=86=E6=A7=98=E3=81=8B=E3=82=89=E3=81=AE=E5=A3=B0=E3=81=AB=E8=80=B3=
+=E3=82=92=E5=82=BE=E3=81=91=E3=80=81=E3=83=AA=E3=82=AF=E3=82=A8=E3=82=B9=
+=E3=83=88=E3=81=AB=E3=81=8A=E5=BF=9C=E3=81=88=E3=81=97=E3=81=A6=E3=80=81=
+=E6=A4=9C=E7=B4=A2=E3=81=AB=E9=96=A2=E3=81=99=E3=82=8B=E5=A4=89=E6=9B=B4=
+=E3=80=81=E3=83=9E=E3=83=83=E3=83=94=E3=83=B3=E3=82=B0=E3=81=AE=E5=A4=89=
+=E6=9B=B4=E3=80=81=E3=81=9D=E3=81=97=E3=81=A6=E6=90=BA=E5=B8=AF=E3=82=92=
+=E3=82=88=E3=82=8A=E4=BD=BF=E3=81=84=E3=82=84=E3=81=99=E3=81=8F=E3=81=99=
+=E3=82=8B=E3=81=AA=E3=81=A9=E3=81=AE=E6=94=B9=E5=96=84=E3=82=92=E8=A1=8C=
+=E3=81=84=E3=81=BE=E3=81=97=E3=81=9F=E3=80=82
+
+Hotfrog =E6=97=A5=E6=9C=AC*=E3=82=92=E3=81=94=E5=88=A9=E7=94=A8=E4=B8=AD=
+=E3=81=AB=E3=80=81=E3=81=82=E3=81=AA=E3=81=9F=E3=81=AE=E6=83=85=E5=A0=B1=
+=E3=81=8C=E3=81=BE=E3=81=A0=E6=AD=A3=E7=A2=BA=E3=81=A7=E3=81=82=E3=82=8B=
+=E3=81=8B=E7=A2=BA=E8=AA=8D=E3=81=97=E3=81=A6=E3=81=8F=E3=81=A0=E3=81=95=
+=E3=81=84=E3=80=82
+
+=E4=B8=8B=E8=A8=98=E3=81=AE=E3=83=9C=E3=82=BF=E3=83=B3=E3=82=92=E3=82=AF=
+=E3=83=AA=E3=83=83=E3=82=AF=E3=81=97=E3=81=A6=E3=83=AA=E3=82=B9=E3=83=88=
+=E5=86=85=E5=AE=B9=E3=82=92=E3=81=94=E8=A6=A7=E3=81=8F=E3=81=A0=E3=81=95=
+=E3=81=84=E3=80=82
+
+=E3=81=82=E3=82=8A=E3=81=8C=E3=81=A8=E3=81=86=E3=81=94=E3=81=96=E3=81=84=
+=E3=81=BE=E3=81=99=2C
+
+*=E6=96=B0=E3=81=97=E3=81=8F=E3=81=AA=E3=81=A3=E3=81=9FHotfrog=E3=81=AB=E5=
+=88=9D=E3=82=81=E3=81=A6=E3=83=AD=E3=82=B0=E3=82=A4=E3=83=B3=E3=81=99=E3=
+=82=8B=E5=A0=B4=E5=90=88=E3=81=AF=E3=80=81=E6=96=B0=E3=81=97=E3=81=84=E3=
+=83=91=E3=82=B9=E3=83=AF=E3=83=BC=E3=83=89=E3=82=92=E5=85=A5=E5=8A=9B=E3=
+=81=97=E3=81=A6=E3=81=84=E3=81=9F=E3=81=A0=E3=81=8D=E3=81=BE=E3=81=99=E3=
+=80=82
+HOTFROG=E3=81=A7=E3=81=82=E3=81=AA=E3=81=9F=E3=81=AE=E3=83=AA=E3=82=B9=E3=
+=83=88=E5=86=85=E5=AE=B9=E3=82=92=E8=A6=8B=E3=82=8B (http://www.hotfrog.jp/=E4=BC=9A=E7=A4=BE/=E3=83=9C=E3=83=87=E3=82=A3=E3=82=B3-=E3=83=86=E3=82=A3=E3=83=B3=E3=82=B0=E5=B0=82=E9=96=80=E5=BA=97-tiautogarage)
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Hotfrog - Do business differently
+
+=E3=81=93=E3=82=8C=E3=81=AFHotfrog=E3=81=8B=E3=82=89=E3=81=AE=E3=83=A1=E3=
+=83=83=E3=82=BB=E3=83=BC=E3=82=B8=E3=81=A7=E3=81=99=E3=80=82Hotfrog=E3=81=
+=AF** Moboom Limited (http://moboom.com/?utm_source=3DHotfrog+List+for+JP&=
+utm_campaign=3Ddea891d57c-EMAIL_CAMPAIGN_2019_05_30_12_17_COPY_05&utm_medi=
+um=3Demail&utm_term=3D0_777f795c8f-dea891d57c-41714833)
+=E3=81=8C=E6=89=80=E6=9C=89=E3=81=99=E3=82=8BWeb=E3=82=B5=E3=82=A4=E3=83=
+=88=E3=81=A7=E3=81=99=E3=80=82
+Unit 12 =2C 295 Rokeby Road=2C Subiaco=2C 6008 WA Australia.
+
+** S (https://www.hotfrog.com.au/Terms.aspx?utm_source=3DHotfrog+List+for+=
+JP&utm_campaign=3Ddea891d57c-EMAIL_CAMPAIGN_2019_05_30_12_17_COPY_05&utm_m=
+edium=3Demail&utm_term=3D0_777f795c8f-dea891d57c-41714833)
+** mall Business Hub (http://blog.hotfrog.com/jp?utm_source=3DHotfrog+List=
++for+JP&utm_campaign=3Ddea891d57c-EMAIL_CAMPAIGN_2019_05_30_12_17_COPY_05&=
+utm_medium=3Demail&utm_term=3D0_777f795c8f-dea891d57c-41714833)
+| ** Privacy (https://legal.hotfrog.com/privacy-policy/?utm_source=3DHotfr=
+og+List+for+JP&utm_campaign=3Ddea891d57c-EMAIL_CAMPAIGN_2019_05_30_12_17_C=
+OPY_05&utm_medium=3Demail&utm_term=3D0_777f795c8f-dea891d57c-41714833)
+| ** Support (http://support.hotfrog.com/customer/jp/portal/articles?utm_s=
+ource=3DHotfrog+List+for+JP&utm_campaign=3Ddea891d57c-EMAIL_CAMPAIGN_2019_=
+05_30_12_17_COPY_05&utm_medium=3Demail&utm_term=3D0_777f795c8f-dea891d57c-=
+41714833)
+
+=E3=81=82=E3=81=AA=E3=81=9F=E3=81=AFinfo@tiautogarage.jp=E3=81=A7Hotfrog=E3=81=
+=AB=E7=99=BB=E9=8C=B2=E3=81=97=E3=81=A6=E3=81=84=E3=81=BE=E3=81=99=E3=80=
+=82
+
+This email was sent to info@tiautogarage.jp (mailto:info@tiautogarage.jp)
+why did I get this? (https://hotfrog.us7.list-manage.com/about?u=3D1492630=
+898df7cdc885387fa0&id=3D777f795c8f&e=3Df82549f3ce&c=3Ddea891d57c)     unsubs=
+cribe from this list (https://hotfrog.us7.list-manage.com/unsubscribe?u=3D=
+1492630898df7cdc885387fa0&id=3D777f795c8f&e=3Df82549f3ce&c=3Ddea891d57c)   =
+  update subscription preferences (https://hotfrog.us7.list-manage.com/pro=
+file?u=3D1492630898df7cdc885387fa0&id=3D777f795c8f&e=3Df82549f3ce)
+Hotfrog . Tower 2 L3=2C 475 Victoria Avenue . Chatswood=2C Nsw 2067 . Aust=
+ralia
+--_----------=_MCPart_385043262
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-micros=
+oft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+=09<head>
+=09=09<!--[if gte mso 15]>
+=09=09<xml>
+=09=09=09<o:OfficeDocumentSettings>
+=09=09=09<o:AllowPNG/>
+=09=09=09<o:PixelsPerInch>96</o:PixelsPerInch>
+=09=09=09</o:OfficeDocumentSettings>
+=09=09</xml>
+=09=09<![endif]-->
+=09=09<meta charset=3D"UTF-8">
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width=2C initial=
+-scale=3D1">
+=09=09<title>Hotfrog=E6=97=A5=E6=9C=AC=E3=81=AB=E6=96=B0=E3=81=97=E3=81=84=
+=E3=83=AB=E3=83=83=E3=82=AF=E3=82=B9=E3=81=8C=E7=99=BB=E5=A0=B4</title>
+
+    <style type=3D"text/css">
+=09=09p{
+=09=09=09margin:10px 0;
+=09=09=09padding:0;
+=09=09}
+=09=09table{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09h1=2Ch2=2Ch3=2Ch4=2Ch5=2Ch6{
+=09=09=09display:block;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img=2Ca img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09body=2C#bodyTable=2C#bodyCell{
+=09=09=09height:100%;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100%;
+=09=09}
+=09=09.mcnPreviewText{
+=09=09=09display:none !important;
+=09=09}
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09-ms-interpolation-mode:bicubic;
+=09=09}
+=09=09table{
+=09=09=09mso-table-lspace:0pt;
+=09=09=09mso-table-rspace:0pt;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cblockquote{
+=09=09=09mso-line-height-rule:exactly;
+=09=09}
+=09=09a[href^=3Dtel]=2Ca[href^=3Dsms]{
+=09=09=09color:inherit;
+=09=09=09cursor:default;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cbody=2Ctable=2Cblockquote{
+=09=09=09-ms-text-size-adjust:100%;
+=09=09=09-webkit-text-size-adjust:100%;
+=09=09}
+=09=09.ExternalClass=2C.ExternalClass p=2C.ExternalClass td=2C.ExternalCla=
+ss div=2C.ExternalClass span=2C.ExternalClass font{
+=09=09=09line-height:100%;
+=09=09}
+=09=09a[x-apple-data-detectors]{
+=09=09=09color:inherit !important;
+=09=09=09text-decoration:none !important;
+=09=09=09font-size:inherit !important;
+=09=09=09font-family:inherit !important;
+=09=09=09font-weight:inherit !important;
+=09=09=09line-height:inherit !important;
+=09=09}
+=09=09#bodyCell{
+=09=09=09padding:10px;
+=09=09}
+=09=09.templateContainer{
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09a.mcnButton{
+=09=09=09display:block;
+=09=09}
+=09=09.mcnImage=2C.mcnRetinaImage{
+=09=09=09vertical-align:bottom;
+=09=09}
+=09=09.mcnTextContent{
+=09=09=09word-break:break-word;
+=09=09}
+=09=09.mcnTextContent img{
+=09=09=09height:auto !important;
+=09=09}
+=09=09.mcnDividerBlock{
+=09=09=09table-layout:fixed !important;
+=09=09}
+=09=09body=2C#bodyTable{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09#bodyCell{
+=09=09=09border-top:0;
+=09=09}
+=09=09.templateContainer{
+=09=09=09border:0;
+=09=09}
+=09=09h1{
+=09=09=09color:#FFFFFF;
+=09=09=09font-family:Georgia;
+=09=09=09font-size:28px;
+=09=09=09font-style:italic;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:center;
+=09=09}
+=09=09h2{
+=09=09=09color:#FFFFFF;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:22px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:center;
+=09=09}
+=09=09h3{
+=09=09=09color:#FFFFFF;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:20px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:center;
+=09=09}
+=09=09h4{
+=09=09=09color:#FFFFFF;
+=09=09=09font-family:Courier New;
+=09=09=09font-size:18px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:normal;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:center;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09=09padding-top:9px;
+=09=09=09padding-bottom:9px;
+=09=09}
+=09=09#templatePreheader .mcnTextContent=2C#templatePreheader .mcnTextCont=
+ent p{
+=09=09=09color:#656565;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:12px;
+=09=09=09line-height:150%;
+=09=09=09text-align:center;
+=09=09}
+=09=09#templatePreheader .mcnTextContent a=2C#templatePreheader .mcnTextCo=
+ntent p a{
+=09=09=09color:#656565;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09=09padding-top:0;
+=09=09=09padding-bottom:9px;
+=09=09}
+=09=09#templateHeader .mcnTextContent=2C#templateHeader .mcnTextContent p{
+=09=09=09color:#202020;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:16px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templateHeader .mcnTextContent a=2C#templateHeader .mcnTextContent=
+ p a{
+=09=09=09color:#2BAADF;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateBody{
+=09=09=09background-color:#F24934;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09=09padding-top:0;
+=09=09=09padding-bottom:36px;
+=09=09}
+=09=09#templateBody .mcnTextContent=2C#templateBody .mcnTextContent p{
+=09=09=09color:#FFFFFF;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:16px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templateBody .mcnTextContent a=2C#templateBody .mcnTextContent p a{
+=09=09=09color:#FFFFFF;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09=09padding-top:9px;
+=09=09=09padding-bottom:9px;
+=09=09}
+=09=09#templateFooter .mcnTextContent=2C#templateFooter .mcnTextContent p{
+=09=09=09color:#656565;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:12px;
+=09=09=09line-height:150%;
+=09=09=09text-align:center;
+=09=09}
+=09=09#templateFooter .mcnTextContent a=2C#templateFooter .mcnTextContent=
+ p a{
+=09=09=09color:#656565;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09@media only screen and (min-width:768px){
+=09=09.templateContainer{
+=09=09=09width:600px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body=2Ctable=2Ctd=2Cp=2Ca=2Cli=2Cblockquote{
+=09=09=09-webkit-text-size-adjust:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body{
+=09=09=09width:100% !important;
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#bodyCell{
+=09=09=09padding-top:10px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnRetinaImage{
+=09=09=09max-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImage{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnCartContainer=2C.mcnCaptionTopContent=2C.mcnRecContentContainer=
+=2C.mcnCaptionBottomContent=2C.mcnTextContentContainer=2C.mcnBoxedTextCont=
+entContainer=2C.mcnImageGroupContentContainer=2C.mcnCaptionLeftTextContent=
+Container=2C.mcnCaptionRightTextContentContainer=2C.mcnCaptionLeftImageCon=
+tentContainer=2C.mcnCaptionRightImageContentContainer=2C.mcnImageCardLeftT=
+extContentContainer=2C.mcnImageCardRightTextContentContainer=2C.mcnImageCa=
+rdLeftImageContentContainer=2C.mcnImageCardRightImageContentContainer{
+=09=09=09max-width:100% !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnBoxedTextContentContainer{
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupContent{
+=09=09=09padding:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnCaptionLeftContentOuter .mcnTextContent=2C.mcnCaptionRightConten=
+tOuter .mcnTextContent{
+=09=09=09padding-top:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardTopImageContent=2C.mcnCaptionBottomContent:last-child .=
+mcnCaptionBottomImageContent=2C.mcnCaptionBlockInner .mcnCaptionTopContent=
+:last-child .mcnTextContent{
+=09=09=09padding-top:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardBottomImageContent{
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupBlockInner{
+=09=09=09padding-top:0 !important;
+=09=09=09padding-bottom:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupBlockOuter{
+=09=09=09padding-top:9px !important;
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnTextContent=2C.mcnBoxedTextContentColumn{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardLeftImageContent=2C.mcnImageCardRightImageContent{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-bottom:0 !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcpreview-image-uploader{
+=09=09=09display:none !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h1{
+=09=09=09font-size:22px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h2{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h3{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h4{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnBoxedTextContentContainer .mcnTextContent=2C.mcnBoxedTextContent=
+Container .mcnTextContent p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templatePreheader{
+=09=09=09display:block !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templatePreheader .mcnTextContent=2C#templatePreheader .mcnTextCont=
+ent p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templateHeader .mcnTextContent=2C#templateHeader .mcnTextContent p{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templateBody .mcnTextContent=2C#templateBody .mcnTextContent p{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templateFooter .mcnTextContent=2C#templateFooter .mcnTextContent p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}</style></head>
+    <body style=3D"height: 100%;margin: 0;padding: 0;width: 100%;-ms-text-=
+size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF=
+;">
+        <!--
+-->
+        <center>
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;height: 100%;margin: 0;pad=
+ding: 0;width: 100%;background-color: #FFFFFF;">
+                <tr>
+                    <td align=3D"center" valign=3D"top" id=3D"bodyCell" st=
+yle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;height: 100%;margin: 0;padding: 10px;width: 100%;bord=
+er-top: 0;">
+                        <!-- BEGIN TEMPLATE // -->
+=09=09=09=09=09=09<!--[if gte mso 9]>
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" width=3D"600" style=3D"width:600px;">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" valign=3D"top" width=3D"600" style=
+=3D"width:600px;">
+=09=09=09=09=09=09<![endif]-->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" class=3D"templateContainer" style=3D"border-collapse=
+: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;border: 0;max-width: 600px !importa=
+nt;">
+                            <tr>
+                                <td valign=3D"top" id=3D"templatePreheader=
+" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;background-color: #FFFFFF;border-top: 0;border-bo=
+ttom: 0;padding-top: 9px;padding-bottom: 9px;"><table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock" style=
+=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-ta=
+ble-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"paddin=
+g-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;">
+              =09<!--[if mso]>
+=09=09=09=09<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100%;">
+=09=09=09=09<tr>
+=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09<!--[if mso]>
+=09=09=09=09<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+=09=09=09=09<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"max-width: 100%;min-width: 100%;border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextContent=
+Container">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 1=
+8px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;word-break: break-word;color: #656565;font-family: Helve=
+tica;font-size: 12px;line-height: 150%;text-align: center;">
+
+                            <a href=3D"https://mailchi.mp/mail/hotfrog-134=
+693?e=3Df82549f3ce" target=3D"_blank" style=3D"mso-line-height-rule: exactly=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #656565;=
+font-weight: normal;text-decoration: underline;">View this email in your b=
+rowser</a>
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateHeader" s=
+tyle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;background-color: #FFFFFF;border-top: 0;border-botto=
+m: 0;padding-top: 0;padding-bottom: 9px;"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnImageBlock" style=3D"m=
+in-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 9px;mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" c=
+lass=3D"mcnImageBlockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-ta=
+ble-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom=
+: 0;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;">
+
+
+                                        <img align=3D"center" alt=3D"" src=
+=3D"https://gallery.mailchimp.com/1492630898df7cdc885387fa0/images/10e09b2=
+b-efef-406f-b382-18f353e07142.jpg" width=3D"564" style=3D"max-width: 1500p=
+x;padding-bottom: 0;display: inline !important;vertical-align: bottom;bord=
+er: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-m=
+ode: bicubic;" class=3D"mcnImage">
+
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateBody" sty=
+le=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;background-color: #F24934;border-top: 0;border-bottom:=
+ 0;padding-top: 0;padding-bottom: 36px;"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnImageBlock" style=3D"m=
+in-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 0px;mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" c=
+lass=3D"mcnImageBlockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-ta=
+ble-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 0px;padding-left: 0px;padding-top: 0;padding-bottom=
+: 0;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;">
+
+                                    <a href=3D"https://hotfrog.us7.list-ma=
+nage.com/track/click?u=3D1492630898df7cdc885387fa0&id=3Dab26f950f9&e=3Df82549f3ce" title=3D"" class=3D"" target=3D"_blank" style=3D"mso-line-height=
+-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"=
+>
+                                        <img align=3D"center" alt=3D"" src=
+=3D"https://gallery.mailchimp.com/1492630898df7cdc885387fa0/images/6e6c9c7=
+c-8503-4b8a-a793-4f3e185de0af.jpg" width=3D"600" style=3D"max-width: 1200p=
+x;padding-bottom: 0;display: inline !important;vertical-align: bottom;bord=
+er: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-m=
+ode: bicubic;" class=3D"mcnImage">
+                                    </a>
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"min-width: 100%;border-collapse: coll=
+apse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"paddin=
+g-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;">
+              =09<!--[if mso]>
+=09=09=09=09<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100%;">
+=09=09=09=09<tr>
+=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09<!--[if mso]>
+=09=09=09=09<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+=09=09=09=09<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"max-width: 100%;min-width: 100%;border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextContent=
+Container">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 1=
+8px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;word-break: break-word;color: #FFFFFF;font-family: Helve=
+tica;font-size: 16px;line-height: 150%;text-align: left;">
+
+
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"min-width: 100%;border-collapse: coll=
+apse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"paddin=
+g-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;">
+              =09<!--[if mso]>
+=09=09=09=09<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100%;">
+=09=09=09=09<tr>
+=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09<!--[if mso]>
+=09=09=09=09<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+=09=09=09=09<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"max-width: 100%;min-width: 100%;border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextContent=
+Container">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 1=
+8px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;word-break: break-word;color: #FFFFFF;font-family: Helve=
+tica;font-size: 16px;line-height: 150%;text-align: left;">
+
+                            <span style=3D"font-family:arial=2Chelvetica n=
+eue=2Chelvetica=2Csans-serif"><span style=3D"font-size:29px">Hotfrog=E6=97=
+=A5=E6=9C=AC=E3=81=AB=E6=96=B0=E3=81=97=E3=81=84=E3=83=AB=E3=83=83=E3=82=
+=AF=E3=82=B9=E3=81=8C=E7=99=BB=E5=A0=B4</span></span>
+
+<div style=3D"text-align: left;"><br>
+<span style=3D"font-family:arial=2Chelvetica neue=2Chelvetica=2Csans-serif=
+"><span style=3D"font-size:14px">=E7=9A=86=E6=A7=98=E3=81=8B=E3=82=89=E3=
+=81=AE=E5=A3=B0=E3=81=AB=E8=80=B3=E3=82=92=E5=82=BE=E3=81=91=E3=80=81=E3=
+=83=AA=E3=82=AF=E3=82=A8=E3=82=B9=E3=83=88=E3=81=AB=E3=81=8A=E5=BF=9C=E3=
+=81=88=E3=81=97=E3=81=A6=E3=80=81=E6=A4=9C=E7=B4=A2=E3=81=AB=E9=96=A2=E3=
+=81=99=E3=82=8B=E5=A4=89=E6=9B=B4=E3=80=81=E3=83=9E=E3=83=83=E3=83=94=E3=
+=83=B3=E3=82=B0=E3=81=AE=E5=A4=89=E6=9B=B4=E3=80=81=E3=81=9D=E3=81=97=E3=
+=81=A6=E6=90=BA=E5=B8=AF=E3=82=92=E3=82=88=E3=82=8A=E4=BD=BF=E3=81=84=E3=
+=82=84=E3=81=99=E3=81=8F=E3=81=99=E3=82=8B=E3=81=AA=E3=81=A9=E3=81=AE=E6=
+=94=B9=E5=96=84=E3=82=92=E8=A1=8C=E3=81=84=E3=81=BE=E3=81=97=E3=81=9F=E3=
+=80=82<br>
+&nbsp;<br>
+Hotfrog =E6=97=A5=E6=9C=AC*=E3=82=92=E3=81=94=E5=88=A9=E7=94=A8=E4=B8=AD=
+=E3=81=AB=E3=80=81=E3=81=82=E3=81=AA=E3=81=9F=E3=81=AE=E6=83=85=E5=A0=B1=
+=E3=81=8C=E3=81=BE=E3=81=A0=E6=AD=A3=E7=A2=BA=E3=81=A7=E3=81=82=E3=82=8B=
+=E3=81=8B=E7=A2=BA=E8=AA=8D=E3=81=97=E3=81=A6=E3=81=8F=E3=81=A0=E3=81=95=
+=E3=81=84=E3=80=82<br>
+&nbsp;<br>
+=E4=B8=8B=E8=A8=98=E3=81=AE=E3=83=9C=E3=82=BF=E3=83=B3=E3=82=92=E3=82=AF=
+=E3=83=AA=E3=83=83=E3=82=AF=E3=81=97=E3=81=A6=E3=83=AA=E3=82=B9=E3=83=88=
+=E5=86=85=E5=AE=B9=E3=82=92=E3=81=94=E8=A6=A7=E3=81=8F=E3=81=A0=E3=81=95=
+=E3=81=84=E3=80=82<br>
+&nbsp;<br>
+=E3=81=82=E3=82=8A=E3=81=8C=E3=81=A8=E3=81=86=E3=81=94=E3=81=96=E3=81=84=
+=E3=81=BE=E3=81=99=2C<br>
+&nbsp;</span><br>
+<span style=3D"font-size:12px">*=E6=96=B0=E3=81=97=E3=81=8F=E3=81=AA=E3=81=
+=A3=E3=81=9FHotfrog=E3=81=AB=E5=88=9D=E3=82=81=E3=81=A6=E3=83=AD=E3=82=B0=
+=E3=82=A4=E3=83=B3=E3=81=99=E3=82=8B=E5=A0=B4=E5=90=88=E3=81=AF=E3=80=81=
+=E6=96=B0=E3=81=97=E3=81=84=E3=83=91=E3=82=B9=E3=83=AF=E3=83=BC=E3=83=89=
+=E3=82=92=E5=85=A5=E5=8A=9B=E3=81=97=E3=81=A6=E3=81=84=E3=81=9F=E3=81=A0=
+=E3=81=8D=E3=81=BE=E3=81=99=E3=80=82</span></span></div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnButtonBlock" style=3D"min-width: 100%;border-collapse: co=
+llapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnButtonBlockOuter">
+        <tr>
+            <td style=3D"padding-top: 0;padding-right: 18px;padding-bottom=
+: 18px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;" valign=3D"top" align=3D"center"=
+ class=3D"mcnButtonBlockInner">
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"mcnButtonContentContainer" style=3D"border-collapse: separate !impo=
+rtant;background-color: #FFFFFF;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody>
+                        <tr>
+                            <td align=3D"center" valign=3D"middle" class=
+=3D"mcnButtonContent" style=3D"font-family: Helvetica;font-size: 16px;padd=
+ing: 15px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+                                <a class=3D"mcnButton " title=3D"HOTFROG=
+=E3=81=A7=E3=81=82=E3=81=AA=E3=81=9F=E3=81=AE=E3=83=AA=E3=82=B9=E3=83=88=
+=E5=86=85=E5=AE=B9=E3=82=92=E8=A6=8B=E3=82=8B" href=3D"https://hotfrog.us7=
+=2Elist-manage.com/track/click?u=3D1492630898df7cdc885387fa0&id=3Dba9328c912=
+&e=3Df82549f3ce" target=3D"_self" style=3D"font-weight: bold;letter-spaci=
+ng: normal;line-height: 100%;text-align: center;text-decoration: none;colo=
+r: #F24934;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;display: block;">HOTFROG=E3=81=A7=E3=81=82=E3=81=
+=AA=E3=81=9F=E3=81=AE=E3=83=AA=E3=82=B9=E3=83=88=E5=86=85=E5=AE=B9=E3=82=
+=92=E8=A6=8B=E3=82=8B</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09<td align=3D"center" valign=3D"top" style=3D"mso-l=
+ine-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;">
+=09=09=09=09=09=09=09=09=09<img src=3D"https://cdn-images.mailchimp.com/te=
+mplate_images/gallery/8a7030a1-3d71-45ca-aa5d-e244b31efdf5.png" width=3D"1=
+00%" height=3D"auto" style=3D"display: block;margin: 0;padding: 0;border:=
+ 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode=
+: bicubic;">
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09</tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateFooter" s=
+tyle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;background-color: #FFFFFF;border-top: 0;border-botto=
+m: 0;padding-top: 9px;padding-bottom: 9px;"><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock" style=3D"m=
+in-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"paddin=
+g-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;">
+              =09<!--[if mso]>
+=09=09=09=09<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100%;">
+=09=09=09=09<tr>
+=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09<!--[if mso]>
+=09=09=09=09<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+=09=09=09=09<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"max-width: 100%;min-width: 100%;border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextContent=
+Container">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 1=
+8px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;word-break: break-word;color: #656565;font-family: Helve=
+tica;font-size: 12px;line-height: 150%;text-align: center;">
+
+                            <table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-table-lspa=
+ce: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td valign=3D"top" style=3D"mso-line-height-rule: exactly;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td valign=3D"top" style=3D"mso-line-height-rule: exactl=
+y;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><img align=
+=3D"center" alt=3D"Hotfrog - Do business differently" src=3D"https://galle=
+ry.mailchimp.com/1492630898df7cdc885387fa0/images/28ea4314-5560-43c8-a39b-=
+d738268ec8cc.png" width=3D"128" style=3D"border: 0;height: auto !important=
+;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;"></t=
+d>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+&nbsp;
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" sty=
+le=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td valign=3D"top" style=3D"mso-line-height-rule: exactly;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td valign=3D"top" style=3D"mso-line-height-rule: exactl=
+y;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">=E3=81=93=E3=
+=82=8C=E3=81=AFHotfrog=E3=81=8B=E3=82=89=E3=81=AE=E3=83=A1=E3=83=83=E3=82=
+=BB=E3=83=BC=E3=82=B8=E3=81=A7=E3=81=99=E3=80=82Hotfrog=E3=81=AF<a href=3D=
+"https://hotfrog.us7.list-manage.com/track/click?u=3D1492630898df7cdc88538=
+7fa0&id=3D05d34a5c14&e=3Df82549f3ce" target=3D"_blank" title=3D"Moboom -=
+ Build a Responsive Website" style=3D"mso-line-height-rule: exactly;-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #656565;font-we=
+ight: normal;text-decoration: underline;">Moboom&nbsp;Limited</a>=E3=81=8C=
+=E6=89=80=E6=9C=89=E3=81=99=E3=82=8BWeb=E3=82=B5=E3=82=A4=E3=83=88=E3=81=
+=A7=E3=81=99=E3=80=82<br>
+=09=09=09=09=09=09Unit 12 =2C 295 Rokeby Road=2C Subiaco=2C 6008 WA Austra=
+lia.<br>
+=09=09=09=09=09=09<br>
+=09=09=09=09=09=09<a href=3D"https://hotfrog.us7.list-manage.com/track/cli=
+ck?u=3D1492630898df7cdc885387fa0&id=3Da4200b06e0&e=3Df82549f3ce" target=
+=3D"_blank" title=3D"Terms of Use" style=3D"mso-line-height-rule: exactly;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #656565;f=
+ont-weight: normal;text-decoration: underline;">S</a><a href=3D"https://ho=
+tfrog.us7.list-manage.com/track/click?u=3D1492630898df7cdc885387fa0&id=3D6=
+ccbecdea3&e=3Df82549f3ce" target=3D"_blank" style=3D"mso-line-height-rule=
+: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color:=
+ #656565;font-weight: normal;text-decoration: underline;">mall Business Hu=
+b</a>&nbsp;|&nbsp;<a href=3D"https://hotfrog.us7.list-manage.com/track/cli=
+ck?u=3D1492630898df7cdc885387fa0&id=3D91349b2952&e=3Df82549f3ce" target=
+=3D"_blank" title=3D"Privacy Policy" style=3D"mso-line-height-rule: exactl=
+y;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #656565=
+;font-weight: normal;text-decoration: underline;">Privacy</a>&nbsp;|&nbsp;=
+<a href=3D"https://hotfrog.us7.list-manage.com/track/click?u=3D1492630898d=
+f7cdc885387fa0&id=3D4252057377&e=3Df82549f3ce" target=3D"_blank" title=3D=
+"Contact Us" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;color: #656565;font-weight: normal;te=
+xt-decoration: underline;">Support</a><br>
+=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=E3=81=82=E3=81=AA=E3=81=9F=E3=81=AFinfo@tiautogarage.jp=E3=
+=81=A7Hotfrog=E3=81=AB=E7=99=BB=E9=8C=B2=E3=81=97=E3=81=A6=E3=81=84=E3=81=
+=BE=E3=81=99=E3=80=82</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" sty=
+le=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td align=3D"center" valign=3D"top" style=3D"mso-line-height-rule=
+: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09=09<tbody>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                        </table>
+=09=09=09=09=09=09<!--[if gte mso 9]>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<![endif]-->
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+                <center>
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" id=3D"canspamBarWrapper" style=3D"background-color:#FFFFFF; b=
+order-top:1px solid #E5E5E5;">
+                    <tr>
+                        <td align=3D"center" valign=3D"top" style=3D"paddi=
+ng-top:20px; padding-bottom:20px;">
+                            <table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" id=3D"canspamBar">
+                                <tr>
+                                    <td align=3D"center" valign=3D"top" st=
+yle=3D"color:#606060; font-family:Helvetica=2C Arial=2C sans-serif; font-s=
+ize:11px; line-height:150%; padding-right:20px; padding-bottom:5px; paddin=
+g-left:20px; text-align:center;">
+                                        This email was sent to <a href=3D"=
+mailto:info@tiautogarage.jp" target=3D"_blank" style=3D"color:#404040 !importa=
+nt;">info@tiautogarage.jp</a>
+                                        <br />
+                                        <a href=3D"https://hotfrog.us7.lis=
+t-manage.com/about?u=3D1492630898df7cdc885387fa0&id=3D777f795c8f&e=3Df82549f3ce&c=3Ddea891d57c" target=3D"_blank" style=3D"color:#404040 !important;">=
+<em>why did I get this?</em></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"https:/=
+/hotfrog.us7.list-manage.com/unsubscribe?u=3D1492630898df7cdc885387fa0&id=
+=3D777f795c8f&e=3Df82549f3ce&c=3Ddea891d57c" style=3D"color:#404040 !importa=
+nt;">unsubscribe from this list</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"http=
+s://hotfrog.us7.list-manage.com/profile?u=3D1492630898df7cdc885387fa0&id=
+=3D777f795c8f&e=3Df82549f3ce" style=3D"color:#404040 !important;">update sub=
+scription preferences</a>
+                                        <br />
+                                        Hotfrog &middot; Tower 2 L3=2C 475=
+ Victoria Avenue &middot; Chatswood=2C Nsw 2067 &middot; Australia
+                                        <br />
+                                        <br />
+
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <style type=3D"text/css">
+                    @media only screen and (max-width: 480px){
+                        table#canspamBar td{font-size:14px !important;}
+                        table#canspamBar td a{display:block !important; ma=
+rgin-top:10px !important;}
+                    }
+                </style>
+            </center><img src=3D"https://hotfrog.us7.list-manage.com/track=
+/open.php?u=3D1492630898df7cdc885387fa0&id=3Ddea891d57c&e=3Df82549f3ce" h=
+eight=3D"1" width=3D"1"></body>
+</html>
+--_----------=_MCPart_385043262--
+

@@ -1,0 +1,65 @@
+Return-Path: <sales=mail.rakuten.co.jp__45x41fsaefsnmbeh@bvpr98m0apzj.1-dqgeae.ap3.bnc.salesforce.com>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,SPF_HELO_NONE,URIBL_BLOCKED autolearn=ham
+	autolearn_force=no version=3.4.0
+Received: (qmail 457514 invoked by uid 89); 12 Sep 2019 12:31:20 +0900
+Received: from smtp06-ukb-sp1.mta.salesforce.com (101.53.164.229)
+  by c4.hpms1.jp with AES256-GCM-SHA384 encrypted SMTP; 12 Sep 2019 12:31:20 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at _spf.salesforce.com designates 101.53.164.229 as permitted sender)
+Return-Path: <sales=mail.rakuten.co.jp__45x41fsaefsnmbeh@bvpr98m0apzj.1-dqgeae.ap3.bnc.salesforce.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mail.rakuten.co.jp;
+	s=sf-ichiba; t=1568259080;
+	bh=SBloTsQNJJyfYstx0XAecA/yfwGM2xlNUCuIwuDezsg=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	b=RkCLTfjy8zXrZj/ExBtVpiYy6NU7SsK6k79S0E4jNUoD1iyobIKfI2l3NpkMFFxQK
+	 Xb7UdeHGAgQ65mXBbr+amrwi/ngHHOwPkISaMGu8JO9O+WD+FyoEcI5327GVUTSwpL
+	 xgs1apqHWm/YzKME3sH95FK+N5HsPPpt4IVjWpGE=
+Authentication-Results:  mx1-ukb-sp1.mta.salesforce.com x-tls.subject="/C=US/ST=California/L=San Francisco/O=salesforce.com, inc./OU=0:app;1:ukb;2:ukb-sp1;3:ap3;4:prod/CN=ap3-app1-16-ukb.ops.sfdc.net"; auth=pass (cipher=ECDHE-RSA-AES256-GCM-SHA384)
+Received: from [10.218.192.36] ([10.218.192.36:33338] helo=ap3-app1-16-ukb.ops.sfdc.net)
+	by mx1-ukb-sp1.mta.salesforce.com (envelope-from <sales=mail.rakuten.co.jp__45x41fsaefsnmbeh@bvpr98m0apzj.1-dqgeae.ap3.bnc.salesforce.com>)
+	(ecelerity 4.2.38.62368 r(Core:release/4.2.38.0)) with ESMTPS (cipher=ECDHE-RSA-AES256-GCM-SHA384
+	subject="/C=US/ST=California/L=San Francisco/O=salesforce.com, inc./OU=0:app;1:ukb;2:ukb-sp1;3:ap3;4:prod/CN=ap3-app1-16-ukb.ops.sfdc.net") 
+	id 92/42-64090-80CB97D5; Thu, 12 Sep 2019 03:31:20 +0000
+Date: Thu, 12 Sep 2019 03:31:20 +0000 (GMT)
+From: =?Shift_JIS?B?inmTVoqUjq6J747Q?= <sales@mail.rakuten.co.jp>
+Sender: noreply@salesforce.com
+To: "yuka.yanagawa@rakuten.com" <yuka.yanagawa@rakuten.com>,
+	"info@tiautogarage.jp" <info@tiautogarage.jp>
+Cc: "ecc-ecc4-support@mail.rakuten.com" <ecc-ecc4-support@mail.rakuten.com>
+Message-ID: <OUnKH000000000000000000000000000000000000000000000PXP8G800qCvpUh13TlSIGCDYPjZBAw@sfdc.net>
+Subject: =?Shift_JIS?B?gXmKeZNWjnOP6oF6j2+TWJBcjZ6Krpe5gsyCqJJtgueCuQ==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=Shift_JIS
+Content-Transfer-Encoding: base64
+X-SFDC-LK: 00D100000000Dqg
+X-SFDC-User: 00510000000I1WZ
+X-Sender: postmaster@salesforce.com
+X-mail_abuse_inquiries: http://www.salesforce.com/company/abuse.jsp
+X-SFDC-TLS-NoRelay: 1
+X-SFDC-Binding: 1WrIRBV94myi25uB
+X-SFDC-EmailCategory: workflowActionAlert
+X-SFDC-EntityId: 01W5F000000kAgF
+X-SFDC-Interface: internal
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25569/Wed Sep 11 17:22:25 2019
+
+iOSP45dsIA0KDQoNCoKokKKYYoLJgsiCwYLEgqiC6ILcgreBQiANCop5k1aKlI6uie+O0IFAkFaL
+S49vk1iRi4z7gsWCsoK0gqKC3IK3gUIgDQoNCop5k1aOc4/qj2+TWILMgqiQXI2egqCC6IKqgsaC
+pIKygrSCooLcgreBQiANCo+JifGQXI2ek/oJgUYyMDE5LzA5LzEyIA0KDQqCspP8l82CooK9gr6C
+ooK9k+CXZYLNibqLTILmguiCsoptlEaCooK9gr6Cr4LcgreBQiANCmh0dHBzOi8vZWNhcHBmcm0u
+cmFrdXRlbi5jby5qcC8gDQoNCpPgl2WCyYrWgrWCxIFBlb6O0JJTk5aC5oLogrKYQZeNgrOCuYLE
+gqKCvYK+gq2CsYLGgqqCsoK0gqKC3IK3gUIgDQqJvZGyguaC64K1gq2CqIrogqKCooK9grWC3IK3
+gUIgDQoNCg0KhKqEqoSqhKqEqoSqhKqEqoSqhKqEqoSqhKqEqoSqhKqEqoSqhKqEqoSqhKqEqoSq
+hKqEqoSqhKqEqoSqhKqEqiANCkVDg0qDk4Nwg2qBW4FAk1iV3IpKlK2VlIFAkFaLSyCPb5NYkYuM
++yANCoKok2SYYoLFluKNh4K5gcuBRjA1MC01ODE3LTExMDCBQIFpiWOLxo6eitQgMTA6MDCBYDE4
+OjAwIJN5k/qPao3Vk/qPnIKtgWogDQqErISqhK2ErISqhK2ErISqhK2ErISqhK0ginmTVoqUjq6J
+747QIC0gUmFrdXRlbiwgSW5jLiANCoSrinmEq4Srk1aEq4SrjnOEq4Srj+qEqyCBpzE1OC0wMDk0
+IJOMi56Tc5Cik2OSSovmi8qQ7DEtMTQtMSANCoSvhKqEroSvhKqEroSvhKqEroSvhKqEriCKeZNW
+g06DioOAg12Dk4Nug0WDWCANCoSfhJ+En4SfhJ+En4SfhJ+En4SfhJ+En4SfhJ+En4SfhJ+En4Sf
+hJ+En4SfhJ+En4SfhJ+En4SfhJ+En4SfhJ8gDQqBQENvcHlyaWdodCAoYymBQFJha3V0ZW4sIElu
+Yy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC4gDQqEqoSqhKqEqoSqhKqEqoSqhKqEqoSqhKqEqoSqhKqE
+qoSqhKqEqoSqhKqEqoSqhKqEqoSqhKqEqoSqhKqEqoSq
+

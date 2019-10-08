@@ -1,0 +1,197 @@
+Return-Path: <bounce-000074764-00051271a92379@manage3.sonicmail.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=6.0 tests=BAYES_00,DKIMWL_WL_MED,
+	DKIM_SIGNED,DKIM_VALID,SPF_HELO_PASS,URIBL_BLOCKED autolearn=ham
+	autolearn_force=no version=3.4.0
+Received: (qmail 990676 invoked by uid 89); 28 Jun 2019 11:44:33 +0900
+Received: from delivery9.manage3.sonicmail.jp (HELO manage3.sonicmail.jp) (203.133.232.176)
+  by c4.hpms1.jp with SMTP; 28 Jun 2019 11:44:33 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at spf.gao.ne.jp designates 203.133.232.176 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=dkim.cuenote.jp;
+	s=y174; t=1561689873; x=1562294673;
+	bh=M5FCfAce1IwoSttcKvufaPQ0oMykJihuEA37Un5zKTI=;
+	h=Date:From:Subject:To;
+	b=krPJZjQtneVwLGDem9d0cVGK4SgJgtlMxeRcqZ3njlo7biZD9ffrQOmkSZFn
+	 PyKo4O+FeJNASD4rEEXk575hjHQg1Ubhve3D9ab1eFXZN2gwB5hxa0cLWt2mo
+	 Bm0Tszuk59pUxyvY23CTrOfF/lDj3DFC99VLin5d+0YPcMWl2Y=
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=ISO-2022-JP
+Date: Fri, 28 Jun 2019 11:44:33 +0900
+Errors-To: bounce-000074764-00051271a92379@manage3.sonicmail.jp
+From: <magazine@hanshintigers.jp>
+Message-ID: <06901cdf-dd43-4940-b714-c2ed19d98ee5@manage3.sonicmail.jp>
+MIME-Version: 1.0
+Subject: =?ISO-2022-JP?B?GyRCNWVDRDh4PDAlYSVrJV4lLCFWGyhCV2Vla2x5IA==?=
+ =?ISO-2022-JP?B?GyRCJT8lJCUsITwlORsoQiEbJEIhVxsoQg==?=
+To: <info@tiautogarage.jp>
+X-Priority: 3
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25493/Thu Jun 27 17:06:16 2019
+
+------------------------------------------------------------
+　球団公式メルマガ「Weekly タイガース！」　 ＝2019/06/28＝
+　　　　　　　　　　　　　　　　　　　　発行：阪神タイガース
+------------------------------------------------------------
+
+明日からペナントレースが再開します！まずは敵地で中日との2連戦！
+その後はオールスターまで9連戦が待ち構えています。熱い声援よろしくお願いします！
+
+
+【目次】
+------------------------------------------------------------
+★ タイガース最新情報
+------------------------------------------------------------
+★ イベントのお知らせ
+------------------------------------------------------------
+★ チケットのお知らせ
+------------------------------------------------------------
+★ グッズショップからのお知らせ
+------------------------------------------------------------
+★ 公式ファンクラブからのお知らせ
+------------------------------------------------------------
+★ 公式モバイルサイトからのお知らせ
+------------------------------------------------------------
+
+
+◆◆◆ファンクラブ会員様へお得な情報！提携施設のご案内◆◆◆
+2019年度公式ファンクラブ・ファンクラブKIDS会員様へお得な情報！
+提携施設のご案内です。Joshinの店舗で1回2,000円以上お買い上げの方に、
+ファンクラブ会員証のご提示でジョーシンポイント200ポイントをプレゼント！
+http://hanshintigers.jp/rd/2608/
+
+
+◆「虎魂(KODAMA)6月は大山選手」◆
+信頼される存在になるために＜後半＞を配信！
+これから迎える勝負の夏。大山選手が目指す、チーム内での自身の立ち位置とは。
+http://hanshintigers.jp/rd/2801/
+
+
+◆◇◆球団ニュース◆◇◆
+・西勇輝選手、公式戦通算1000奪三振記録達成！(6/21)
+http://hanshintigers.jp/rd/2788/
+
+・「矢野ガッツ」グッズの販売について(6/22)
+http://hanshintigers.jp/rd/2789/
+
+・「マイナビオールスターゲーム2019」ファン投票選出で
+梅野選手、近本選手、ジョンソン選手の3名が選出！(6/24)
+http://hanshintigers.jp/rd/2790/
+
+・7/5(金)-10(水) “甲子園 からあげ祭” 開催のお知らせ(6/25)
+http://hanshintigers.jp/rd/2791/
+
+・豪華景品がその場で当たる！「ウル虎スピードくじ」開催！(6/26)
+http://hanshintigers.jp/rd/2792/
+
+・今年も「ウル虎の夏2019限定オリジナルジャージ」背番号シート圧着サービス実施！(6/26)
+http://hanshintigers.jp/rd/2793/
+
+・7/10(水) 入場者プレゼント
+「名場面集クリアファイル」デザイン決定(6/26)
+http://hanshintigers.jp/rd/2794/
+
+・「フレッシュオールスターゲーム2019」に
+馬場選手、熊谷選手、小幡選手、齋藤選手、片山選手の5名が選出(6/26)
+http://hanshintigers.jp/rd/2795/
+
+・【モバイル会員限定】「ウル虎の夏 2019」にペアでご招待！(6/27)
+http://hanshintigers.jp/rd/2796/
+
+・7月の壁紙カレンダーを更新！7月は大山選手が登場！（6/27）
+http://hanshintigers.jp/rd/2797/
+
+・「マイナビオールスターゲーム2019」選手間投票選出で梅野選手が選出！（6/27）
+http://hanshintigers.jp/rd/2798/
+
+その他の球団ニュースはこちらから！
+http://hanshintigers.jp/rd/359/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆試合情報◆◇◆
+6/29(土)対 中日 (ナゴヤD) 14:00
+6/30(日)対 中日 (ナゴヤD) 14:00
+7/2(火)対 横浜DeNA (横浜) 18:00
+7/3(水)対 横浜DeNA (横浜) 18:00
+7/4(木)対 横浜DeNA (横浜) 18:00
+
+試合結果・今後の試合日程はこちらから
+http://hanshintigers.jp/rd/2619/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆イベント◆◇◆
+7/5(金)〜10(水)まで、フードイベント第4弾として
+甲子園球場ミズノスクエアにて「甲子園 からあげ祭」を開催します！
+からあげ商品をメインとした名店が出店するほか、8日(月)には
+「2019年甲子園グルメ大使」のNMB48の谷川愛梨さん、村瀬紗英さんがステージに登場！
+http://hanshintigers.jp/rd/2791/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆チケット◆◇◆
+7/10(水)対巨人戦は「名場面集クリアファイル」を入場者全員プレゼント！
+チケットのご購入はお早めに！
+http://hanshintigers.jp/rd/2794/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆グッズショップ◆◇◆
+■T-SHOP
+--------------------------------------------
+【期間限定】西投手1000奪三振記録達成記念グッズただいま販売中！ 
+--------------------------------------------
+http://hanshintigers.jp/rd/2799/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式ファンクラブ◆◇◆
+★7月も応援デーを開催★
+7月は5日(金)・8日(月)・16日(火)・19日(金)に応援デーを開催します！
+なお、5日(金)は女子得プラスを同時開催！
+※16日(火)はウエスタン・リーグ応援デーとなり、引換え時間・場所が異なるのでご注意ください。
+↓詳しくはこちら↓
+http://hanshintigers.jp/rd/2800/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式モバイルサイト◆◇◆
+公式モバイルサイトでは、「ウル虎の夏 2019」対象試合から
+7/30(火)対中日戦のペアチケットを抽選で10組20名様にプレゼント！
+当日は"黄色のウル虎ジャージ"を入場者全員にプレゼントするほか、様々な企画を予定しています！
+応募締め切りは7/4(木)23時59分まで。
+http://hanshintigers.jp/rd/2796/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆SNS◆◇◆
+タイガースの最新情報をイチ早くキャッチ！
+・Facebook   http://hanshintigers.jp/rd/907/
+
+・Twitter    http://hanshintigers.jp/rd/908/
+
+
+---阪神タイガースオフィシャルスポンサー---------------------
+
+Joshin
+http://hanshintigers.jp/rd/369/
+
+ミズノ
+http://hanshintigers.jp/rd/370/
+
+ローソン
+http://hanshintigers.jp/rd/371/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+※このメールマガジンの購読は無料です。
+※配信予定 ： 定期配信（毎週1回金曜予定） ＋ スポット配信（不定期）
+※このメールは返信できません。
+
+配信停止はこちら↓
+http://hanshintigers.jp/rd/372/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Copyright(C) HANSHIN Tigers. All Rights Reserved.
+

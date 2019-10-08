@@ -1,0 +1,386 @@
+/*共通のスタイル*/
+
+h1,h2,h3,h4,h5,h6,p	{
+
+	margin:0px;
+
+	padding:0px;
+
+	font-size:100%;
+
+	font-weight:normal;
+
+	line-height:140%;
+
+}
+
+
+
+body {
+
+	font-family: "ＭＳ Ｐゴシック", Osaka, "ヒラギノ角ゴ Pro W3";
+
+	font-size: 80%;
+
+	line-height: 140%;
+
+	color: #666666;
+
+	margin: 0px;
+
+	padding: 0px;
+
+	text-align:center;
+
+}
+
+
+
+a:link	{
+
+	color:#711717;
+
+	text-decoration:none;
+
+}
+
+a:visited	{
+
+	color:#711717;
+
+	text-decoration:none;
+
+}
+
+a:hover	{
+
+	color:#711717;
+
+	text-decoration:none;
+
+}
+
+a:active	{
+
+	color:#711717;
+
+	text-decoration:none;
+
+}
+
+
+
+#contentsWrap	{
+
+	width:750px;
+
+	text-align:left;
+
+	margin:0;
+
+	position:relative;
+
+}
+
+
+
+#logout_link	{
+
+	position:absolute;
+
+	top:10px;
+
+	right:10px;
+
+}
+
+#logout_link a	{
+
+	display:block;
+
+	text-align:right;
+
+	padding:2px 4px;
+
+	border:solid 1px #999999;
+
+	background:#FFFFFF;
+
+	text-decoration:none;
+
+}
+
+
+
+#contents	{
+
+	margin-left:10px;
+
+	width:730px;
+
+	margin-bottom:20px;
+
+}
+
+.topics_unit	{
+
+	margin-bottom:20px;
+
+}
+
+.search_win	{
+
+	margin-bottom:20px;
+
+}
+
+
+
+/*見出し*/
+
+h1	{
+
+	font-size:140%;
+
+	font-weight:bold;
+
+	color:#333333;
+
+	padding:10px;
+
+	background:#CCCCCC;
+
+	border-bottom:solid 3px; #999999;
+
+	margin-bottom:20px;
+
+}
+
+
+
+/*ログインフォーム*/
+
+#login_form	{
+
+	width:300px;
+
+	margin:auto;
+
+	margin-top:100px;
+
+	border:solid 5px #ECECEC;
+
+	padding:10px;
+
+}
+
+.login_message	{
+
+	margin-bottom:10px;
+
+	text-align:center;
+
+}
+
+#login_error	{
+
+	color:#FF0000;
+
+}
+
+#login_form table	{
+
+	width:100%;
+
+	margin-bottom:5px;
+
+}
+
+#login_form table th	{
+
+	width:30%;
+
+	padding:5px;
+
+	font-weight:normal;
+
+}
+
+#login_form table td	{
+
+	width:70%;
+
+	padding:5px;
+
+}
+
+#login_form table input	{
+
+	width:95%;
+
+}
+
+#login_form_submit	{
+
+	text-align:center;
+
+}
+
+
+
+/*記事一覧内の記事タイトル*/
+
+h2.admin_topic_list_title	{
+
+	font-size:100%;
+
+	font-weight:bold;
+
+	color:#333333;
+
+	background:#DDDDDD;
+
+	padding:7px;
+
+	margin:auto;
+
+	margin-bottom:15px;
+
+}
+
+
+
+/*サイトを見るボタン*/
+
+#view_site	{
+
+	text-align:right;
+
+	margin-bottom:20px;
+
+}
+
+#view_site a	{
+
+	margin:0;
+
+	padding:8px;
+
+	background:#ECECEC;
+
+	border:solid 1px #CCCCCC;
+
+}
+
+
+
+/*記事一覧の表示切替タブ*/
+
+#topic_input_list_sw	{
+
+	border-bottom:solid 1px #CCCCCC;
+
+	margin-bottom:20px;
+
+}
+
+#topic_input_list_sw ul	{
+
+	margin:0;
+
+	padding:0;
+
+	margin-bottom:-1px;
+
+	overflow:hidden;
+
+}
+
+#topic_input_list_sw ul li	{
+
+	float:left;
+
+	margin:0;
+
+	padding:0;
+
+	margin-left:5px;
+
+	display:inline;
+
+	list-style-type:none;
+
+}
+
+#topic_input_list_sw ul li a	{
+
+	display:block;
+
+	margin:0;
+
+	padding:15px;
+
+	background:#ECECEC;
+
+	border:solid 1px #CCCCCC;
+
+	white-space:nowrap;
+
+}
+
+#topic_input_list_sw ul li a.active	{
+
+	border-bottom:solid 1px #FFFFFF;
+
+	background:#FFFFFF;
+
+}
+
+#topic_input_list_sw ul li a.default	{
+
+	border-bottom:solid 1px #CCCCCC;
+
+}
+
+
+
+/*サブテンプレート内の設定*/
+
+h2	{
+
+	font-size:100%;
+
+	font-weight:bold;
+
+	color:#333333;
+
+	background:#DDDDDD;
+
+	padding:7px;
+
+	margin:auto;
+
+	margin-bottom:15px;
+
+}
+
+.text_unit	{
+
+	clear:both;
+
+	margin-bottom:15px;
+
+	overflow:hidden;
+
+}
+
+.text_unit img	{
+
+	float:left;
+
+	margin-right:10px;
+
+	margin-bottom:10px;
+
+}
+

@@ -1,0 +1,206 @@
+Return-Path: <info@supertoni.ru>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Flag: YES
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.0 required=6.0 tests=BAYES_50,DIGEST_MULTIPLE,
+	DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,FSL_BULK_SIG,HTML_MESSAGE,PYZOR_CHECK,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,SPF_HELO_PASS,URIBL_BLOCKED autolearn=no
+	autolearn_force=no version=3.4.0
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: dcbtc.info]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4999]
+	* -0.0 SPF_HELO_PASS SPF: HELO matches SPF record
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.9 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  1.4 PYZOR_CHECK Listed in Pyzor
+	*      (https://pyzor.readthedocs.io/en/latest/)
+	*  0.3 DIGEST_MULTIPLE Message hits more than one network digest check
+	*  0.8 FSL_BULK_SIG Bulk signature with no Unsubscribe
+Received: (qmail 886881 invoked by uid 89); 26 Feb 2019 23:46:51 +0900
+Received: from supertoni.ru (95.213.252.222)
+  by c4.hpms1.jp with SMTP; 26 Feb 2019 23:46:51 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at supertoni.ru designates 95.213.252.222 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=supertoni.ru;
+ h=Message-ID:From:To:Subject:Date:MIME-Version:Content-Type;
+ bh=HDULhCAunyI+zp0oZ8RK0DMs1f8=;
+ b=Np/+wepsU/d1x1RXXg96ujk9iDTJ5TZaJ0P0F/Hd0dIcuTeXuH9ow0+XjICN25rwBl84pNQmH5+p
+   F8zQgV7dssEp7TV71rirkWCYG7o3RSdc/BEVAMBrmC36zrv9MICdgPx1D85gk0Gl3Gqzhcgg1JF2
+   JMZSt/61j8ih28PM0YBRFUiEArUqIPGvQacp3+X28uFKRzFec8IKmc41OSH49WV1Q1UZC/58lfIW
+   ITEx1MlivSLnSci/hyP1ye6dSVMnWM6y9iy8jh38krfi0H7oVNkrRM+/woqHzbmTi6fbji+DC93Z
+   qQMNQHRD8V80eeE1Ri7mp/d7aCU7ShLbOGpyMQ==
+Message-ID: <2e380625d140c10b28d7217279ad95496a863fa1a6@supertoni.ru>
+From: "Sourav Chowdhury" <info@supertoni.ru>
+To: <info@tiautogarage.jp>
+Subject: *****SPAM***** How to get bitcoin being at work?
+Date: Tue, 26 Feb 2019 17:46:48 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0a296089d6c4eee77b7ec8648286acb67ce770"
+X-Spam-Prev-Subject: How to get bitcoin being at work?
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25370/Sun Feb 24 22:23:00 2019
+
+--0a296089d6c4eee77b7ec8648286acb67ce770
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+How you spend your cofeebreak? How to spend this time with benefit?
+Use this time to grow bitcoins by 10% pressing a few buttons.
+Quicker than a cup of coffee
+dcbtc.info grows bitcoins by 10% in 2 days.
+Automaticall payout to your bitcoin wallet.
+Try it and get benefit!
+Guaranteed by the blockchain technology!
+
+--0a296089d6c4eee77b7ec8648286acb67ce770
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><SPAN=20
+style=3D"FONT-SIZE: 13px; FONT-FAMILY: Tahoma, sans-serif, Arial, Helveti=
+ca; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT=
+: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHA=
+NS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BAC=
+KGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures=
+: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text=
+-decoration-style: initial; text-decoration-color: initial">How=20
+you spend your cofeebreak? How to spend this time with benefit?</SPAN><BR=
+=20
+style=3D"BOX-SIZING: border-box; FONT-SIZE: 13px; FONT-FAMILY: Tahoma, sa=
+ns-serif, Arial, Helvetica; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEX=
+T-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: no=
+rmal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rg=
+b(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-va=
+riant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style=
+: initial; text-decoration-color: initial"><BR=20
+style=3D"BOX-SIZING: border-box; FONT-SIZE: 13px; FONT-FAMILY: Tahoma, sa=
+ns-serif, Arial, Helvetica; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEX=
+T-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: no=
+rmal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rg=
+b(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-va=
+riant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style=
+: initial; text-decoration-color: initial"><SPAN=20
+style=3D"FONT-SIZE: 13px; FONT-FAMILY: Tahoma, sans-serif, Arial, Helveti=
+ca; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT=
+: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHA=
+NS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BAC=
+KGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures=
+: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text=
+-decoration-style: initial; text-decoration-color: initial">Use=20
+this time to grow bitcoins by 10% pressing a few buttons.</SPAN><BR=20
+style=3D"BOX-SIZING: border-box; FONT-SIZE: 13px; FONT-FAMILY: Tahoma, sa=
+ns-serif, Arial, Helvetica; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEX=
+T-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: no=
+rmal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rg=
+b(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-va=
+riant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style=
+: initial; text-decoration-color: initial"><SPAN=20
+style=3D"FONT-SIZE: 13px; FONT-FAMILY: Tahoma, sans-serif, Arial, Helveti=
+ca; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT=
+: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHA=
+NS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BAC=
+KGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures=
+: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text=
+-decoration-style: initial; text-decoration-color: initial">Quicker=20
+than a cup of coffee</SPAN><BR=20
+style=3D"BOX-SIZING: border-box; FONT-SIZE: 13px; FONT-FAMILY: Tahoma, sa=
+ns-serif, Arial, Helvetica; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEX=
+T-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: no=
+rmal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rg=
+b(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-va=
+riant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style=
+: initial; text-decoration-color: initial"><BR=20
+style=3D"BOX-SIZING: border-box; FONT-SIZE: 13px; FONT-FAMILY: Tahoma, sa=
+ns-serif, Arial, Helvetica; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEX=
+T-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: no=
+rmal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rg=
+b(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-va=
+riant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style=
+: initial; text-decoration-color: initial"><A=20
+style=3D"BOX-SIZING: border-box; FONT-SIZE: 13px; CURSOR: pointer; TEXT-D=
+ECORATION: none; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKG=
+ROUND: rgb(255,255,255) 0px 0px; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px=
+; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(58,109,153); FONT=
+-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDEN=
+T: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webki=
+t-text-stroke-width: 0px"=20
+href=3D"http://dcbtc.info/" rel=3D"noopener noreferrer"=20
+target=3D_blank>dcbtc.info</A><SPAN=20
+style=3D"FONT-SIZE: 13px; FONT-FAMILY: Tahoma, sans-serif, Arial, Helveti=
+ca; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT=
+: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHA=
+NS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BAC=
+KGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures=
+: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text=
+-decoration-style: initial; text-decoration-color: initial">=20
+grows bitcoins by 10% in 2 days.</SPAN><BR=20
+style=3D"BOX-SIZING: border-box; FONT-SIZE: 13px; FONT-FAMILY: Tahoma, sa=
+ns-serif, Arial, Helvetica; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEX=
+T-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: no=
+rmal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rg=
+b(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-va=
+riant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style=
+: initial; text-decoration-color: initial"><SPAN=20
+style=3D"FONT-SIZE: 13px; FONT-FAMILY: Tahoma, sans-serif, Arial, Helveti=
+ca; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT=
+: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHA=
+NS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BAC=
+KGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures=
+: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text=
+-decoration-style: initial; text-decoration-color: initial">Automaticall=20
+payout to your bitcoin wallet.</SPAN><BR=20
+style=3D"BOX-SIZING: border-box; FONT-SIZE: 13px; FONT-FAMILY: Tahoma, sa=
+ns-serif, Arial, Helvetica; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEX=
+T-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: no=
+rmal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rg=
+b(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-va=
+riant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style=
+: initial; text-decoration-color: initial"><BR=20
+style=3D"BOX-SIZING: border-box; FONT-SIZE: 13px; FONT-FAMILY: Tahoma, sa=
+ns-serif, Arial, Helvetica; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEX=
+T-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: no=
+rmal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rg=
+b(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-va=
+riant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style=
+: initial; text-decoration-color: initial"><SPAN=20
+style=3D"FONT-SIZE: 13px; FONT-FAMILY: Tahoma, sans-serif, Arial, Helveti=
+ca; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT=
+: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHA=
+NS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BAC=
+KGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures=
+: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text=
+-decoration-style: initial; text-decoration-color: initial">Try=20
+it and get benefit!</SPAN><BR=20
+style=3D"BOX-SIZING: border-box; FONT-SIZE: 13px; FONT-FAMILY: Tahoma, sa=
+ns-serif, Arial, Helvetica; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEX=
+T-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: no=
+rmal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rg=
+b(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-va=
+riant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style=
+: initial; text-decoration-color: initial"><SPAN=20
+style=3D"FONT-SIZE: 13px; FONT-FAMILY: Tahoma, sans-serif, Arial, Helveti=
+ca; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT=
+: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHA=
+NS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BAC=
+KGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures=
+: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text=
+-decoration-style: initial; text-decoration-color: initial">Guaranteed=20
+by the blockchain technology!</SPAN></DIV></BODY></HTML>
+
+--0a296089d6c4eee77b7ec8648286acb67ce770--
+

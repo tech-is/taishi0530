@@ -1,0 +1,55 @@
+Return-Path: <admin@marketing-resultal.ru>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.7 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,SPF_HELO_PASS,URIBL_ABUSE_SURBL,
+	URIBL_BLOCKED autolearn=no autolearn_force=no version=3.4.0
+Received: (qmail 948994 invoked by uid 89); 16 Dec 2018 22:05:03 +0900
+Received: from marketing-resultal.ru (77.244.215.193)
+  by c4.hpms1.jp with SMTP; 16 Dec 2018 22:05:03 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at marketing-resultal.ru designates 77.244.215.193 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=marketing-resultal.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=admin@marketing-resultal.ru;
+ bh=CwTxlNnwMGTKGa/wAPcXl6k/kyM=;
+ b=O0nG9BA8adfCd1Lbi1xnu/2S8rtuktIUrhIk21NExNf+Xx41y/0TLCzwojyjVTpESPH9PmhiIvbs
+   X37BKm8CavFqmtOB90c9KczJtWXEb2dyjaAgFE0iUKodu7uCZ//fEWkLJXC6OGrBpeFr1MqkYjwk
+   6YRuCpkL5VkVeoRfpG0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=marketing-resultal.ru;
+ b=kM+hZ6OJ6P//VgpwbEh1HldkMCzLJCX6qloN6Ki+cUBi3sBQgb7S/IvL++kqfFrcjZLtwLWS/sQ7
+   UKokou0GqeXzDbzp5ZRGh0hc0wcGGlHtyxqUc1C9m3pMxLgHn3fc+c+UqZWoggq3aYrO4pB7Acsi
+   nmuLCZ13bOe+5VqzXKc=;
+Message-ID: <a6f6e7a155c4458fac5395c6cd1921fdde2f0fa5d8@marketing-resultal.ru>
+Reply-To: "Spider" <admin@marketing-resultal.ru>
+From: "Spider" <admin@marketing-resultal.ru>
+To: <info@tiautogarage.jp>
+Subject: That is an important offers
+Date: Sun, 16 Dec 2018 16:05:01 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="23d9d5d2e0341b98444108b69246672baa37"
+X-Priority: 1
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25211/Sun Dec 16 11:18:15 2018
+
+--23d9d5d2e0341b98444108b69246672baa37
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0 Look what we have for you! a good offering Just click on the link =
+below to qualify
+
+--23d9d5d2e0341b98444108b69246672baa37
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A=20
+href=3D"http://red.studygood.com/PPKBOAUIEFCP">&nbsp; =20
+Look what we have for you! a good offering=20
+Just click on the link below to qualify </A></DIV></BODY></HTML>
+
+--23d9d5d2e0341b98444108b69246672baa37--
+

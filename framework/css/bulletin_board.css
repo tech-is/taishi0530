@@ -1,0 +1,45 @@
+header{
+    text-align: center;
+    background-color: skyblue;
+}
+
+h1{
+padding: 30px;
+text-align :center;
+font-family:"MS Pゴシック"; 
+}
+
+h3{
+text-align :center;
+}
+
+p{
+text-align: left;
+margin-left: 120px;
+}
+
+.line{
+color:skyblue;
+}
+
+.text{
+width:1000px;
+}
+
+.message{
+width:1000px;
+height:100px;
+text-align:left;
+}
+
+.bad_message{
+text-align:center;
+color:red;
+font-size:20px;
+font-family:"MS Pゴシック";
+}
+
+button{
+float:right;
+
+}

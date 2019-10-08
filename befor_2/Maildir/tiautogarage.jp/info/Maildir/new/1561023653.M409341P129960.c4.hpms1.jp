@@ -1,0 +1,149 @@
+Return-Path: <musiclove200003117_o3o@indeedemail.com>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-9.5 required=6.0 tests=BAYES_00,DKIMWL_WL_MED,
+	DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_IMAGE_ONLY_32,HTML_MESSAGE,
+	SPF_HELO_NONE,URIBL_BLOCKED,USER_IN_DEF_DKIM_WL autolearn=ham
+	autolearn_force=no version=3.4.0
+Received: (qmail 129953 invoked by uid 89); 20 Jun 2019 18:40:43 +0900
+Received: from mail96.indeedemail.com (HELO mail96.indeedmail.com) (198.58.75.96)
+  by c4.hpms1.jp with AES256-GCM-SHA384 encrypted SMTP; 20 Jun 2019 18:40:43 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at indeedemail.com designates 198.58.75.96 as permitted sender)
+Received: from aus-mexec43.indeed.net (unknown [10.1.3.211])
+	by mail96.indeedmail.com (Postfix) with ESMTP id 45TxdJ5GtMz18ZSwK
+	for <info@tiautogarage.jp>; Thu, 20 Jun 2019 04:40:36 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeedemail.com;
+	s=default; t=1561023636;
+	bh=32mKT/MiZn7kXwAmJNy+RU9X8vZ0AM4IGPDXIX23XvQ=;
+	h=Date:From:To:Subject;
+	b=NMpxbJaymYT9wIShtedmexhvNZOmpjZr0nYIC5KQd0brS+KZ6bVG7GPKhrILTmhM1
+	 pSA20jYnXVN4R+wk2JyjqGaLIdqwh1gIMxAXNuEcDMfAZBTYeVtO6hFwRHKrx0DJNk
+	 V3wcS+bwpSePyPts2OZOHHI6sNrEXRt9uTEOQTVk=
+Date: Thu, 20 Jun 2019 18:40:31 +0900
+From: =?UTF-8?B?5YyX5bC+5YSq5L2z?= <musiclove200003117_o3o@indeedemail.com>
+To: =?UTF-8?B?5rW36a6u44O76L+R5rGf54mb44Gg44KT44Gq44GE?= <info@tiautogarage.jp>
+Message-ID: <190620184029000002tZ@docomo.ne.jp>
+Subject: =?UTF-8?B?6Z2i5o6l44Gr44Gk44GE44Gm?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_29774821_643794099.1561023636451"
+X-Indeed-FBL: :2:8f232f6fa4aa506340c150b34115cb9d2727f40d24ffdb5f694710f37188e225b759efbb3bb53b95a4cdaa63118a80e503d29da572957ae378b9251188ba876f9ee5ad0d5d9296abc8890705b1840a4f
+X-Indeed-Client-App: DREMR
+X-Indeed-Content-Type: DREMR
+X-Indeed-TK: 1ddq44ou43jco801
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25486/Thu Jun 20 17:00:47 2019
+
+------=_Part_29774821_643794099.1561023636451
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E4=BA=86=E8=A7=A3=E3=81=97=E3=81=BE=E3=81=97=E3=81=9F=E3=80=82
+26=E6=97=A5(=E6=B0=B4)16=E6=99=82=E3=81=AB=E4=BC=BA=E3=81=84=E3=81=BE=E3=81=
+=99
+=E6=8C=81=E3=81=A1=E7=89=A9=E7=AD=89=E3=81=AF=E3=81=82=E3=82=8A=E3=81=BE=E3=
+=81=99=E3=81=8B=EF=BC=9F
+=E3=81=BE=E3=81=9F=E3=80=81=E3=81=A9=E3=81=93=E3=81=8B=E3=82=89=E5=85=A5=E3=
+=82=8C=E3=81=B0=E3=82=88=E3=82=8D=E3=81=97=E3=81=84=E3=81=A7=E3=81=97=E3=82=
+=87=E3=81=86=E3=81=8B=EF=BC=9F
+=E3=81=8A=E5=BF=99=E3=81=97=E3=81=84=E4=B8=AD=E3=81=99=E3=81=BF=E3=81=BE=E3=
+=81=9B=E3=82=93=E3=80=82
+=E3=82=88=E3=82=8D=E3=81=97=E3=81=8F=E3=81=8A=E9=A1=98=E3=81=84=E8=87=B4=E3=
+=81=97=E3=81=BE=E3=81=99=E3=80=82
+
+=E5=8C=97=E5=B0=BE
+
+Suspect spam or fraud?
+Report this message to Indeed <https://m.indeedemail.com/report-email?info=
+=3D4Is0q52JhaSxywWoiIQwuCV7yZvTIPzjR2LlyHpR2lCmJvMPvX_OGuEt1WPIpV3EpnEHO-Vb=
+lmeEy9yg3TPt9YjTMmKZ8tYWeTg7PJXoES3UziEp2QMkybZ2q4QQ_qDByGJixqoealKHubgrAWB=
+XHUVVEXofv3th-eD3WIA>
+
+By replying or using an indeedemail.com email address, you agree that this =
+email will be processed and analyzed according to the Indeed Cookie Policy =
+<https://www.indeed.com/legal?hl=3Den&amp;co=3DUS#cookies>, Privacy Policy =
+<https://www.indeed.com/legal?hl=3Den&amp;co=3DUS#privacy>, and Terms of Se=
+rvice <https://www.indeed.com/legal?hl=3Den&amp;co=3DUS#tos>.
+------=_Part_29774821_643794099.1561023636451
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+ <head>=20
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">=
+=20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1">=20
+  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">=20
+  <meta name=3D"format-detection" content=3D"address=3Dno">=20
+  <meta name=3D"format-detection" content=3D"telephone=3Dno">=20
+  <style type=3D"text/css">@media screen and (max-width: 500px) {.stack {di=
+splay:block !important; padding:8px 12px !important; box-sizing:border-box =
+!important; width:100% !important;}.iris-button-wrapper {width:100% !import=
+ant; margin:auto !important; text-align:center !important;}.iris-button {wi=
+dth:100% !important; display:block !important; box-sizing:border-box !impor=
+tant;}.iris-button-label {width:300px !important; display:block !important;=
+ margin:0 auto !important;}.iris-button-mobile-only {display:table !importa=
+nt; max-height:none !important; overflow:visible !important;}.iris-button-h=
+eader-mobile-only {display:block !important; max-height:none !important; ov=
+erflow:visible !important;}.ph-20 {padding-left:20px !important; padding-ri=
+ght:20px !important;}.iris-replay-test-2-wrapper {display:block !important;=
+ width:280px !important; margin:0 auto !important;}}</style>=20
+ </head>=20
+ <body>=20
+  <div id=3D"indeedemailpixel">=20
+   <img src=3D"https://m.indeedemail.com/emailpixel.gif?info=3Dcv4yf90lcujB=
+yPDyxobSEBjG9L5XYx6r0TP9oYtIZHsuLEKmIRT7Y0WAYH0tZPlrw_DXeGF2IHLdZRczU3YWTPI=
+cCMSGqTLrjKuiB5dRq8785TGs9BxvRYLU1UF41p8a5hobPA1mXBXVwdvWdn5IRr7dObvQ2WGOYn=
+HF30Y">=20
+  </div>=20
+  <div>
+    =E4=BA=86=E8=A7=A3=E3=81=97=E3=81=BE=E3=81=97=E3=81=9F=E3=80=82=20
+   <br>26=E6=97=A5(=E6=B0=B4)16=E6=99=82=E3=81=AB=E4=BC=BA=E3=81=84=E3=81=
+=BE=E3=81=99=20
+   <br>=E6=8C=81=E3=81=A1=E7=89=A9=E7=AD=89=E3=81=AF=E3=81=82=E3=82=8A=E3=
+=81=BE=E3=81=99=E3=81=8B=EF=BC=9F=20
+   <br>=E3=81=BE=E3=81=9F=E3=80=81=E3=81=A9=E3=81=93=E3=81=8B=E3=82=89=E5=
+=85=A5=E3=82=8C=E3=81=B0=E3=82=88=E3=82=8D=E3=81=97=E3=81=84=E3=81=A7=E3=81=
+=97=E3=82=87=E3=81=86=E3=81=8B=EF=BC=9F=20
+   <br>=E3=81=8A=E5=BF=99=E3=81=97=E3=81=84=E4=B8=AD=E3=81=99=E3=81=BF=E3=
+=81=BE=E3=81=9B=E3=82=93=E3=80=82=20
+   <br>=E3=82=88=E3=82=8D=E3=81=97=E3=81=8F=E3=81=8A=E9=A1=98=E3=81=84=E8=
+=87=B4=E3=81=97=E3=81=BE=E3=81=99=E3=80=82=20
+   <br>=20
+   <br>=E5=8C=97=E5=B0=BE=20
+  </div>=20
+  <div id=3D"report-suspicious--4793461447609624653" style=3D"border-top:so=
+lid 1px #d8d8d8; color:#999; padding:7px 0; margin-top:3px; font-size:12px;=
+" class=3D"dremr-report-suspicious">=20
+   <b>Suspect spam or fraud?</b>=20
+   <a href=3D"https://m.indeedemail.com/report-email?info=3D4Is0q52JhaSxywW=
+oiIQwuCV7yZvTIPzjR2LlyHpR2lCmJvMPvX_OGuEt1WPIpV3EpnEHO-VblmeEy9yg3TPt9YjTMm=
+KZ8tYWeTg7PJXoES3UziEp2QMkybZ2q4QQ_qDByGJixqoealKHubgrAWBXHUVVEXofv3th-eD3W=
+IA" style=3D"color:#999">Report this message to Indeed</a>=20
+   <span>=E2=80=83 =E2=80=83 =E2=80=83</span>=20
+   <a href=3D"https://m.indeedemail.com/report-email-hidden?info=3D4Is0q52J=
+haSxywWoiIQwuCV7yZvTIPzjR2LlyHpR2lCmJvMPvX_OGuEt1WPIpV3EpnEHO-VblmeEy9yg3TP=
+t9YjTMmKZ8tYWeTg7PJXoES3UziEp2QMkybZ2q4QQ_qDByGJixqoealKHubgrAWBXHUVVEXofv3=
+th-eD3WIA"></a>=20
+  </div> =20
+  <div id=3D"legal-disclaimer" style=3D"color:gray;margin-top:10px;font-siz=
+e:12px" class=3D"dremr-disclaimer">
+   <div>
+    By replying or using an indeedemail.com email address, you agree that t=
+his email will be processed and analyzed according to the Indeed=20
+    <a href=3D"https://www.indeed.com/legal?hl=3Den&amp;co=3DUS#cookies" st=
+yle=3D"color:#999">Cookie Policy</a>,=20
+    <a href=3D"https://www.indeed.com/legal?hl=3Den&amp;co=3DUS#privacy" st=
+yle=3D"color:#999">Privacy Policy</a>, and=20
+    <a href=3D"https://www.indeed.com/legal?hl=3Den&amp;co=3DUS#tos" style=
+=3D"color:#999">Terms of Service</a>.
+   </div>
+  </div>
+ </body>
+</html>
+------=_Part_29774821_643794099.1561023636451--
+

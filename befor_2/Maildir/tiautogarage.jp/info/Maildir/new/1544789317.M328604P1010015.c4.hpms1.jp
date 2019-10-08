@@ -1,0 +1,55 @@
+Return-Path: <admin@geopatogen.ru>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.7 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,SPF_HELO_PASS,URIBL_ABUSE_SURBL,
+	URIBL_BLOCKED autolearn=no autolearn_force=no version=3.4.0
+Received: (qmail 1010009 invoked by uid 89); 14 Dec 2018 21:08:26 +0900
+Received: from geopatogen.ru (5.189.227.75)
+  by c4.hpms1.jp with SMTP; 14 Dec 2018 21:08:26 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at geopatogen.ru designates 5.189.227.75 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=geopatogen.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=admin@geopatogen.ru;
+ bh=+ycuDj5zfogAxKFijWNF73vkxnU=;
+ b=MQBfmoIGxnaiqT4Ld28Ys22zdO+iOVWBC/8h+HNxP7n+WG7bULC5Ab5+KgDw4YkvvxZc/YKrivjQ
+   osvPD+MKGyKS8HsitQa3YUZ5bzAlbgQcRUdDgo+w9KrejpbjHAex/vRr46/as7hAREYXn5cX4Mwl
+   gnlrD3JljHaP0dHAgTk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=geopatogen.ru;
+ b=UVeWyRvJHhRkpa5dp0W6hk5y0z65lxH6qAyVeEdMlaqlCLkgIg1yxLRGY5mnmX83x00/WaIZOTtk
+   q/vlfAe1vJK2lHLxLzVbAPk6Ccq3SwmH4A2p95HEVwfwoPrXGvgOwhqB0HSWiySZjlZSODRMTLdz
+   A1kn/WUxzAgZv6nrKc0=;
+Message-ID: <a4de7605f160e12b08f7316269bd85597a8b31b1d8@geopatogen.ru>
+Reply-To: =?utf-8?B?0JLQtdGA0YPRgdC40Lo=?= <admin@geopatogen.ru>
+From: =?utf-8?B?0JLQtdGA0YPRgdC40Lo=?= <admin@geopatogen.ru>
+To: <info@tiautogarage.jp>
+Subject: There is an amazing offer
+Date: Fri, 14 Dec 2018 15:08:23 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="03f9f5f2c0143bb864612896b26647e12414"
+X-Priority: 1
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25205/Fri Dec 14 11:27:49 2018
+
+--03f9f5f2c0143bb864612896b26647e12414
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0 Look what we have for you! an important offers To qualify click on=
+ the link below
+
+--03f9f5f2c0143bb864612896b26647e12414
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A=20
+href=3D"http://red.studygood.com/WIBIPWSWBWCGD">&nbsp; =20
+Look what we have for you! an important offers=20
+To qualify click on the link below  </A></DIV></BODY></HTML>
+
+--03f9f5f2c0143bb864612896b26647e12414--
+

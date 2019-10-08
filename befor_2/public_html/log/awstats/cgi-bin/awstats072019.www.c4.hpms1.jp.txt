@@ -1,0 +1,728 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201907 will be lost/reset.
+# Last config file used to build this data file was /virtual/www/public_html/log/awstats/cgi-bin/awstats.www.c4.hpms1.jp.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2100                
+POS_TIME 2772                
+POS_VISITOR 8011                
+POS_DAY 32296               
+POS_DOMAIN 3781                
+POS_LOGIN 4079                
+POS_ROBOT 4234                
+POS_WORMS 4774                
+POS_EMAILSENDER 4905                
+POS_EMAILRECEIVER 5048                
+POS_SESSION 33239               
+POS_SIDER 33456               
+POS_FILETYPES 5183                
+POS_DOWNLOADS 5363                
+POS_OS 5411                
+POS_BROWSER 5672                
+POS_SCREENSIZE 6259                
+POS_UNKNOWNREFERER 6333                
+POS_UNKNOWNREFERERBROWSER 6533                
+POS_ORIGIN 6743                
+POS_SEREFERRALS 6887                
+POS_PAGEREFS 7050                
+POS_SEARCHWORDS 7198                
+POS_KEYWORDS 7350                
+POS_MISC 2436                
+POS_ERRORS 7409                
+POS_CLUSTER 3935                
+POS_SIDER_403 7538                
+POS_SIDER_400 7620                
+POS_SIDER_404 7702                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190801000003 4338 768397 6313538474554
+FirstTime 0
+LastTime 20190731235908
+LastUpdate 20190801043556 4338 0 4337 0 0
+TotalVisits 1631                
+TotalUnique 361                 
+MonthHostsKnown 356                 
+MonthHostsUnknown 6                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 302 313 2797037 3484 3640 314014
+1 233 238 2629277 3460 3536 307525
+2 210 210 594125 3455 3498 303373
+3 155 155 201909 3429 3472 295941
+4 178 178 287911 3444 3484 299295
+5 180 183 992394 3432 3500 300764
+6 170 171 1244840 3445 3520 303575
+7 360 376 7126361 3482 3701 327906
+8 2001 2124 7976947 3820 4060 326121
+9 2493 2584 20937809 4137 4473 353878
+10 1875 2018 39655550 3972 4340 372768
+11 1623 1689 12525236 3966 4317 348871
+12 1584 1684 20451516 3873 4339 380068
+13 1815 1889 35995867 3796 4144 358226
+14 1555 1642 15896218 3790 4267 368515
+15 1480 1585 8281787 3852 4362 538083
+16 1650 1702 57608829 3786 4205 360001
+17 1199 1259 34367340 3760 4118 370008
+18 1312 1367 23845460 3760 4152 368080
+19 756 802 14643257 3609 3983 377514
+20 336 344 1652365 3501 3727 330810
+21 499 527 2783083 3501 3673 765237
+22 451 467 2095256 3468 3605 318996
+23 235 239 1358937 3429 3560 308637
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+jp 16872 17691 256064375
+net 4633 4829 49746045
+com 615 635 2411227
+ip 532 591 7727664
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+Wget/ 82097 6911823 20190731235851 0
+no_user_agent 2108 208372 20190731202458 0
+favicon 27 31842 20190729224127 0
+YandexBot/ 14 7182 20190731192338 0
+microsoft.*discovery 13 0 20190729212715 0
+microsoft\-webdav\-miniredir 13 35657 20190723151607 0
+bot[\s_+:,\.\;\/\\-] 6 4182 20190717052822 0
+facebookexternalhit/ 2 2676 20190701151200 0
+CFNetwork 1 915 20190716091914 0
+MSIE[\x20]6 1 1879 20190704172812 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 29 42456 0 0
+php 22509 312501539 0 0
+png 875 2553589 0 0
+js 37 255998 0 0
+cgi 143 363868 0 0
+gif 153 231861 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+linuxandroid 64 60
+ios_iphone 1097 1044
+win7 6608 6357
+macosx 289 283
+winunknown 5 5
+macosx10 23 22
+macosx9 1248 1246
+win8 704 704
+Unknown 101 100
+win8.1 6275 6177
+win10 7269 6633
+ios_ipad 63 21
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 26
+edge18 2447 2171
+edge17 1808 1634
+safari11.0 9 9
+chrome72.0.3626.119 47 44
+chrome75.0.3770.101 50 48
+safari12.0 203 203
+chrome71.0.3578.98 1 1
+safari12.1 256 222
+firefox67.0 69 55
+chrome75.0.3770.143 14 12
+firefox68.0 19 15
+msie11.0 9355 9095
+mozilla 119 119
+netscape5.0 99 99
+netscape6.0 1 0
+msie7.0 8 4
+safari12.1.1 524 467
+chrome74.0.3729.169 277 219
+safari12.1.2 13 13
+chrome69.0.3497.100 15 14
+chrome75.0.3770.142 3214 3149
+Unknown 5 5
+safari 279 272
+chrome75.0.3770.100 3170 3040
+chrome72.0.3626.109 496 496
+safari9.1.3 1248 1246
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/6.0 20190701151200
+Mozilla/4.0_(compatible;_ms-office) 20190719091646
+Mozilla/5.0_Firefox 20190729151825
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Microsoft_Office_Excel_2013 20190722144800
+Microsoft_Office_Word_2014 20190729212644
+Microsoft_Office_Excel_2014 20190725182056
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 4760 4763
+From1 0 0
+From2 3 3
+From3 0 0
+From4 17889 18980
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 3287 0
+500 71 742983
+301 10 2384
+404 3309 748311
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 0
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 362
+221.102.13.160.dy.iij4u.or.jp 3297 3297 25664163 20190731170545
+p4164054-ipngn24301marunouchi.tokyo.ocn.ne.jp 2474 2476 47943263 20190731183925
+eo.ptr155.ptrcloud.net 2284 2441 37443588 20190731223332
+softbank060126093056.bbtec.net 1631 1632 7058874 20190731110550
+p9f1c60b7.tokyff01.ap.so-net.ne.jp 1624 1789 36433092 20190731101403
+210-131-219-95.hiroshima.fdn.vectant.ne.jp 1246 1248 2951074 20190731235421
+pl498.ag1001.nttpc.ne.jp 1195 1223 11107500 20190731164221
+pl8740.ag1001.nttpc.ne.jp 898 921 25737208 20190717133733
+pl58421.ag1001.nttpc.ne.jp 789 819 13334152 20190708154128
+p640181-ipngn200409motosinmat.mie.ocn.ne.jp 708 806 2127532 20190730103223
+202.218.133.132 269 303 3110597 20190730104201
+kd182250243006.au-net.ne.jp 13 13 23089 20190724071606
+ec2-3-113-2-207.ap-northeast-1.compute.amazonaws.com 4 4 7578 20190725085958
+softbank126074119167.bbtec.net 8 8 17430 20190729163149
+ec2-34-209-224-57.us-west-2.compute.amazonaws.com 1 1 1879 20190717091509
+p040098.ppp.asahi-net.or.jp 1 2 8734 20190705155235
+ec2-34-220-40-173.us-west-2.compute.amazonaws.com 15 15 29308 20190731222422
+pw126193083248.28.panda-world.ne.jp 1 1 1338 20190724234043
+g162.124-44-21.ppp.wakwak.ne.jp 36 39 85844 20190711075228
+softbank126074115028.bbtec.net 1 1 2413 20190729135846
+ec2-52-38-220-61.us-west-2.compute.amazonaws.com 1 1 1879 20190731005921
+pw126193015092.28.panda-world.ne.jp 18 18 33500 20190709104443
+ec2-35-173-137-45.compute-1.amazonaws.com 5 5 9395 20190724083319
+softbank060110158190.bbtec.net 7 9 21424 20190706010514
+pw126182134101.27.panda-world.ne.jp 2 2 2064 20190730155905
+pl37311.ag2001.nttpc.ne.jp 225 225 372059 20190731144741
+ec2-34-222-112-4.us-west-2.compute.amazonaws.com 1 1 1879 20190726174314
+ec2-34-216-104-148.us-west-2.compute.amazonaws.com 3 3 5637 20190712083919
+softbank126124254081.bbtec.net 37 39 112735 20190719151138
+pw126233235049.20.panda-world.ne.jp 2 2 2064 20190723103747
+ec2-18-179-7-161.ap-northeast-1.compute.amazonaws.com 2 3 1795 20190711080949
+pw126245226219.16.panda-world.ne.jp 1 1 1338 20190708181132
+227.117.2.110.ap.yournet.ne.jp 10 11 23998 20190704184949
+ec2-54-190-163-60.us-west-2.compute.amazonaws.com 2 2 3758 20190701222435
+ec2-34-221-22-127.us-west-2.compute.amazonaws.com 2 2 3758 20190701161626
+p1465161-ipngn200913kobeminato.hyogo.ocn.ne.jp 1 2 8428 20190703142354
+softbank126053131095.bbtec.net 1 1 1032 20190703195529
+ec2-3-112-31-195.ap-northeast-1.compute.amazonaws.com 3 3 7037 20190724083200
+ec2-35-161-30-0.us-west-2.compute.amazonaws.com 1 1 1879 20190710135604
+pw126233162022.20.panda-world.ne.jp 6 10 23388 20190702182942
+kd182250243001.au-net.ne.jp 19 19 32848 20190729195754
+au2-122-130-228-212.tky.mesh.ad.jp 8 11 33946 20190711154507
+ec2-52-90-235-182.compute-1.amazonaws.com 7 7 13153 20190724083746
+kd111239179147.au-net.ne.jp 6 47 138635 20190724105855
+pw126152088222.10.panda-world.ne.jp 25 34 90782 20190716174923
+ec2-50-112-194-65.us-west-2.compute.amazonaws.com 3 3 2091 20190729113532
+ec2-18-182-39-185.ap-northeast-1.compute.amazonaws.com 2 3 1812 20190731103001
+ec2-103-4-11-84.ap-northeast-1.compute.amazonaws.com 2 2 6180 20190719144341
+ec2-3-112-24-85.ap-northeast-1.compute.amazonaws.com 1 2 3080 20190718081047
+google-proxy-66-249-82-159.google.com 19 19 590447 20190731172811
+google-proxy-66-249-82-158.google.com 19 19 386183 20190726153350
+p73a3e233.narant01.ap.so-net.ne.jp 8 8 11688 20190701095353
+p3a57b10f.sigant01.ap.so-net.ne.jp 6 8 8953 20190723065431
+ec2-54-70-111-255.us-west-2.compute.amazonaws.com 2 2 3758 20190731222423
+ec2-54-212-167-141.us-west-2.compute.amazonaws.com 3 3 5637 20190701215527
+ab145031.ppp.asahi-net.or.jp 1 1 1338 20190709113419
+ec2-54-189-118-47.us-west-2.compute.amazonaws.com 4 4 7516 20190731222549
+kd182250243018.au-net.ne.jp 1 1 1032 20190715121703
+ec2-52-34-112-113.us-west-2.compute.amazonaws.com 2 2 3758 20190731222342
+ec2-35-161-143-53.us-west-2.compute.amazonaws.com 1 1 1879 20190731221938
+ec2-34-211-225-236.us-west-2.compute.amazonaws.com 2 2 3758 20190731235004
+fp276f2be9.stmb226.ap.nuro.jp 5 6 12320 20190730163310
+softbank126021164152.bbtec.net 1 1 1032 20190716210731
+ec2-34-218-78-255.us-west-2.compute.amazonaws.com 1 1 1879 20190701211518
+ec2-54-214-213-132.us-west-2.compute.amazonaws.com 2 2 2210 20190726174316
+ec2-52-32-37-58.us-west-2.compute.amazonaws.com 1 1 1879 20190729094720
+p995066-ipngn201003tokaisakaetozai.aichi.ocn.ne.jp 7 8 18777 20190716230838
+softbank126074116163.bbtec.net 6 6 19424 20190729193504
+14-133-18-47.dz.commufa.jp 4 4 5352 20190702123617
+ec2-18-179-108-199.ap-northeast-1.compute.amazonaws.com 2 3 3107 20190717095457
+ec2-34-209-68-171.us-west-2.compute.amazonaws.com 1 1 1879 20190731222623
+pw126199025085.18.panda-world.ne.jp 6 8 15513 20190708170254
+ec2-54-238-230-165.ap-northeast-1.compute.amazonaws.com 1 1 3060 20190731103001
+ec2-18-182-30-157.ap-northeast-1.compute.amazonaws.com 1 2 1549 20190725085927
+ec2-34-219-138-183.us-west-2.compute.amazonaws.com 1 1 1879 20190715140912
+i118-18-31-57.s41.a009.ap.plala.or.jp 15 15 674468 20190715214202
+p336106-ipngn200212takakise.saga.ocn.ne.jp 3 3 3708 20190710094620
+ec2-54-245-64-121.us-west-2.compute.amazonaws.com 1 1 1879 20190731222435
+ec2-34-221-37-0.us-west-2.compute.amazonaws.com 1 1 1879 20190731022126
+p3341152-ipngn21601hodogaya.kanagawa.ocn.ne.jp 3 4 4574 20190730142635
+pw126233007172.20.panda-world.ne.jp 1 1 1032 20190701092503
+pw126182014237.27.panda-world.ne.jp 3 3 4014 20190731075932
+kd182250243013.au-net.ne.jp 6 6 6993 20190726190900
+ec2-54-249-42-186.ap-northeast-1.compute.amazonaws.com 2 2 3301 20190724083605
+ec2-13-114-19-126.ap-northeast-1.compute.amazonaws.com 3 4 6051 20190719144355
+pda6ea93a.kngwnt01.ap.so-net.ne.jp 93 95 230969 20190726231033
+20.96.85.34.bc.googleusercontent.com 1 1 3002 20190702155750
+ec2-34-222-93-190.us-west-2.compute.amazonaws.com 1 1 1879 20190731221741
+pw126152114211.10.panda-world.ne.jp 26 30 217872 20190729125059
+p50002-ipngn200201okayamahigasi.okayama.ocn.ne.jp 167 204 667502 20190731155122
+p1086113-ipngn5401akatuka.ibaraki.ocn.ne.jp 613 705 2352782 20190722182803
+kd182250243033.au-net.ne.jp 5 5 7852 20190705195353
+ec2-18-236-79-208.us-west-2.compute.amazonaws.com 1 1 1879 20190701224507
+ec2-54-68-163-153.us-west-2.compute.amazonaws.com 1 1 1879 20190715184933
+kd182250243014.au-net.ne.jp 14 15 28008 20190729190005
+ec2-34-211-33-18.us-west-2.compute.amazonaws.com 2 2 3758 20190731020522
+opt-203-139-210-253.client.pikara.ne.jp 12 15 40788 20190719094944
+kd182250243003.au-net.ne.jp 3 3 3402 20190725181804
+ec2-34-220-116-173.us-west-2.compute.amazonaws.com 3 3 5637 20190731235019
+p417138-ipngn200204takamatu.kagawa.ocn.ne.jp 142 152 515748 20190722145205
+ec2-34-212-120-75.us-west-2.compute.amazonaws.com 1 1 1879 20190718170314
+ec2-54-70-123-87.us-west-2.compute.amazonaws.com 1 1 1879 20190715185013
+ec2-35-166-165-43.us-west-2.compute.amazonaws.com 2 2 3796 20190717084511
+ec2-52-27-2-86.us-west-2.compute.amazonaws.com 3 3 2091 20190718103502
+softbank126074100233.bbtec.net 10 10 25035 20190729135248
+ec2-54-190-128-4.us-west-2.compute.amazonaws.com 8 8 13904 20190731235010
+pl27716.ag2001.nttpc.ne.jp 4 5 7827 20190731103033
+192.105.142.210.ap.mvno.net 1 1 1338 20190714173058
+ec2-35-164-172-2.us-west-2.compute.amazonaws.com 14 14 27429 20190731235026
+i114-186-104-65.s41.a011.ap.plala.or.jp 15 17 26645 20190712105449
+223.118.52.188 1 1 1032 20190719122726
+199.98.142.210.ap.mvno.net 1 1 1338 20190718202050
+ec2-52-37-222-213.us-west-2.compute.amazonaws.com 8 8 11228 20190731221748
+ec2-18-237-200-218.us-west-2.compute.amazonaws.com 1 1 1879 20190725090055
+ec2-52-42-179-14.us-west-2.compute.amazonaws.com 1 1 1879 20190701224619
+p6fd81eeb.tokyuc00.ap.so-net.ne.jp 1 2 8734 20190721182253
+ac227050.ppp.asahi-net.or.jp 1 2 8734 20190703121018
+p444194-ipngn200411oomichi.oita.ocn.ne.jp 198 202 437633 20190730143416
+ec2-34-210-90-32.us-west-2.compute.amazonaws.com 1 1 1879 20190718170320
+202.218.133.131 127 140 1841898 20190726111754
+ec2-18-237-69-148.us-west-2.compute.amazonaws.com 3 3 5637 20190715184818
+sp49-98-141-116.msd.spmode.ne.jp 1 2 8734 20190718155739
+ec2-107-22-104-204.compute-1.amazonaws.com 8 8 16155 20190731030204
+softbank126021132151.bbtec.net 1 1 1338 20190710132328
+softbank126074127050.bbtec.net 1 1 1193 20190729191648
+ec2-54-201-12-1.us-west-2.compute.amazonaws.com 4 4 5968 20190731022904
+pw126033194209.23.panda-world.ne.jp 4 4 5352 20190723081547
+ec2-52-196-127-131.ap-northeast-1.compute.amazonaws.com 2 3 1761 20190710135443
+ec2-54-184-224-205.us-west-2.compute.amazonaws.com 1 1 1917 20190719145110
+ec2-52-13-112-34.us-west-2.compute.amazonaws.com 1 1 331 20190717091427
+flh2-133-204-86-64.osk.mesh.ad.jp 162 162 307484 20190731204423
+p1130028-ipngn200812kyoto.kyoto.ocn.ne.jp 10 12 22372 20190709104417
+softbank060105152250.bbtec.net 212 213 503482 20190731090849
+ec2-34-220-145-12.us-west-2.compute.amazonaws.com 1 1 1879 20190726182507
+ec2-54-81-81-68.compute-1.amazonaws.com 3 3 5637 20190719144544
+ec2-54-202-246-245.us-west-2.compute.amazonaws.com 1 1 1879 20190701161825
+ec2-54-166-184-127.compute-1.amazonaws.com 4 4 7516 20190718183417
+softbank126021184035.bbtec.net 1 2 8311 20190719164508
+g106.211-19-105.ppp.wakwak.ne.jp 41 41 139038 20190718170221
+ec2-52-39-1-10.us-west-2.compute.amazonaws.com 4 4 5968 20190731022904
+ec2-54-245-40-77.us-west-2.compute.amazonaws.com 1 1 1879 20190731223419
+ec2-54-245-197-166.us-west-2.compute.amazonaws.com 6 6 11274 20190718081455
+42-146-134-47.rev.home.ne.jp 136 136 140352 20190730202101
+ec2-54-187-225-146.us-west-2.compute.amazonaws.com 1 1 1879 20190718081341
+ec2-13-231-69-245.ap-northeast-1.compute.amazonaws.com 3 4 3333 20190718081140
+ec2-54-191-44-86.us-west-2.compute.amazonaws.com 3 3 5637 20190718081240
+pw126193080175.28.panda-world.ne.jp 2 2 2676 20190701181451
+ec2-54-218-115-31.us-west-2.compute.amazonaws.com 1 1 1879 20190719144431
+h220-215-185-100.catv02.itscom.jp 18 18 18576 20190731113353
+bcout.hikari.co.jp 21 25 114527 20190730114634
+google-proxy-66-249-82-65.google.com 3 3 2862 20190716101517
+pw126033207253.23.panda-world.ne.jp 1 1 1338 20190715211445
+ec2-34-219-36-191.us-west-2.compute.amazonaws.com 15 15 26637 20190731103540
+ec2-54-184-144-236.us-west-2.compute.amazonaws.com 15 15 23541 20190731104337
+ec2-34-228-240-168.compute-1.amazonaws.com 10 10 14566 20190731103133
+pw126247220114.14.panda-world.ne.jp 1 1 1338 20190726220610
+ec2-52-194-236-27.ap-northeast-1.compute.amazonaws.com 4 5 7523 20190710135512
+ec2-34-221-253-196.us-west-2.compute.amazonaws.com 1 1 1879 20190731223723
+pw126233159120.20.panda-world.ne.jp 17 19 1215139 20190729110025
+ec2-54-188-219-162.us-west-2.compute.amazonaws.com 3 3 5637 20190701161908
+ec2-54-186-40-205.us-west-2.compute.amazonaws.com 1 1 3002 20190731222312
+ec2-54-189-215-251.us-west-2.compute.amazonaws.com 1 1 697 20190725103423
+ec2-13-231-72-1.ap-northeast-1.compute.amazonaws.com 2 3 3497 20190729094155
+ec2-34-209-251-171.us-west-2.compute.amazonaws.com 2 2 3758 20190715184916
+pw126199081049.18.panda-world.ne.jp 19 19 57244 20190717042056
+ec2-35-166-104-60.us-west-2.compute.amazonaws.com 12 12 22126 20190731015013
+pw126247067067.14.panda-world.ne.jp 23 23 57038 20190713120717
+pw126033001090.23.panda-world.ne.jp 1 1 1032 20190721130439
+pw126245219050.16.panda-world.ne.jp 4 4 5352 20190709181433
+softbank219191154100.bbtec.net 125 132 394377 20190726164412
+kd182250243046.au-net.ne.jp 13 13 25773 20190703121431
+ec2-35-166-252-46.us-west-2.compute.amazonaws.com 3 3 5637 20190701224905
+ec2-54-213-201-127.us-west-2.compute.amazonaws.com 3 3 5637 20190701210313
+42-146-128-4.rev.home.ne.jp 2 2 2064 20190725225359
+ad040107.dynamic.ppp.asahi-net.or.jp 1 2 8734 20190702155750
+202.218.133.130 124 135 2757998 20190730104201
+ec2-34-219-45-246.us-west-2.compute.amazonaws.com 1 1 1879 20190730160821
+ec2-18-212-42-148.compute-1.amazonaws.com 11 11 18413 20190729094237
+kd182250243012.au-net.ne.jp 16 17 36884 20190731132205
+ec2-54-218-82-44.us-west-2.compute.amazonaws.com 1 1 1917 20190701222348
+ec2-34-222-22-128.us-west-2.compute.amazonaws.com 8 8 16155 20190724083525
+ec2-34-222-227-4.us-west-2.compute.amazonaws.com 1 1 1879 20190726174258
+kd182250243005.au-net.ne.jp 12 12 23147 20190727175951
+softbank126074100192.bbtec.net 26 26 1239235 20190729120827
+pw126033220155.23.panda-world.ne.jp 2 2 2676 20190714075258
+133-175-51-145.miyagi.ap.gmo-isp.jp 216 220 30506541 20190731174446
+kd182250243016.au-net.ne.jp 23 23 59221 20190724193154
+p79033bc6.kngwnt01.ap.so-net.ne.jp 7 9 22393 20190702105919
+ec2-54-188-243-195.us-west-2.compute.amazonaws.com 1 1 1879 20190715121850
+ec2-52-26-33-135.us-west-2.compute.amazonaws.com 1 1 1879 20190729094351
+14-132-6-10.aichiwest1.commufa.jp 6 6 8028 20190731180832
+ec2-52-24-136-169.us-west-2.compute.amazonaws.com 2 2 3758 20190731222552
+kd182250243004.au-net.ne.jp 3 3 3402 20190725065158
+ec2-3-83-10-206.compute-1.amazonaws.com 5 5 7847 20190718082355
+p6fd8198c.tokyuc00.ap.so-net.ne.jp 12 12 16828 20190728184411
+p340200-ipngn200301miyazakihigasi.miyazaki.ocn.ne.jp 46 50 29405537 20190730170554
+pw126233235241.20.panda-world.ne.jp 7 7 7224 20190728113542
+kd182250243017.au-net.ne.jp 8 9 17962 20190723190224
+kd182250243038.au-net.ne.jp 10 10 18875 20190703111040
+kd182250243019.au-net.ne.jp 42 42 91773 20190731205013
+pw126182014180.27.panda-world.ne.jp 4 4 5352 20190724180556
+ec2-52-12-22-180.us-west-2.compute.amazonaws.com 2 2 3758 20190731022917
+fs76eee149.tkye312.ap.nuro.jp 5 5 6690 20190729080838
+p180019-ipngn200304yosemiya.okinawa.ocn.ne.jp 15 17 38255 20190729220016
+117.net220148201.t-com.ne.jp 48 57 1367057 20190716134559
+ec2-18-237-130-75.us-west-2.compute.amazonaws.com 2 2 3758 20190701211854
+ec2-34-220-141-15.us-west-2.compute.amazonaws.com 1 1 1879 20190719144914
+ec2-52-12-196-134.us-west-2.compute.amazonaws.com 8 8 16193 20190731234812
+ec2-18-217-223-118.us-east-2.compute.amazonaws.com 1 1 697 20190702195231
+ec2-18-237-9-247.us-west-2.compute.amazonaws.com 20 20 31808 20190731235021
+pw126199133186.18.panda-world.ne.jp 24 26 77786 20190719132902
+kd111239178163.au-net.ne.jp 1 1 2359 20190730003710
+ec2-34-208-214-226.us-west-2.compute.amazonaws.com 1 1 1879 20190719144623
+m014013166128.v4.enabler.ne.jp 11 13 36160 20190731174541
+ec2-3-112-53-216.ap-northeast-1.compute.amazonaws.com 1 2 2976 20190712083319
+softbank219191159079.bbtec.net 23 25 59707 20190717221712
+ec2-34-212-202-18.us-west-2.compute.amazonaws.com 2 2 3758 20190718082942
+ec2-54-149-46-82.us-west-2.compute.amazonaws.com 14 14 24088 20190731222408
+ec2-52-13-69-174.us-west-2.compute.amazonaws.com 1 1 1879 20190717081904
+ec2-52-11-205-31.us-west-2.compute.amazonaws.com 1 1 1879 20190717082942
+google-proxy-66-249-82-157.google.com 17 20 457560 20190731074446
+ec2-54-199-214-34.ap-northeast-1.compute.amazonaws.com 2 2 1522 20190724083147
+p1115084-ipngn200508kobeminato.hyogo.ocn.ne.jp 2 62 182371 20190713104140
+14-132-73-128.aichieast1.commufa.jp 22 22 29436 20190729075546
+ec2-34-218-254-156.us-west-2.compute.amazonaws.com 2 2 3758 20190718170313
+kd182250243008.au-net.ne.jp 30 31 62902 20190731074010
+ec2-54-184-171-30.us-west-2.compute.amazonaws.com 1 1 1879 20190715114118
+ec2-34-221-70-46.us-west-2.compute.amazonaws.com 1 1 1879 20190715184220
+pw126245215122.16.panda-world.ne.jp 36 48 104642 20190711100457
+softbank126161177147.bbtec.net 28 30 713114 20190719211147
+pw126245020254.16.panda-world.ne.jp 2 2 2676 20190727074146
+ec2-34-210-182-229.us-west-2.compute.amazonaws.com 2 2 3758 20190715185252
+58.104.142.210.ap.mvno.net 1 1 1338 20190703181237
+nttkyo762234.tkyo.nt.ngn.ppp.infoweb.ne.jp 188 188 8575202 20190731235908
+p90247-ipngn200201toyamahon.toyama.ocn.ne.jp 22 23 43729 20190730182706
+kd182250243007.au-net.ne.jp 17 18 45506 20190721160943
+ec2-3-81-105-18.compute-1.amazonaws.com 2 2 3758 20190717084646
+kd182250243002.au-net.ne.jp 30 31 1443116 20190729125644
+101-50-253-103.east.fdn.vectant.ne.jp 6 8 18335 20190722151158
+ec2-13-115-56-124.ap-northeast-1.compute.amazonaws.com 2 2 3359 20190725085927
+ec2-54-201-145-2.us-west-2.compute.amazonaws.com 1 1 751 20190710135949
+ec2-18-237-122-218.us-west-2.compute.amazonaws.com 1 1 1879 20190729094307
+ec2-34-216-227-93.us-west-2.compute.amazonaws.com 1 1 1879 20190718081112
+softbank126161130086.bbtec.net 21 23 53596 20190718161947
+ec2-54-213-198-28.us-west-2.compute.amazonaws.com 1 1 751 20190729094322
+14-132-229-153.dz.commufa.jp 39 39 52182 20190718083747
+125.104.142.210.ap.mvno.net 1 1 1338 20190727231328
+ec2-54-249-97-233.ap-northeast-1.compute.amazonaws.com 3 4 4856 20190729094212
+ec2-35-162-135-251.us-west-2.compute.amazonaws.com 1 1 1879 20190731223536
+pw126233105053.20.panda-world.ne.jp 9 11 48863 20190715151520
+ec2-34-211-54-185.us-west-2.compute.amazonaws.com 2 2 4881 20190731000908
+kd106157009166.ppp-bb.dion.ne.jp 99 99 186021 20190729151825
+ec2-54-249-127-237.ap-northeast-1.compute.amazonaws.com 2 3 2796 20190717095507
+211.249.40.13 0 1 7396 
+softbank126074070034.bbtec.net 1 1 1210 20190729172027
+ec2-54-202-19-157.us-west-2.compute.amazonaws.com 7 7 11605 20190731223853
+ec2-35-165-130-177.us-west-2.compute.amazonaws.com 12 12 21392 20190731001906
+ec2-3-112-151-168.ap-northeast-1.compute.amazonaws.com 6 7 8356 20190712083335
+ec2-52-38-185-230.us-west-2.compute.amazonaws.com 1 1 331 20190726182527
+ec2-54-202-153-78.us-west-2.compute.amazonaws.com 1 1 1879 20190731234823
+p4765078-ipngn26801marunouchi.tokyo.ocn.ne.jp 46 48 190659 20190731235200
+p1743119-ipngn200612fukuokachu.fukuoka.ocn.ne.jp 361 381 1928524 20190731110007
+122-222-71-26.east.ap.gmo-isp.jp 12 14 41571 20190709174652
+i223-217-244-14.s41.a007.ap.plala.or.jp 122 151 166839 20190731091146
+ec2-54-189-24-162.us-west-2.compute.amazonaws.com 1 1 1879 20190701161751
+ec2-34-220-48-216.us-west-2.compute.amazonaws.com 9 9 16911 20190731004713
+kd182251250004.au-net.ne.jp 10 10 20496 20190718172653
+pw126233092098.20.panda-world.ne.jp 2 2 2676 20190710184902
+ec2-54-202-153-189.us-west-2.compute.amazonaws.com 5 5 9395 20190701222036
+ec2-54-186-178-251.us-west-2.compute.amazonaws.com 14 14 20954 20190731014007
+softbank126074124065.bbtec.net 1 2 915 20190729185254
+ec2-52-39-26-14.us-west-2.compute.amazonaws.com 1 1 1879 20190730162551
+pw126199083029.18.panda-world.ne.jp 8 8 16742 20190709120045
+ec2-34-219-109-190.us-west-2.compute.amazonaws.com 9 9 14658 20190731223311
+122-222-133-171.tokyo.fdn.vectant.ne.jp 10 11 27356 20190725134936
+pw126212209142.17.panda-world.ne.jp 1 1 2359 20190724214926
+61.245.53.227.er.eaccess.ne.jp 10 12 32637 20190709113121
+ec2-184-73-1-207.compute-1.amazonaws.com 2 2 3758 20190717095855
+nttcgi060114.tcgi.nt.ngn.ppp.infoweb.ne.jp 41 41 62397 20190729234044
+ec2-54-202-141-113.us-west-2.compute.amazonaws.com 1 1 331 20190725090042
+ec2-34-212-28-160.us-west-2.compute.amazonaws.com 1 1 1879 20190715180317
+p346201-ipngn200405daianjibetu.nara.ocn.ne.jp 39 39 70578 20190731100342
+p659038-ipngn200604niho.hiroshima.ocn.ne.jp 14 15 23624 20190731084528
+google-proxy-66-249-82-191.google.com 1 1 1032 20190712180341
+pw126233208248.20.panda-world.ne.jp 4 4 4733 20190708091145
+p391069-ipngn200406sinnagasak.nagasaki.ocn.ne.jp 1 2 8428 20190705214858
+ec2-52-32-223-140.us-west-2.compute.amazonaws.com 13 13 23378 20190731022916
+ec2-34-220-255-122.us-west-2.compute.amazonaws.com 1 1 1879 20190731010303
+ec2-34-219-116-136.us-west-2.compute.amazonaws.com 3 3 5637 20190718082833
+ec2-34-213-163-211.us-west-2.compute.amazonaws.com 2 2 3758 20190731005028
+ec2-52-24-42-145.us-west-2.compute.amazonaws.com 7 7 13153 20190701222120
+ec2-34-221-50-253.us-west-2.compute.amazonaws.com 3 3 5637 20190731001425
+m014013133000.v4.enabler.ne.jp 13 15 31919 20190713182914
+ec2-34-210-74-111.us-west-2.compute.amazonaws.com 1 1 1879 20190719144436
+ec2-34-222-138-67.us-west-2.compute.amazonaws.com 1 1 1879 20190731004630
+kd027095234084.ppp-bb.dion.ne.jp 151 153 2770319 20190731022839
+ec2-54-245-159-211.us-west-2.compute.amazonaws.com 13 13 24427 20190731104016
+ec2-34-220-49-113.us-west-2.compute.amazonaws.com 1 1 1879 20190718170228
+ec2-18-182-6-132.ap-northeast-1.compute.amazonaws.com 2 3 3124 20190711080954
+ec2-34-220-22-185.us-west-2.compute.amazonaws.com 2 2 3758 20190731001026
+m014012147065.v4.enabler.ne.jp 29 30 49494 20190717162709
+ec2-54-187-240-154.us-west-2.compute.amazonaws.com 1 1 1879 20190701161913
+182-167-107-18f1.hyg1.eonet.ne.jp 1 31 91173 20190731153612
+aa20111001946ab81591.userreverse.dion.ne.jp 1 1 1032 20190708201636
+pw126193012135.28.panda-world.ne.jp 5 5 5160 20190704192027
+ec2-54-214-215-225.us-west-2.compute.amazonaws.com 1 1 1879 20190730170827
+ec2-18-206-159-236.compute-1.amazonaws.com 8 8 13522 20190725090539
+61-27-35-8.rev.home.ne.jp 63 66 220713 20190728214515
+pw126233065034.20.panda-world.ne.jp 3 3 2862 20190731192438
+softbank126002143135.bbtec.net 19 21 37890 20190701203014
+ec2-54-209-153-106.compute-1.amazonaws.com 3 3 5675 20190717084428
+42-145-130-157.rev.home.ne.jp 1 1 1338 20190725064633
+ec2-34-211-56-201.us-west-2.compute.amazonaws.com 3 3 5637 20190701224614
+pw126179089007.26.panda-world.ne.jp 4 5 12129 20190724104751
+ec2-34-211-166-191.us-west-2.compute.amazonaws.com 2 2 3758 20190731003017
+pw126245011123.16.panda-world.ne.jp 1 1 1338 20190729090319
+124-141-67-152.rev.home.ne.jp 28 32 1195994 20190728225624
+ec2-3-90-115-233.compute-1.amazonaws.com 1 1 1879 20190717082305
+pw126182133017.27.panda-world.ne.jp 1 1 1032 20190729100312
+ec2-54-213-254-216.us-west-2.compute.amazonaws.com 1 1 1879 20190730165746
+ec2-34-201-134-252.compute-1.amazonaws.com 2 2 3758 20190719144746
+pw126193070157.28.panda-world.ne.jp 2 2 2676 20190702081335
+ec2-34-222-115-247.us-west-2.compute.amazonaws.com 1 1 1879 20190715184808
+softbank126074122253.bbtec.net 31 31 77603 20190729190648
+124-159-246-248.ppp.bbiq.jp 6 6 7110 20190706092809
+pda6ee5e7.kngwnt01.ap.so-net.ne.jp 22 24 1067157 20190703041247
+softbank060073155061.bbtec.net 55 58 821392 20190727044404
+103.246.38.196 11 11 8743 20190727130912
+ec2-52-36-200-34.us-west-2.compute.amazonaws.com 1 1 1879 20190731003109
+ec2-52-32-175-229.us-west-2.compute.amazonaws.com 2 2 1082 20190712083505
+ec2-34-213-21-107.us-west-2.compute.amazonaws.com 1 1 1879 20190718081118
+softbank126074111004.bbtec.net 2 2 4384 20190729193208
+p700250-ipngn200302okayamahigasi.okayama.ocn.ne.jp 151 160 268929 20190730134027
+ntibrk141017.ibrk.nt.ngn.ppp.infoweb.ne.jp 34 35 60951 20190725183130
+ec2-3-88-162-251.compute-1.amazonaws.com 1 1 1879 20190717084422
+p661008-ipngn200604niho.hiroshima.ocn.ne.jp 39 45 93203 20190718163356
+softbank126171017243.bbtec.net 60 70 162384 20190728170821
+kd182250243015.au-net.ne.jp 58 59 1116073 20190727130910
+ec2-54-186-237-50.us-west-2.compute.amazonaws.com 1 1 751 20190724084340
+ec2-13-231-172-161.ap-northeast-1.compute.amazonaws.com 2 3 3204 20190717081659
+pl42610.ag2001.nttpc.ne.jp 46 50 124445 20190724083147
+softbank126161179061.bbtec.net 32 35 953447 20190703013519
+m014012145128.v4.enabler.ne.jp 16 18 52514 20190724105153
+pw126247084152.14.panda-world.ne.jp 34 34 76620 20190710100711
+ec2-18-236-119-102.us-west-2.compute.amazonaws.com 4 4 6388 20190731022908
+ec2-13-231-153-90.ap-northeast-1.compute.amazonaws.com 1 1 2812 20190718081106
+ec2-3-112-221-60.ap-northeast-1.compute.amazonaws.com 1 2 3378 20190719144317
+ec2-34-217-103-58.us-west-2.compute.amazonaws.com 2 2 3758 20190712083448
+ec2-13-113-192-202.ap-northeast-1.compute.amazonaws.com 2 2 1735 20190717095704
+ec2-54-224-230-57.compute-1.amazonaws.com 1 1 751 20190719144932
+ec2-54-201-169-192.us-west-2.compute.amazonaws.com 3 3 5637 20190715120910
+ngn4-ppp1354.east.sannet.ne.jp 17 17 22984 20190724130008
+ec2-34-208-0-1.us-west-2.compute.amazonaws.com 1 1 331 20190718081122
+ec2-35-163-162-25.us-west-2.compute.amazonaws.com 4 4 7511 20190715144506
+ec2-34-220-148-80.us-west-2.compute.amazonaws.com 5 5 9395 20190715185018
+ec2-34-214-106-240.us-west-2.compute.amazonaws.com 6 6 11312 20190731222729
+ec2-34-210-48-44.us-west-2.compute.amazonaws.com 1 1 331 20190730164717
+ec2-52-42-217-45.us-west-2.compute.amazonaws.com 5 5 9395 20190715135921
+ec2-3-92-182-97.compute-1.amazonaws.com 4 4 7516 20190731031006
+ec2-52-12-174-82.us-west-2.compute.amazonaws.com 2 2 3758 20190725090141
+ec2-54-213-235-43.us-west-2.compute.amazonaws.com 1 1 1879 20190726174306
+softbank126126128167.bbtec.net 4 4 4128 20190702200150
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20190701 1032 1113 6413990 87
+20190702 932 975 13210489 54
+20190703 653 670 5124261 43
+20190704 708 740 5719979 48
+20190705 860 901 5766048 39
+20190706 558 602 62881262 31
+20190707 282 307 2280330 30
+20190708 901 943 3090942 47
+20190709 808 840 8538091 53
+20190710 703 735 9826869 56
+20190711 746 783 18477093 61
+20190712 1055 1088 21285282 64
+20190713 379 421 873416 30
+20190714 194 203 1978909 20
+20190715 416 425 8664300 80
+20190716 833 888 8274671 50
+20190717 1022 1062 5051135 63
+20190718 702 753 1819275 76
+20190719 765 795 24937731 57
+20190720 363 370 682776 18
+20190721 330 346 1531672 23
+20190722 711 750 1993117 42
+20190723 740 771 3300550 53
+20190724 932 1006 5619867 65
+20190725 773 799 6694045 61
+20190726 916 942 21502190 59
+20190727 613 636 12980504 33
+20190728 497 508 901764 19
+20190729 1044 1093 9755580 71
+20190730 998 1035 31372311 66
+20190731 1186 1246 5400862 132
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 193
+5mn-15mn 105
+2mn-5mn 65
+15mn-30mn 84
+30s-2mn 112
+0s-30s 963
+30mn-1h 109
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 32
+/mail/src/left_main.php 7348 9078685 124 280
+/mail/src/right_main.php 5762 20440907 131 482
+/mail/src/read_body.php 2616 9503742 61 120
+/mail/src/webmail.php 2435 1180978 544 308
+/mail/src/login.php 2102 2838088 633 217
+/mail/src/compose.php 791 2398478 8 16
+/mail/src/download.php 631 249840606 42 77
+/mail/src/signout.php 253 123927 18 74
+/cp/index.cgi 143 363868 22 6
+/ftp/ 141 6080897 6 6
+/ 20 13572 18 18
+/mail/plugins/message_details/message_details_bottom.php 7 10018355 1 0
+/mail/src/printer_friendly_top.php 3 2466 0 0
+/mail/src/empty_trash.php 2 3758 1 2
+/mail/src/help.php 2 4687 0 0
+/mail/plugins/message_details/message_details_top.php 7 7533 1 1
+/mail/plugins/filters/options.php 8 16305 0 0
+/mail/src/printer_friendly_bottom.php 19 41892 3 7
+/mail/plugins/mail_fetch/fetch.php 3 4171 0 0
+/mail/src/options.php 11 32449 0 0
+/cp/ 3 6958 3 3
+/mail/src/search.php 64 394248 0 1
+/mail/src/image.php 47 69943 0 1
+/mail/plugins/calendar/calendar.php 2 5231 0 0
+/mail/src/folders.php 13 22523 0 1
+/mail/src/view_text.php 51 128559 4 3
+/mail/plugins/message_details/message_details_main.php 7 6518 1 0
+/mail/src/redirect.php 112 123102 6 5
+/mail/src/view_header.php 2 7131 0 0
+/mail/src/printer_friendly_main.php 3 2328 0 0
+/mail/src/move_messages.php 9 14738 3 2
+/mail/src/addressbook.php 35 88764 1 1
+END_SIDER

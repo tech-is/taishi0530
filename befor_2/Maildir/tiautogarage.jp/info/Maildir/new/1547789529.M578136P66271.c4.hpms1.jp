@@ -1,0 +1,137 @@
+Return-Path: <bounce-000067795-00049303457356@manage3.sonicmail.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=6.0 tests=BAYES_00,DKIMWL_WL_MED,
+	DKIM_SIGNED,DKIM_VALID,SPF_HELO_PASS,URIBL_BLOCKED autolearn=ham
+	autolearn_force=no version=3.4.0
+Received: (qmail 66267 invoked by uid 89); 18 Jan 2019 14:31:59 +0900
+Received: from delivery4.manage3.sonicmail.jp (HELO manage3.sonicmail.jp) (203.133.232.171)
+  by c4.hpms1.jp with SMTP; 18 Jan 2019 14:31:59 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at spf.gao.ne.jp designates 203.133.232.171 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=dkim.cuenote.jp;
+	s=y164; t=1547789519; x=1548394319;
+	bh=E3FkDbZRNufsQjsO5h+2Xytn2MiBZZ1SzW9xWv7BaqI=;
+	h=Date:From:Subject:To;
+	b=Uuflx/tQPdoaflMHC7XcbID9Jl/kb4EIs8I8028yJ9mDpZ2y+6vJoev3NwSz
+	 TXFGSZVflOx4wHnf7UPpMgwKMgIDZnFCUokUnbWJZ9YUUzEgmsKl36BZJaQOX
+	 oGJAXsRPBXF/1h2x0/Zp3vOPP2cZ+2TKvgtNh7sJc9BtsHSQyo=
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=ISO-2022-JP
+Date: Fri, 18 Jan 2019 14:31:59 +0900
+Errors-To: bounce-000067795-00049303457356@manage3.sonicmail.jp
+From: <magazine@hanshintigers.jp>
+Message-ID: <ecca4f27-dfb9-4833-80e9-e3549c961501@manage3.sonicmail.jp>
+MIME-Version: 1.0
+Subject: =?ISO-2022-JP?B?GyRCNWVDRDh4PDAlYSVrJV4lLCFWGyhCV2Vla2x5IA==?=
+ =?ISO-2022-JP?B?GyRCJT8lJCUsITwlORsoQiEbJEIhVxsoQg==?=
+To: <info@tiautogarage.jp>
+X-Priority: 3
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25305/Thu Jan 17 11:27:26 2019
+
+------------------------------------------------------------
+　球団公式メルマガ「Weekly タイガース！」　 ＝2019/01/18号＝
+　　　　　　　　　　　　　　　　　　　　発行：阪神タイガース
+------------------------------------------------------------
+
+春季キャンプに向け、選手たちも本格的に始動しています！
+オープン戦のチケット発売も発表され、シーズンが待ち遠しいですね。
+
+【目次】
+------------------------------------------------------------
+★ タイガース最新情報
+------------------------------------------------------------
+★ チケットのお知らせ
+------------------------------------------------------------
+★ グッズショップからのお知らせ
+------------------------------------------------------------
+★ 公式スマホ・携帯サイトからのお知らせ
+------------------------------------------------------------
+
+
+◆「虎魂(KODAMA)1月は矢野監督」◆
+スローガンに込められた想い＜前編＞を配信！
+“矢野阪神”元年はいったいどんな年となるのか。
+http://hanshintigers.jp/rd/2509/
+
+
+◆◇◆球団ニュース◆◇◆
+・谷川昌希選手の入籍について(1/12)
+http://hanshintigers.jp/rd/2512/
+
+・青柳晃洋選手の入籍について(1/14)
+http://hanshintigers.jp/rd/2513/
+
+・2019年京セラドーム大阪開催オープン戦入場券発売について(1/16)
+http://hanshintigers.jp/rd/2514/
+
+・2019年阪神甲子園球場開催オープン戦入場券発売について(1/16)
+http://hanshintigers.jp/rd/2515/
+
+・2019年限定企画チケットの発売について(1/17)
+http://hanshintigers.jp/rd/2516/
+
+その他の球団ニュースはこちらから！
+http://hanshintigers.jp/rd/359/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆チケット◆◇◆
+阪神甲子園球場、京セラドーム大阪で開催する
+オープン戦の入場券を、1/23(水)10:00より
+電話予約・インターネットにて、
+1/25(金)10:00より各店舗にて発売いたします。
+http://hanshintigers.jp/rd/1895/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆グッズショップ◆◇◆
+■T-SHOP
+--------------------------------------------
+≪1/31(木)まで！≫
+メッセンジャー選手＆糸原選手グッズや大人気の球団旗刺繍パーカーなどが
+締め切り間近です！
+http://hanshintigers.jp/rd/2517/
+--------------------------------------------
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式スマホ・携帯サイト◆◇◆
+球団公式スマホ携帯サイトでは、
+タイガースの一員として生活をスタートさせた新人選手直筆サイン色紙のプレゼントを実施中！
+まだご入会いただいていない皆様は、ぜひこの機会にご入会ください！
+応募締切は、1/20(日)23時59分まで。
+http://hanshintigers.jp/rd/2506/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆SNS◆◇◆
+タイガースの最新情報をイチ早くキャッチ！
+・Facebook   http://hanshintigers.jp/rd/907/
+
+・Twitter    http://hanshintigers.jp/rd/908/
+
+
+---阪神タイガースオフィシャルスポンサー---------------------
+
+Joshin
+http://hanshintigers.jp/rd/369/
+
+ミズノ
+http://hanshintigers.jp/rd/370/
+
+ローソン
+http://hanshintigers.jp/rd/371/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+※このメールマガジンの購読は無料です。
+※配信予定 ： 定期配信（毎週1回金曜予定） ＋ スポット配信（不定期）
+※このメールは返信できません。
+
+配信停止はこちら↓
+http://hanshintigers.jp/rd/372/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Copyright(C) HANSHIN Tigers. All Rights Reserved.
+

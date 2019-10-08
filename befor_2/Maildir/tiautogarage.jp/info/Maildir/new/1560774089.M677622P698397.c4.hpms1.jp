@@ -1,0 +1,220 @@
+Return-Path: <engjmb38d5_kri@indeedemail.com>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-8.5 required=6.0 tests=BAYES_00,DKIMWL_WL_MED,
+	DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HK_RANDOM_FROM,HTML_MESSAGE,
+	SPF_HELO_NONE,URIBL_BLOCKED,USER_IN_DEF_DKIM_WL autolearn=no
+	autolearn_force=no version=3.4.0
+Received: (qmail 698393 invoked by uid 89); 17 Jun 2019 21:21:19 +0900
+Received: from mail96.indeedemail.com (HELO mail96.indeedmail.com) (198.58.75.96)
+  by c4.hpms1.jp with AES256-GCM-SHA384 encrypted SMTP; 17 Jun 2019 21:21:19 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at indeedemail.com designates 198.58.75.96 as permitted sender)
+Received: from aus-mexec93.indeed.net (unknown [10.1.3.211])
+	by mail96.indeedmail.com (Postfix) with ESMTP id 45S9L56xLkz18X06q
+	for <info@tiautogarage.jp>; Mon, 17 Jun 2019 07:21:17 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeedemail.com;
+	s=default; t=1560774078;
+	bh=WXPxsAhDjIeq5iYhFsg6rcMEQvTn2IEQYXrblmiV4dI=;
+	h=Date:From:To:In-Reply-To:References:Subject;
+	b=iWHumP7R/VPfFILWhVaIoA41vo3xU++aGOKamccvXebvR4Fn0xgVwGBmet5lNhbqt
+	 KSLf3vyRUckjjoxe3Gdj6CC757i+DTdP6nQCNamTKJjT0uvtU5u5Y6bgzZTP26QIHI
+	 jVCXW7DIldGDmD58UB2PhoAOr5knuPIq3k5M96sE=
+Date: Mon, 17 Jun 2019 21:21:09 +0900
+From: Mami Hashimoto <engjmb38d5_kri@indeedemail.com>
+To: =?UTF-8?B?5rW36a6u44O76L+R5rGf54mb44Gg44KT44Gq44GE?= <info@tiautogarage.jp>
+Message-ID: <27B3FE52-024B-4E2B-8BE7-24A2026377FF@i.softbank.jp>
+In-Reply-To: <1ddd8ofi52816802@indeedemail.com>
+References: <1ddd8ofi52816802@indeedemail.com>
+Subject: =?UTF-8?B?UmU6IOOBlOW/nOWLn+OBhOOBn+OBoOOBjQ==?=
+ =?UTF-8?B?44GC44KK44GM44Go44GG44GU44GW44GE44G+44GZ44CC?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_61736517_1807073615.1560774077690"
+X-Indeed-FBL: :2:8f232f6fa4aa506340c150b34115cb9d2727f40d24ffdb5f694710f37188e225b759efbb3bb53b95a4cdaa63118a80e503d29da572957ae378b9251188ba876f9ee5ad0d5d9296abc8890705b1840a4f
+X-Indeed-Client-App: DREMR
+X-Indeed-Content-Type: DREMR
+X-Indeed-TK: 1ddim4qv83dln802
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25483/Mon Jun 17 16:56:00 2019
+
+------=_Part_61736517_1807073615.1560774077690
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+DQoNClNlbnQgZnJvbSBteSBpUGhvbmUNCg0KPiBPbiBKdW4gMTUsIDIwMTksIGF0IDE4OjUxLCDm
+tbfprq7jg7vov5HmsZ/niZvjgaDjgpPjgarjgYQgPGluZm81ODYzNzM0X2YyekBpbmRlZWRlbWFp
+bC5jb20+IHdyb3RlOg0KPiANCj4gDQo+IOOBr+OBmOOCgeOBvuOBl+OBpuKYhiANCj4g44GU5b+c
+5Yuf44GE44Gf44Gg44GN44GC44KK44GM44Go44GG44GU44GW44GE44G+44GZ44CCIA0KPiANCj4g
+44GK5bqX44Gu6Zuw5Zuy5rCX44KS6KaL44Gm44GE44Gf44Gg44GP44Gu44Go44CB57Ch5Y2Y44Gq
+6Z2i5o6l44KS44GV44Gb44Gm44GE44Gf44Gg44GN44Gf44GE44Go5oCd44GE44G+44GZ44Gu44Gn
+6L+R44GE44GK5pel44Gr44Gh44Gn44GU6YO95ZCI44Gu6Imv44GE44GK5pel44Gr44Gh44Gq44Gp
+5pWZ44GI44Gm44GP44Gg44GV44GE44CCIA0KPiANCj4g5a6c44GX44GP44GK6aGY44GE6Ie044GX
+44G+44GZ4piGDQo+IOipkOasuuOBrueWkeOBhOOBjOOBguOCiuOBvuOBmeOBi++8nyBJbmRlZWQg
+44Gr44GT44Gu44Oh44OD44K744O844K444KS5aCx5ZGK44GZ44KLIOKAgyDigIMg4oCDDQo+IOOB
+k+OBruODoeODvOODq+OBq+i/lOS/oeOBmeOCi+OCguOBl+OBj+OBryBpbmRlZWQuY29tIOOBruOD
+oeODvOODq+OCouODieODrOOCueOCkuS9v+eUqOOBmeOCi+OBk+OBqOOBq+OCiOOCiuOAgeOBguOB
+quOBn+OBryBJbmRlZWQg44GuIENvb2tpZSDjg53jg6rjgrfjg7zlj4rjgbMg44OX44Op44Kk44OQ
+44K344O86KaP57SE5Lim44Gz44GrIOWIqeeUqOimj+e0hOOBq+WfuuOBpeOBjeOAgeOBk+OBruOD
+oeODvOODq+OBjOWIhuaekOODu+WHpueQhuOBleOCjOOCi+OBk+OBqOOBq+WQjOaEj+OBmeOCi+OC
+guOBruOBqOOBl+OBvuOBmeOAgg0KDQoNCui/lOS/oeOBjOmBheOBj+OBquOCiueUs+OBl+ios+OB
+lOOBluOBhOOBvuOBm+OCk++8gQ0KNuaciDIw5pel44Gv44GE44GL44GM44Gn44GX44KH44GG44GL
+77yfDQoNCuapi+acrCDjgb7jgb8NCg0KCgroqZDmrLrjga7nlpHjgYTjgYzjgYLjgorjgb7jgZnj
+gYvvvJ8KSW5kZWVkIOOBq+OBk+OBruODoeODg+OCu+ODvOOCuOOCkuWgseWRiuOBmeOCiyA8aHR0
+cHM6Ly9tLmluZGVlZGVtYWlsLmNvbS9yZXBvcnQtZW1haWw/aW5mbz0za1BqRWV3XzNFVnhvU3lK
+WWx4UEJsZk9RMThDQjVCWkVLRDBRY3VhZ1IwVVh6WkdxUVBjazZ1c3ROMGJ5bThVQ3o3VGp5UnI1
+VXhVX0xGa1FNY2dSa2RXVmJmeVRoSFBqTzFMZHI5dVZIcGVUamRvUHVuQXI2RTBjZy1FYUp6eHlB
+dWUzbVRJUVRZR3I4cDFYTERSTXY1ZFd6bHcxRDZIaGJjb1pIdEZReXpkS1FTMEl4YkF3cWgwYTJ0
+SVU3U2daWlR1ZXc+CgrjgZPjga7jg6Hjg7zjg6vjgavov5Tkv6HjgZnjgovjgoLjgZfjgY/jga8g
+aW5kZWVkLmNvbSDjga7jg6Hjg7zjg6vjgqLjg4njg6zjgrnjgpLkvb/nlKjjgZnjgovjgZPjgajj
+gavjgojjgorjgIHjgYLjgarjgZ/jga8gSW5kZWVkIOOBriBDb29raWUg44Od44Oq44K344O8PGh0
+dHBzOi8vd3d3LmluZGVlZC5jb20vbGVnYWw/aGw9amEmYW1wO2NvPSNjb29raWVzPuWPiuOBs+OD
+l+ODqeOCpOODkOOCt+ODvOimj+e0hDxodHRwczovL3d3dy5pbmRlZWQuY29tL2xlZ2FsP2hsPWph
+JmFtcDtjbz0jcHJpdmFjeT7kuKbjgbPjgavliKnnlKjopo/ntIQ8aHR0cHM6Ly93d3cuaW5kZWVk
+LmNvbS9sZWdhbD9obD1qYSZhbXA7Y289I3Rvcz7jgavln7rjgaXjgY3jgIHjgZPjga7jg6Hjg7zj
+g6vjgYzliIbmnpDjg7vlh6bnkIbjgZXjgozjgovjgZPjgajjgavlkIzmhI/jgZnjgovjgoLjga7j
+gajjgZfjgb7jgZnjgII=
+------=_Part_61736517_1807073615.1560774077690
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+ <head>=20
+  <meta http-equiv=3D"content-type" content=3D"text/html; charset=3Dutf-8">=
+=20
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">=
+=20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1">=20
+  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">=20
+  <meta name=3D"format-detection" content=3D"address=3Dno">=20
+  <meta name=3D"format-detection" content=3D"telephone=3Dno">=20
+  <style type=3D"text/css">@media screen and (max-width: 500px) {.stack {di=
+splay:block !important; padding:8px 12px !important; box-sizing:border-box =
+!important; width:100% !important;}.iris-button-wrapper {width:100% !import=
+ant; margin:auto !important; text-align:center !important;}.iris-button {wi=
+dth:100% !important; display:block !important; box-sizing:border-box !impor=
+tant;}.iris-button-label {width:300px !important; display:block !important;=
+ margin:0 auto !important;}.iris-button-mobile-only {display:table !importa=
+nt; max-height:none !important; overflow:visible !important;}.iris-button-h=
+eader-mobile-only {display:block !important; max-height:none !important; ov=
+erflow:visible !important;}.ph-20 {padding-left:20px !important; padding-ri=
+ght:20px !important;}.iris-replay-test-2-wrapper {display:block !important;=
+ width:280px !important; margin:0 auto !important;}}</style>=20
+ </head>=20
+ <body dir=3D"auto">=20
+  <div id=3D"indeedemailpixel">=20
+   <img src=3D"https://m.indeedemail.com/emailpixel.gif?info=3DjVpD2tNpXnL3=
+dnHwJn4ND0vfvuNc4MOMhG82d0013JwNocZEnLzh6SJiifxcgI7O7ddJ9OD6Ls33tahlbB4CovS=
+NNXMH7YDsKL-E1TDsRpDdoFtvpHZ7SjFgfk1F4-BO-nOiZgxl8rN4vrRaUmNsjP8m67GskHyn9w=
+F300csTJFjLzDMT00DPALQGdPtig">=20
+  </div>=20
+  <br>=20
+  <br>=20
+  <div id=3D"AppleMailSignature" dir=3D"ltr">
+    Sent from my iPhone=20
+  </div>=20
+  <div dir=3D"ltr">=20
+   <br>On Jun 15, 2019, at 18:51, =E6=B5=B7=E9=AE=AE=E3=83=BB=E8=BF=91=E6=
+=B1=9F=E7=89=9B=E3=81=A0=E3=82=93=E3=81=AA=E3=81=84 &lt;=20
+   <a href=3D"mailto:info5863734_f2z@indeedemail.com">info5863734_f2z@indee=
+demail.com</a>&gt; wrote:=20
+   <br>=20
+   <br>=20
+  </div>=20
+  <blockquote type=3D"cite">=20
+   <div dir=3D"ltr">=20
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">=20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1">=20
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">=20
+    <meta name=3D"format-detection" content=3D"address=3Dno">=20
+    <meta name=3D"format-detection" content=3D"telephone=3Dno">=20
+    <div>
+      =E3=81=AF=E3=81=98=E3=82=81=E3=81=BE=E3=81=97=E3=81=A6=E2=98=86=20
+     <br>=E3=81=94=E5=BF=9C=E5=8B=9F=E3=81=84=E3=81=9F=E3=81=A0=E3=81=8D=E3=
+=81=82=E3=82=8A=E3=81=8C=E3=81=A8=E3=81=86=E3=81=94=E3=81=96=E3=81=84=E3=81=
+=BE=E3=81=99=E3=80=82=20
+     <br>=20
+     <br>=E3=81=8A=E5=BA=97=E3=81=AE=E9=9B=B0=E5=9B=B2=E6=B0=97=E3=82=92=E8=
+=A6=8B=E3=81=A6=E3=81=84=E3=81=9F=E3=81=A0=E3=81=8F=E3=81=AE=E3=81=A8=E3=80=
+=81=E7=B0=A1=E5=8D=98=E3=81=AA=E9=9D=A2=E6=8E=A5=E3=82=92=E3=81=95=E3=81=9B=
+=E3=81=A6=E3=81=84=E3=81=9F=E3=81=A0=E3=81=8D=E3=81=9F=E3=81=84=E3=81=A8=E6=
+=80=9D=E3=81=84=E3=81=BE=E3=81=99=E3=81=AE=E3=81=A7=E8=BF=91=E3=81=84=E3=81=
+=8A=E6=97=A5=E3=81=AB=E3=81=A1=E3=81=A7=E3=81=94=E9=83=BD=E5=90=88=E3=81=AE=
+=E8=89=AF=E3=81=84=E3=81=8A=E6=97=A5=E3=81=AB=E3=81=A1=E3=81=AA=E3=81=A9=E6=
+=95=99=E3=81=88=E3=81=A6=E3=81=8F=E3=81=A0=E3=81=95=E3=81=84=E3=80=82=20
+     <br>=20
+     <br>=E5=AE=9C=E3=81=97=E3=81=8F=E3=81=8A=E9=A1=98=E3=81=84=E8=87=B4=E3=
+=81=97=E3=81=BE=E3=81=99=E2=98=86=20
+    </div>=20
+   </div>=20
+  </blockquote>=20
+  <br>=20
+  <div>=20
+   <br>=20
+  </div>=20
+  <div>
+    =E8=BF=94=E4=BF=A1=E3=81=8C=E9=81=85=E3=81=8F=E3=81=AA=E3=82=8A=E7=94=
+=B3=E3=81=97=E8=A8=B3=E3=81=94=E3=81=96=E3=81=84=E3=81=BE=E3=81=9B=E3=82=93=
+=EF=BC=81=20
+  </div>=20
+  <div>
+    6=E6=9C=8820=E6=97=A5=E3=81=AF=E3=81=84=E3=81=8B=E3=81=8C=E3=81=A7=E3=
+=81=97=E3=82=87=E3=81=86=E3=81=8B=EF=BC=9F=20
+  </div>=20
+  <div>=20
+   <br>=20
+  </div>=20
+  <div>
+    =E6=A9=8B=E6=9C=AC =E3=81=BE=E3=81=BF=20
+  </div>=20
+  <div>=20
+   <br>=20
+  </div>=20
+  <div id=3D"report-suspicious--225046530300898715" style=3D"border-top:sol=
+id 1px #d8d8d8; color:#999; padding:7px 0; margin-top:3px; font-size:12px;"=
+ class=3D"dremr-report-suspicious">=20
+   <b>=E8=A9=90=E6=AC=BA=E3=81=AE=E7=96=91=E3=81=84=E3=81=8C=E3=81=82=E3=82=
+=8A=E3=81=BE=E3=81=99=E3=81=8B=EF=BC=9F</b>=20
+   <a href=3D"https://m.indeedemail.com/report-email?info=3D3kPjEew_3EVxoSy=
+JYlxPBlfOQ18CB5BZEKD0QcuagR0UXzZGqQPck6ustN0bym8UCz7TjyRr5UxU_LFkQMcgRkdWVb=
+fyThHPjO1Ldr9uVHpeTjdoPunAr6E0cg-EaJzxyAue3mTIQTYGr8p1XLDRMv5dWzlw1D6HhbcoZ=
+HtFQyzdKQS0IxbAwqh0a2tIU7SgZZTuew" style=3D"color:#999">Indeed =E3=81=AB=E3=
+=81=93=E3=81=AE=E3=83=A1=E3=83=83=E3=82=BB=E3=83=BC=E3=82=B8=E3=82=92=E5=A0=
+=B1=E5=91=8A=E3=81=99=E3=82=8B</a>=20
+   <span>=E2=80=83 =E2=80=83 =E2=80=83</span>=20
+   <a href=3D"https://m.indeedemail.com/report-email-hidden?info=3D3kPjEew_=
+3EVxoSyJYlxPBlfOQ18CB5BZEKD0QcuagR0UXzZGqQPck6ustN0bym8UCz7TjyRr5UxU_LFkQMc=
+gRkdWVbfyThHPjO1Ldr9uVHpeTjdoPunAr6E0cg-EaJzxyAue3mTIQTYGr8p1XLDRMv5dWzlw1D=
+6HhbcoZHtFQyzdKQS0IxbAwqh0a2tIU7SgZZTuew"></a>=20
+  </div> =20
+  <div id=3D"legal-disclaimer" style=3D"color:gray;margin-top:10px;font-siz=
+e:12px" class=3D"dremr-disclaimer">
+   <div>
+    =E3=81=93=E3=81=AE=E3=83=A1=E3=83=BC=E3=83=AB=E3=81=AB=E8=BF=94=E4=BF=
+=A1=E3=81=99=E3=82=8B=E3=82=82=E3=81=97=E3=81=8F=E3=81=AF indeed.com =E3=81=
+=AE=E3=83=A1=E3=83=BC=E3=83=AB=E3=82=A2=E3=83=89=E3=83=AC=E3=82=B9=E3=82=92=
+=E4=BD=BF=E7=94=A8=E3=81=99=E3=82=8B=E3=81=93=E3=81=A8=E3=81=AB=E3=82=88=E3=
+=82=8A=E3=80=81=E3=81=82=E3=81=AA=E3=81=9F=E3=81=AF Indeed =E3=81=AE=20
+    <a href=3D"https://www.indeed.com/legal?hl=3Dja&amp;co=3D#cookies" styl=
+e=3D"color:#999">Cookie =E3=83=9D=E3=83=AA=E3=82=B7=E3=83=BC</a>=E5=8F=8A=
+=E3=81=B3
+    <a href=3D"https://www.indeed.com/legal?hl=3Dja&amp;co=3D#privacy" styl=
+e=3D"color:#999">=E3=83=97=E3=83=A9=E3=82=A4=E3=83=90=E3=82=B7=E3=83=BC=E8=
+=A6=8F=E7=B4=84</a>=E4=B8=A6=E3=81=B3=E3=81=AB
+    <a href=3D"https://www.indeed.com/legal?hl=3Dja&amp;co=3D#tos" style=3D=
+"color:#999">=E5=88=A9=E7=94=A8=E8=A6=8F=E7=B4=84</a>=E3=81=AB=E5=9F=BA=E3=
+=81=A5=E3=81=8D=E3=80=81=E3=81=93=E3=81=AE=E3=83=A1=E3=83=BC=E3=83=AB=E3=81=
+=8C=E5=88=86=E6=9E=90=E3=83=BB=E5=87=A6=E7=90=86=E3=81=95=E3=82=8C=E3=82=8B=
+=E3=81=93=E3=81=A8=E3=81=AB=E5=90=8C=E6=84=8F=E3=81=99=E3=82=8B=E3=82=82=E3=
+=81=AE=E3=81=A8=E3=81=97=E3=81=BE=E3=81=99=E3=80=82
+   </div>
+  </div>
+ </body>
+</html>
+------=_Part_61736517_1807073615.1560774077690--
+

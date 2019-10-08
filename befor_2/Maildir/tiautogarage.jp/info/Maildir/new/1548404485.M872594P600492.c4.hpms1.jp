@@ -1,0 +1,174 @@
+Return-Path: <bounce-000068082-000492801732da@manage3.sonicmail.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=6.0 tests=BAYES_00,DKIMWL_WL_MED,
+	DKIM_SIGNED,DKIM_VALID,SPF_HELO_PASS,URIBL_BLOCKED autolearn=ham
+	autolearn_force=no version=3.4.0
+Received: (qmail 600465 invoked by uid 89); 25 Jan 2019 17:21:15 +0900
+Received: from delivery5.manage3.sonicmail.jp (HELO manage3.sonicmail.jp) (203.133.232.172)
+  by c4.hpms1.jp with SMTP; 25 Jan 2019 17:21:15 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at spf.gao.ne.jp designates 203.133.232.172 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=dkim.cuenote.jp;
+	s=y164; t=1548404474; x=1549009274;
+	bh=SP+s8rSAGwfz6qnjQC73CjIKh1b4hnRgt/v5EdUxEe4=;
+	h=Date:From:Subject:To;
+	b=VSfCpm7K/PjshIi2F2NNt/tbw3csMxHmzsA5n/CJR0WrJTdS9teH/+NhHsbn
+	 2rKSw8xVZhb2WmF8loOVfjJbLfucTNUztbi8zDswWfM24rNeQe2Bl6hRfMLaw
+	 21JvE5Kd6K5wOiDQ8EIFYZ3e+Ek4vR3CbN5OYT+nzkh10quZrQ=
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=ISO-2022-JP
+Date: Fri, 25 Jan 2019 17:21:14 +0900
+Errors-To: bounce-000068082-000492801732da@manage3.sonicmail.jp
+From: <magazine@hanshintigers.jp>
+Message-ID: <c51ccb44-7d46-4df4-9511-d18dc06858c4@manage3.sonicmail.jp>
+MIME-Version: 1.0
+Subject: =?ISO-2022-JP?B?GyRCNWVDRDh4PDAlYSVrJV4lLCFWGyhCV2Vla2x5IA==?=
+ =?ISO-2022-JP?B?GyRCJT8lJCUsITwlORsoQiEbJEIhVxsoQg==?=
+To: <info@tiautogarage.jp>
+X-Priority: 3
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25326/Thu Jan 24 11:30:43 2019
+
+------------------------------------------------------------
+　球団公式メルマガ「Weekly タイガース！」　 ＝2019/01/25号＝
+　　　　　　　　　　　　　　　　　　　　発行：阪神タイガース
+------------------------------------------------------------
+
+2月1日(金)のキャンプインまであと1週間！
+メンバーも発表され、ルーキーでは3人の選手が一軍スタートです！
+
+【目次】
+------------------------------------------------------------
+★ タイガース最新情報
+------------------------------------------------------------
+★ イベントのお知らせ
+------------------------------------------------------------
+★ チケットのお知らせ
+------------------------------------------------------------
+★ グッズショップからのお知らせ
+------------------------------------------------------------
+★ 公式ファンクラブからのお知らせ
+------------------------------------------------------------
+★ 公式スマホ・携帯サイトからのお知らせ
+------------------------------------------------------------
+
+
+◆「虎魂(KODAMA)1月は矢野監督」◆
+スローガンに込められた想い＜後編＞を配信！
+矢野監督が考える、今のチームに必要なこととは。
+http://hanshintigers.jp/rd/2536/
+
+
+◆◇◆球団ニュース◆◇◆
+・2019年春季キャンプ中の練習試合について(1/18)
+http://hanshintigers.jp/rd/2531/
+
+・2019年度「日本生命セ・パ交流戦」試合開始時間発表(1/23)
+http://hanshintigers.jp/rd/2526/
+
+・春季一軍キャンプメンバーについて(1/23)
+http://hanshintigers.jp/rd/2527/
+
+・2019年シーズン入場者プレゼント・イベントの開催について(1/23)
+http://hanshintigers.jp/rd/2528/
+
+・2019年度セントラル・リーグ公式戦 試合開始時間発表(1/24)
+http://hanshintigers.jp/rd/2529/
+
+・原口文仁選手について(1/24)
+http://hanshintigers.jp/rd/2530/
+
+・2019年度 阪神タイガース公式ファンクラブ（大人・KIDS） 追加募集のご案内(1/24)
+http://hanshintigers.jp/rd/2537/
+
+・2019年京セラドーム大阪開催公式戦の入場券発売について(1/24)
+http://hanshintigers.jp/rd/2532/
+
+その他の球団ニュースはこちらから！
+http://hanshintigers.jp/rd/359/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆イベント◆◇◆
+2019シーズンも京セラドーム大阪開幕戦での「開幕記念キャップ」を皮切りに、
+「虎ウィンオリジナルグッズ」や、女性限定の「TORACOユニフォーム」、
+音楽と共に観戦を楽しむ「虎フェス♪ハット」など、楽しいプレゼント企画が満載！
+甲子園球場全体がタイガース色に染まる「ウル虎の夏2019」、「甲子園ビアフェスタ」などの外周グルメイベントなども、さらにパワーアップして展開します。
+http://hanshintigers.jp/rd/1929/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆チケット◆◇◆
+京セラドーム大阪で開催する阪神タイガース主催
+セ・リーグ公式戦の入場券を2/21(木)より発売します。
+2/21(木)、22日(金)は電話・インターネット発売のみ、
+2/23(土)より各店舗にて発売いたします。
+http://hanshintigers.jp/rd/2532/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆グッズショップ◆◇◆
+■T-SHOP
+--------------------------------------------
+★FC限定＆期間限定2/13(水)まで★
+「ゼロ」からはじまる背番号が選べる！レプリカユニフォーム≪数量限定≫で販売開始！！
+http://hanshintigers.jp/rd/2533/
+--------------------------------------------
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式ファンクラブ◆◇◆
+★2019年度ファンクラブ会員追加募集開始★
+2019年度ファンクラブ会員の追加募集を実施中！
+今なら一般発売よりも前にチケットをゲットできる
+【ファンクラブ会員先行販売】にも間に合います！
+http://hanshintigers.jp/rd/2534/
+
+
+★紹介キャンペーンの追加実施決定★
+ファンクラブ会員の追加募集に併せて紹介キャンペーンも再登場！
+受付期間：3/31(日)まで
+※先着1,000名様に達し次第終了！
+http://hanshintigers.jp/rd/2535/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式スマホ・携帯サイト◆◇◆
+1週間のタイガース情報をお届けする「週刊虎スポ」や、
+一軍チーム運営担当通訳が、知られざる球団の通訳業を語る
+「チームを支えるプロフェッショナル通訳」をはじめ
+オフシーズンも楽しめるコンテンツが盛りだくさんです！
+http://hanshintigers.jp/rd/1786/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆SNS◆◇◆
+タイガースの最新情報をイチ早くキャッチ！
+・Facebook   http://hanshintigers.jp/rd/907/
+
+・Twitter    http://hanshintigers.jp/rd/908/
+
+
+---阪神タイガースオフィシャルスポンサー---------------------
+
+Joshin
+http://hanshintigers.jp/rd/369/
+
+ミズノ
+http://hanshintigers.jp/rd/370/
+
+ローソン
+http://hanshintigers.jp/rd/371/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+※このメールマガジンの購読は無料です。
+※配信予定 ： 定期配信（毎週1回金曜予定） ＋ スポット配信（不定期）
+※このメールは返信できません。
+
+配信停止はこちら↓
+http://hanshintigers.jp/rd/372/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Copyright(C) HANSHIN Tigers. All Rights Reserved.
+

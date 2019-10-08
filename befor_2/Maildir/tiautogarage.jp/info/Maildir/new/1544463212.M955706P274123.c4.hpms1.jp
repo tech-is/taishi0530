@@ -1,0 +1,54 @@
+Return-Path: <admin@kyltivator-tornado.ru>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=0.7 required=6.0 tests=BAYES_50,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,SPF_HELO_PASS autolearn=ham
+	autolearn_force=no version=3.4.0
+Received: (qmail 274119 invoked by uid 89); 11 Dec 2018 02:33:22 +0900
+Received: from kyltivator-tornado.ru (37.228.119.102)
+  by c4.hpms1.jp with SMTP; 11 Dec 2018 02:33:22 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at kyltivator-tornado.ru designates 37.228.119.102 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=kyltivator-tornado.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=admin@kyltivator-tornado.ru;
+ bh=BENssMEtTmZrJhKN3JLFd+SOHj0=;
+ b=bCV6+prHbsqU79i3XHhJsMiF/UFk7DIOD03E8BO4qrQQMHkEkrOqZgTrBPMbsKCN+8sbQgGRKEmt
+   EE2CvJ1gXo3ow0C+QZ7NLf/CKtf5ecZJkY641R1zdTvFWs3XQtGy9V7YaA+wKVyBSIhR0tRQCFb3
+   SH73VbuBcyb0vQY05sA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=kyltivator-tornado.ru;
+ b=PC9F6SDSjtEFpED0JSwboUQA2WlDIZrQzcmcNtDQtM7i5aIs3kWqCYt1vqzic1KhdsitlpD8BWBG
+   erK41gCneBAkP6q0GDqzjpw5Mzp3ii6/J5NKMoPwiFYTbXKQMcs3fT/BDvkf0pWnzbkt2YU4+Yka
+   UMkvDtq1D/XlDb/6jWU=;
+Message-ID: <868035ee1acd4440639c5a0902d6ee82a150312758@kyltivator-tornado.ru>
+Reply-To: "Kholl Dzheyms" <admin@kyltivator-tornado.ru>
+From: "Kholl Dzheyms" <admin@kyltivator-tornado.ru>
+To: <info@tiautogarage.jp>
+Subject: That is an important offer
+Date: Mon, 10 Dec 2018 20:33:19 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="29d399966abe9112cecb823ca87c5de37738"
+X-Priority: 1
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25193/Mon Dec 10 11:14:28 2018
+
+--29d399966abe9112cecb823ca87c5de37738
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Hey a good offers Just click on the link below to qualify
+
+--29d399966abe9112cecb823ca87c5de37738
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A href=3D"https://drive.google.com/file/d/1jzxzQI7Hopb=
+y4S_hcxhLHtylDkXFQshQ/preview">&nbsp;Hey=20
+  a good offers=20
+Just click on the link below to qualify </A></DIV></BODY></HTML>
+
+--29d399966abe9112cecb823ca87c5de37738--
+

@@ -1,0 +1,54 @@
+Return-Path: <e5er_47454_M_11_202448_44e465d2@expa-rx.com>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=1.0 required=6.0 tests=BAYES_00,
+	CK_HELO_DYNAMIC_SPLIT_IP,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HELO_MISC_IP,
+	NO_FM_NAME_IP_HOSTN,RDNS_DYNAMIC,URIBL_BLOCKED autolearn=no
+	autolearn_force=no version=3.4.0
+Received: (qmail 726346 invoked by uid 89); 1 Jan 2019 17:02:30 +0900
+Received: from 103-57-4-232.suhon.jp (103.57.4.232)
+  by c4.hpms1.jp with SMTP; 1 Jan 2019 17:02:30 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at _spf.ex-pa.jp designates 103.57.4.232 as permitted sender)
+To: info@tiautogarage.jp
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=atarundesu.com;
+	s=e47454; t=1546329749;
+	bh=AOJPyC20qXlf0hGFI0C9Ja1TWdTChrw0T17vc8aTuv0=;
+	h=From:Date:Subject;
+	b=OAUNRLoRL18xLS83tS8BMYa7EOLoN/N0L6AjXyzFjQK5UeCEZUcQG/j5KDgFRohZR
+	 Mh79fTQk2VgyMBlRnqHCfMI4pNBDlauOb/2bpKBVgd39Y2NFG1DtrM1nkC0tHXYU49
+	 hT/YoSAwSzaiIIJ56l+yOssOA2fCNL+tThlkd1oc=
+From: =?ISO-2022-JP?B?GyRCRXYkPyRrJHMkRyQ5GyhC?= <support@atarundesu.com>
+Date: Tue, 01 Jan 2019 17:02:29 +0900
+Subject: =?ISO-2022-JP?B?GyRCIVpFdiQ/JGskcyRHJDkhWz83Ry8kIiQxJF4kNyRGJCokYSRHGyhC?=
+ =?ISO-2022-JP?B?GyRCJEgkJiQ0JDYkJCReJDkhIxsoQg==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+Message-Id: <20190101080229.ED8FD340870@103-57-4-232.suhon.jp>
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25255/Mon Dec 31 15:25:07 2018
+
+新年あけましておめでとうございます。
+旧年中は一方ならぬご愛顧を賜り、厚くお礼申し上げます。
+本年も社員一同、皆様にご満足頂けるサービスを心がける所存でございますので、
+何とぞ昨年同様のご愛顧を賜わりますよう、お願い申し上げます。
+
+2019年は様々なキャンペーンや新たな機能を実装し、
+さらに皆様にお楽しみいただけるよう進化していきます。
+
+引き続き、当たるんですをよろしくお願いいたします。
+
+なお、現在成立中の「当たるんですミニ」は明日1月2日に抽選となります。
+抽選まで今しばらくお待ちください。
+
+当たるんですHP：https://www.atarundesu.com/
+
+皆様のご健勝を心よりお祈り致します。
+本年もどうぞ宜しくお願い申し上げます。
+
+当たるんですサポートセンター 一同
+
+
+
+

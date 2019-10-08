@@ -1,0 +1,154 @@
+Return-Path: <bounce-000069693-00049712ea4bfd@manage3.sonicmail.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=6.0 tests=BAYES_00,DKIMWL_WL_MED,
+	DKIM_SIGNED,DKIM_VALID,SPF_HELO_PASS autolearn=ham autolearn_force=no
+	version=3.4.0
+Received: (qmail 728364 invoked by uid 89); 15 Mar 2019 11:06:04 +0900
+Received: from delivery3.manage3.sonicmail.jp (HELO manage3.sonicmail.jp) (203.133.232.170)
+  by c4.hpms1.jp with SMTP; 15 Mar 2019 11:06:04 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at spf.gao.ne.jp designates 203.133.232.170 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=dkim.cuenote.jp;
+	s=y164; t=1552615564; x=1553220364;
+	bh=BwA//7aGZgEmjzIpSSAOXStR/huSyIvKfQbW/Jr5gek=;
+	h=Date:From:Subject:To;
+	b=B3C+ju1TLnWw8yGNMpKH08vU6mmyXoUDV2nhfzMlnx6sfG7FtKXW9i7AZpJC
+	 jt/ML0sZrKfcZ/A+A4UJKHuOd/zWwyUbjIrpHKS3rO1NQ+vmF145Z8NfoSaLY
+	 9Ff4VduXkWpuwtAP6DCHUVKyRY0qoOQUl9efYaJop2txUjEpAY=
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=ISO-2022-JP
+Date: Fri, 15 Mar 2019 11:06:04 +0900
+Errors-To: bounce-000069693-00049712ea4bfd@manage3.sonicmail.jp
+From: <magazine@hanshintigers.jp>
+Message-ID: <967cdf8b-0d9a-4e4f-943a-37eef4891770@manage3.sonicmail.jp>
+MIME-Version: 1.0
+Subject: =?ISO-2022-JP?B?GyRCNWVDRDh4PDAlYSVrJV4lLCFWGyhCV2Vla2x5IA==?=
+ =?ISO-2022-JP?B?GyRCJT8lJCUsITwlORsoQiEbJEIhVxsoQg==?=
+To: <info@tiautogarage.jp>
+X-Priority: 3
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25388/Thu Mar 14 18:10:01 2019
+
+------------------------------------------------------------
+　球団公式メルマガ「Weekly タイガース！」　 ＝2019/03/15＝
+　　　　　　　　　　　　　　　　　　　　発行：阪神タイガース
+------------------------------------------------------------
+
+2019年シーズン開幕まで残り2週間。
+ファームでは一足先に来週ウエスタン・リーグが開幕します！
+
+
+【目次】
+------------------------------------------------------------
+★ タイガース最新情報
+------------------------------------------------------------
+★ イベントのお知らせ
+------------------------------------------------------------
+★ チケットのお知らせ
+------------------------------------------------------------
+★ グッズショップからのお知らせ
+------------------------------------------------------------
+★ 公式ファンクラブからのお知らせ
+------------------------------------------------------------
+★ 公式スマホ・携帯サイトからのお知らせ
+------------------------------------------------------------
+
+
+◆「虎魂(KODAMA)3月は鳥谷選手」◆
+16年目、秘めたる思い＜前編＞を配信！
+苦しんだ昨シーズンから、上昇曲線を描くために考えたこととは。
+http://hanshintigers.jp/rd/2589/
+
+
+◆◇◆球団ニュース◆◇◆
+・3/24(日)ゆめタウン姫路店にトラッキーが登場！(3/14)
+http://hanshintigers.jp/rd/2594/
+
+・2019年監督・選手コラボメニュー発表（3/14)
+http://hanshintigers.jp/rd/2596/
+
+・【ふれあいイベント】幼稚園・保育所訪問一次募集開始！！(3/14)
+http://hanshintigers.jp/rd/2597/
+
+その他の球団ニュースはこちらから！
+http://hanshintigers.jp/rd/359/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆イベント◆◇◆
+2019年のフードイベント第1弾として、「甲子園ラーメン祭」を開催します！
+4/12(金)〜14(日)の対中日戦、19(金)〜21(日)の対巨人戦の6日間。関西の名店が集結します！
+http://hanshintigers.jp/rd/2587/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆チケット◆◇◆
+阪神甲子園球場、京セラドームで開催する阪神タイガース主催セ・リーグ公式戦の
+入場券を、電話・インターネット・各店舗にて販売中です！
+http://hanshintigers.jp/rd/2590/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆グッズショップ◆◇◆
+■T-SHOP
+--------------------------------------------
+＼お待たせしました！／
+虎ファン御用達の好きな選手や監督、コーチから選べるオーダーTシャツが販売開始★
+--------------------------------------------
+http://hanshintigers.jp/rd/2595/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式ファンクラブ◆◇◆
+★FCレギュラー甲子園・京セラ販売中★
+7・8・9月の巨人戦を除くレギュラーシーズン公式戦の
+チケットを絶賛販売中！
+↓購入はマイページから↓
+http://hanshintigers.jp/rd/1/
+
+★3/17(日)T-L戦はファンクラブ応援デー★
+＼3/17(日)10:30〜14:30／
+ファンクラブ応援デーを開催いたします！
+大好評のピンズは今年もNEWデザインで新登場！
+皆様のご参加をお待ちしております。
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式スマホ・携帯サイト◆◇◆
+公式スマホ携帯サイトでは、
+「関西弁応援実況速報」や「質問・相談突撃隊」をはじめとして、
+皆様にお楽しみいただけるコンテンツを多数配信中です！
+http://hanshintigers.jp/rd/2582/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆SNS◆◇◆
+タイガースの最新情報をイチ早くキャッチ！
+・Facebook   http://hanshintigers.jp/rd/907/
+
+・Twitter    http://hanshintigers.jp/rd/908/
+
+
+---阪神タイガースオフィシャルスポンサー---------------------
+
+Joshin
+http://hanshintigers.jp/rd/369/
+
+ミズノ
+http://hanshintigers.jp/rd/370/
+
+ローソン
+http://hanshintigers.jp/rd/371/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+※このメールマガジンの購読は無料です。
+※配信予定 ： 定期配信（毎週1回金曜予定） ＋ スポット配信（不定期）
+※このメールは返信できません。
+
+配信停止はこちら↓
+http://hanshintigers.jp/rd/372/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Copyright(C) HANSHIN Tigers. All Rights Reserved.
+

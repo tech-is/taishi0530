@@ -1,0 +1,53 @@
+Return-Path: <admin@geoprofy.ru>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,SPF_HELO_PASS,URIBL_BLOCKED
+	autolearn=ham autolearn_force=no version=3.4.0
+Received: (qmail 864227 invoked by uid 89); 16 Dec 2018 01:32:20 +0900
+Received: from geoprofy.ru (92.53.91.236)
+  by c4.hpms1.jp with SMTP; 16 Dec 2018 01:32:20 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at geoprofy.ru designates 92.53.91.236 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=geoprofy.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=admin@geoprofy.ru;
+ bh=iSCsL1z7Kqk8DKtMTCBN6GjCunc=;
+ b=V6Ln2q97TiZe1JQJ8CsgmRv5naRUuV3F5UqB39wKrJ0cqEBsBie3+3lAN++EXuuyOfhByJMBu3cs
+   94uXJi/UYPxZq8FyPjIf+PIC7TAvjbqldlNDQwjX0cntfqlApU/RqoR3SqKgguo9JvjCWCGOrZUF
+   sKl0twe96EwrvfN47B8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=geoprofy.ru;
+ b=E2U8nT8ruiowGhD45j7tHkjUuhFoHTbdhonzhSuTqYlymc99gYxNqdMXDfUB8DTQWkVDpBASVQH/
+   PEa6f9OTu4h73xU7+F5G9WI0ETvn9e2dPmUnP+Oadvz/c9/H2qWSs+KXTR9tRXvtBYnnVRifDAg2
+   cMR/y5b/Ejk9onm+2fE=;
+Message-ID: <2ffe51fd4c33dfd3f58036659157ada189527c0e@geoprofy.ru>
+Reply-To: "red devil" <admin@geoprofy.ru>
+From: "red devil" <admin@geoprofy.ru>
+To: <info@tiautogarage.jp>
+Subject: Behold is  a good offering
+Date: Sat, 15 Dec 2018 19:32:12 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="2896df36697b5158f4f147eb0d092324e59e45"
+X-Priority: 1
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25208/Sat Dec 15 11:18:30 2018
+
+--2896df36697b5158f4f147eb0d092324e59e45
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Hy there Good news ! an important offering Are you in?
+
+--2896df36697b5158f4f147eb0d092324e59e45
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A href=3D"http://bit.ly/2BmqWCF">&nbsp;Hy there=20
+Good news !  an important offering=20
+Are you in?  </A></DIV></BODY></HTML>
+
+--2896df36697b5158f4f147eb0d092324e59e45--
+

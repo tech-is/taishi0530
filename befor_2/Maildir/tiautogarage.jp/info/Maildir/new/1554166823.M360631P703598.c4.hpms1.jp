@@ -1,0 +1,97 @@
+Return-Path: <spiral-error-c97483c20382b0a221e499db0acb37ff@rcv31.smp.ne.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID autolearn=ham autolearn_force=no version=3.4.0
+Received: (qmail 703594 invoked by uid 89); 2 Apr 2019 10:00:13 +0900
+Received: from agent3107.smp.ne.jp (59.106.4.47)
+  by c4.hpms1.jp with AES256-GCM-SHA384 encrypted SMTP; 2 Apr 2019 10:00:13 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at smp.ne.jp designates 59.106.4.47 as permitted sender)
+Received: (qmail 6927 invoked by uid 200); 2 Apr 2019 10:00:12 +0900
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=b01.smp.ne.jp;
+	s=D20180423-spiral; t=1554166812;
+	bh=bW1JmEENq6a2H+EeYXr2kqq8xn3CiROL/ZNrQzbfiNw=;
+	h=Message-Id:Date:From:Subject:To:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=Go/RsZw+YO8avb+7JCFW7zE8sgNLx7He2eOJJnZzS807rZTEUWVyhNKEAlFdcrds5
+	 whv1zMHeUSPfypj0FnBNMIqGgaALUmgFvM7LUBwkYJloNWEe/Ar1zpqWVeDexOklih
+	 graaRBTPY+xBU97MHcC6ofMzYqlRHXiyFH3kU6S+CaMguMxuxu3hxd0xD7JMR42a63
+	 OkI6rC0Lj/jXdXvcpaRJ0bCh80NkPJ7zIAXEBcc4v6pXZwt1vKETkk6BlD62roxOOD
+	 gH7sIHvZDHRR+WAN8LiYT8+jxumn4ozwjmvhgIC/1pRjhOnZUJIHMKnP/ZBgtmTzCx
+	 t77v+dGAI8HDw==
+Message-Id: <SMP823_5798876_117.1554166812@agent3107.smp.ne.jp>
+Date: Tue, 02 Apr 2019 10:00:12 +0900
+From: =?iso-2022-jp?B?GyRCNX5FVD83SjklXiUkJVklOSVIJVclbTt2TDM2SSEhSiE7MxsoQg==?= <marketing@mbp-japan.com>
+Subject: =?iso-2022-jp?B?GyRCIVo1fkVUPzdKOSVeJSQlWSU5JUglVyVtO3ZMMzZJJCsbKEI=?=
+ =?iso-2022-jp?B?GyRCJGkkTiQ0MEZGYiFbGyhC?=
+To: info@tiautogarage.jp
+User-Agent: Spiral/1.12; Messaging Agent
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25406/Mon Apr  1 16:55:53 2019
+
+TIAUTOGARAGE
+井上貴大様
+
+突然のご連絡失礼致します。
+京都新聞マイベストプロ事務局の福山と申します。
+
+私どもは京都新聞の紙面やWebを通じて活躍している専門家を紹介する専門家紹介サイト「マイベストプロ」を運営しております。マイベストプロはインターネットと新聞の連動企画であり、株式会社電通との共同運営のサイトでございます。
+
+本日は貴社のWEBサイト等を拝見致しまして、専門性が高い分野とお見受けし、
+本サイトへのご登録についてご連絡させていただきました。
+
+■マイベストプロ京都・滋賀とは ?
+――――――――――――――――――――――――――――――
+近年、インターネット情報の信頼性が低下していると言われています。
+消費者が安心して利用できる情報の提供こそがインターネット上では求められてきています。
+マイベストプロは一般のホームページやブログではできない信頼感の醸成を行うことが可能です。
+
+マイベストプロは、京都新聞社運営の下、審査を通過して参画された専門家が消費者に安心してご利用いただける、専門的な情報を提供するインターネットサイトとなっています。
+
+これにより、マイベストプロは消費者と専門家とのベストマッチングを可能にしています。
+マイベストプロに参画することで、貴社の専門性を求める顧客層の拡大が期待されます。
+
+まずは、マイベストプロ京都・滋賀をご覧ください。
+・マイベストプロ京都：http://r31.smp.ne.jp/u/No/5798876/4JPh8cK3FZ7D_117/mbp_kyoto.html
+・マイベストプロ滋賀：http://r31.smp.ne.jp/u/No/5798876/gbuJBiK3FZ7D_117/mbp_shiga.html
+
+マイベストプロ京都・滋賀を活用した効果として
+
+・インターネットからの集客増
+・企業・団体・行政などからの講演依頼
+・新聞、テレビなどへのメディア出演などがございます。
+
+またより多くの方に貴社を紹介する仕組みとして
+専門家サイト【Jijico】での執筆　http://jijico.mbp-japan.com/
+※10社以上の有名ポータルサイトと提携していることにより、JIJICOで執筆した内容は、提携ポータルサイト全て掲載される仕組みになっています。
+
+Yahoo！知恵袋登録専門家に専門家として登録出来る
+http://chiebukuro.yahoo.co.jp/professional/?fr=common-navi
+
+更に、インターネットを通じて新しい顧客との縁を繋ぐために有効な情報配信のお手伝いをするコンサルタントが、必要な時にいつでも電話にて貴社をサポートいたします。
+
+またマイベストプロならではの特典として、京都新聞にも広告掲載されます。
+ご登録には審査がございますのであらかじめご了承ください。 
+
+なお、費用は登録に際し専門ライターによる取材等の初期費用で50,000円。
+毎月の利用料金が上記でご紹介したサービス全てを含めて10,000円となっております。（いずれも税抜き）
+
+マイベストプロではその他、専門家の皆さんの新しいビジネス創出に向けて様々な取組みを行っていますので、お忙しいなか誠に恐縮ではございますが、企画についてご興味をお持ちいただけましたらご返信いただけますと幸いです。
+
+改めて企画概要や契約内容についてご説明させていただくことと、
+昨今のインターネット事情など参考になるお話などもさせていただけるかと思いますので、まずは情報交換からで結構ですので少々お時間をいただければと考えております。
+何卒よろしくお願い申し上げます。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+マイベストプロ事務局
+マーケティング担当 ： 福山ともみ
+営業担当 ： 西岡 彬人
+Email ： marketing@mbp-japan.com
+フリーダイヤル 0800-888-3600（平日10：00〜17：00）
+〒530-0004 大阪府大阪市北区堂島浜2-2-28 堂島アクシスビル9F
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+

@@ -1,0 +1,55 @@
+Return-Path: <info@saliznow.ru>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,SPF_HELO_PASS,URIBL_BLOCKED
+	autolearn=ham autolearn_force=no version=3.4.0
+Received: (qmail 149431 invoked by uid 89); 1 Mar 2019 06:30:37 +0900
+Received: from saliznow.ru (46.161.39.224)
+  by c4.hpms1.jp with SMTP; 1 Mar 2019 06:30:37 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at saliznow.ru designates 46.161.39.224 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=saliznow.ru;
+ h=Message-ID:From:To:Subject:Date:MIME-Version:Content-Type;
+ bh=DtIZn9F/IuwS3KaZm3U0E4TMqrE=;
+ b=XcL7Q7ZdVD2KPDdszK11kRtNFYVSNx1RIM4sbkbn0gIz96JIHSLopPLeQFK1ddeoGp6t3EUTSgIj
+   sJfEvjP2e/xLANobUQJl4Zm0AWvR8rAspkbx7/H13Eg1klOfnbD1kY+567l1x3k3lwyOvakFZMTk
+   /Sb16gYROGw9u+0YkUcSOUcZy3hGNrZw3kTyhgKG5HJ474kEDBqKAE5Zlzx3NkHeBIi1beSo2o6w
+   MTVj3xiuQstpS80JSPdV7YTEhjCmXpOyfPWq0exqw6fqDUtfEb4j3j7zAhZ6BB2XlVizk1BldAuT
+   XnvgbwOyjgf/9mpM5jhOiHiqhVamk7HUgTSOYg==
+Message-ID: <8ed70a46b223a2684bb412414a9ea67a59a98b7432@saliznow.ru>
+From: "Wincash Demmyhot" <info@saliznow.ru>
+To: <info@tiautogarage.jp>
+Subject: Copy of: Ciao
+Date: Fri, 1 Mar 2019 00:30:34 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="a15b575062b6997aa6a3ea5470a4840fc719"
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25373/Wed Feb 27 19:36:59 2019
+
+--a15b575062b6997aa6a3ea5470a4840fc719
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Please note a good offering
+
+Good day That is a good offering
+
+--a15b575062b6997aa6a3ea5470a4840fc719
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><FONT size=3D2 face=3DArial>
+<DIV align=3Dleft><FONT size=3D2 face=3DArial><A=20
+href=3D"http://bit.ly/2Tpx4VK">Hi Please note=20
+a good offering</A></FONT></DIV></FONT></DIV>
+<DIV align=3Dleft><FONT size=3D2 face=3DArial><A=20
+href=3D"http://bit.ly/2TriL30">Good day That is=20
+a good offering </A></FONT></DIV></BODY></HTML>
+
+--a15b575062b6997aa6a3ea5470a4840fc719--
+

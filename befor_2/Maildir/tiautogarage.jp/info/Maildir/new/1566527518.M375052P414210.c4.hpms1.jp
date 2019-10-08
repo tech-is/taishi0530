@@ -1,0 +1,170 @@
+Return-Path: <bounce-000077328-00051746a1ebfe@manage3.sonicmail.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=6.0 tests=BAYES_00,DKIMWL_WL_MED,
+	DKIM_SIGNED,DKIM_VALID,SPF_HELO_PASS,URIBL_BLOCKED autolearn=ham
+	autolearn_force=no version=3.4.0
+Received: (qmail 414206 invoked by uid 89); 23 Aug 2019 11:31:48 +0900
+Received: from delivery8.manage3.sonicmail.jp (HELO manage3.sonicmail.jp) (203.133.232.175)
+  by c4.hpms1.jp with SMTP; 23 Aug 2019 11:31:48 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at spf.gao.ne.jp designates 203.133.232.175 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=dkim.cuenote.jp;
+	s=y174; t=1566527508; x=1567132308;
+	bh=trbIlEJ6kAH5UFM7ftWodjUmIsPAE8+4PZKtuV3Ajps=;
+	h=Date:From:Subject:To;
+	b=YzYht/eJexmC/moG2c83wDongQ2qY3KqgjRcPHioVl2UH99D1k/TrKhuSU91
+	 WMvr9LJnUzaI5bbLQY2hTXWTeahS6jqGS/L8zAPW6UTf7np5nu9uDRdQyR1YW
+	 +t+QbwEZHUTB3lz2HW+j7pKApiwJL7q4yXV3hMF/cOYaFadECc=
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=ISO-2022-JP
+Date: Fri, 23 Aug 2019 11:31:48 +0900
+Errors-To: bounce-000077328-00051746a1ebfe@manage3.sonicmail.jp
+From: <magazine@hanshintigers.jp>
+Message-ID: <3a07459b-fb34-454b-8a90-cccb23ac5f18@manage3.sonicmail.jp>
+MIME-Version: 1.0
+Subject: =?ISO-2022-JP?B?GyRCNWVDRDh4PDAlYSVrJV4lLCFWGyhCV2Vla2x5IA==?=
+ =?ISO-2022-JP?B?GyRCJT8lJCUsITwlORsoQiEbJEIhVxsoQg==?=
+To: <info@tiautogarage.jp>
+X-Priority: 3
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25548/Wed Aug 21 17:27:18 2019
+
+------------------------------------------------------------
+　球団公式メルマガ「Weekly タイガース！」　 ＝2019/08/23＝
+　　　　　　　　　　　　　　　　　　　　発行：阪神タイガース
+------------------------------------------------------------
+
+今日からは敵地でヤクルトとの3連戦です！
+来週27日(火)の中日戦では、甲子園球場外周ミズノスクエアにて“夕暮れ球場縁日”を実施します！
+
+
+【目次】
+------------------------------------------------------------
+★ タイガース最新情報
+------------------------------------------------------------
+★ イベントのお知らせ
+------------------------------------------------------------
+★ チケットのお知らせ
+------------------------------------------------------------
+★ グッズショップからのお知らせ
+------------------------------------------------------------
+★ 公式ファンクラブからのお知らせ
+------------------------------------------------------------
+★ 公式モバイルサイトからのお知らせ
+------------------------------------------------------------
+
+
+◆◆◆ファンクラブ会員様へお得な情報！提携施設のご案内◆◆◆
+2019年度公式ファンクラブ・ファンクラブKIDS会員様へお得な情報！
+提携施設のご案内です。Joshinの店舗で1回2,000円以上お買い上げの方に、
+ファンクラブ会員証のご提示でジョーシンポイント200ポイントをプレゼント！
+http://hanshintigers.jp/rd/2608/
+
+
+◆「虎魂(KODAMA)8月はジョンソン選手」◆
+日々やりがいを感じながら<後半>を配信！
+ジョンソン選手の試合前のルーティンと、それに込めた思いとは。
+http://hanshintigers.jp/rd/2926/
+
+
+◆◇◆球団ニュース◆◇◆
+・“甲子園ビアフェスタ”第2弾開催のお知らせ(8/19)
+http://hanshintigers.jp/rd/2920/
+
+・モバイル会員様限定企画  
+8/20ヒーロー選手直筆サイン入りTORACOユニフォームを3名様にプレゼント！(8/21)
+http://hanshintigers.jp/rd/2921/
+
+・公式ファンクラブKIDSイベント『練習見学＆親子キャッチボール』開催！(8/21)
+http://hanshintigers.jp/rd/2923/
+
+その他の球団ニュースはこちらから！
+http://hanshintigers.jp/rd/359/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆試合情報◆◇◆
+8/23(金)対 東京ヤクルト (神宮) 18:00
+8/24(土)対 東京ヤクルト (神宮) 18:00
+8/25(日)対 東京ヤクルト (神宮) 18:00
+8/27(火)対 中日 (甲子園) 18:00
+8/28(水)対 中日 (甲子園) 18:00
+8/29(木)対 中日 (甲子園) 18:00
+
+試合結果・今後の試合日程はこちらから
+http://hanshintigers.jp/rd/2619/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆イベント◆◇◆
+8/30(金)〜9/1(日)の対巨人戦では、甲子園球場外周ミズノスクエアで
+「甲子園ビアフェスタ」第2弾を開催します！
+ドラフトカーやクラフトビールが登場する他、ステージイベントなども実施！
+試合前にぜひお立ち寄りください。
+http://hanshintigers.jp/rd/2920/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆チケット◆◇◆
+9/24(火)対巨人戦[5/28雨天中止分]のチケットはただいま好評販売中です！
+http://hanshintigers.jp/rd/2915/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆グッズショップ◆◇◆
+■T-SHOP
+--------------------------------------------
+間もなく終了！夏のロードでも応援よろしくキャンペーン実施中！！
+--------------------------------------------
+http://hanshintigers.jp/rd/2924/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式ファンクラブ◆◇◆
+★8/28(水)・8/30(金)はファンクラブ応援デーを開催★
+夏のロードを終えた来週の6連戦では、2回の応援デーを実施！
+なお、8/30(金)は女子得プラスを同時開催！皆様、お誘いあわせの上、ご参加ください☆
+↓詳しくはこちら↓
+http://hanshintigers.jp/rd/2925/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式モバイルサイト◆◇◆
+公式モバイルサイトでは、20日(火)の対DeNA戦で開催された「TORACO DAY」でヒーローになりました
+青柳選手、福留選手、糸原選手の直筆サイン入りユニフォームを、抽選で3名様にプレゼント！
+「TORACO DAY」にちなみ、女性会員様限定企画となっております。
+応募締め切りは8/28(水)23:59まで。
+http://hanshintigers.jp/rd/2921/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆SNS◆◇◆
+タイガースの最新情報をイチ早くキャッチ！
+・Facebook   http://hanshintigers.jp/rd/907/
+
+・Twitter    http://hanshintigers.jp/rd/908/
+
+
+---阪神タイガースオフィシャルスポンサー---------------------
+
+Joshin
+http://hanshintigers.jp/rd/369/
+
+ミズノ
+http://hanshintigers.jp/rd/370/
+
+ローソン
+http://hanshintigers.jp/rd/371/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+※このメールマガジンの購読は無料です。
+※配信予定 ： 定期配信（毎週1回金曜予定） ＋ スポット配信（不定期）
+※このメールは返信できません。
+
+配信停止はこちら↓
+http://hanshintigers.jp/rd/372/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Copyright(C) HANSHIN Tigers. All Rights Reserved.
+

@@ -1,0 +1,54 @@
+Return-Path: <admin@jqmobile.ru>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.7 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,SPF_HELO_PASS,URIBL_ABUSE_SURBL,
+	URIBL_BLOCKED autolearn=no autolearn_force=no version=3.4.0
+Received: (qmail 942126 invoked by uid 89); 13 Dec 2018 08:18:06 +0900
+Received: from jqmobile.ru (5.189.228.98)
+  by c4.hpms1.jp with SMTP; 13 Dec 2018 08:18:06 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at jqmobile.ru designates 5.189.228.98 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=jqmobile.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=admin@jqmobile.ru;
+ bh=gT4DEH/RdUODF7bkixlBOCMez4Y=;
+ b=ewJfotDChw5gosVGBzxNMyiJ/vEGGHLYYPpf0s0+c79qxcpCxvoffnxxmDjzniG6+orIg/9nDM24
+   ZXqXhRAR8mCEk0x4SgTalh8XdLnM7LcRT0XKo3OVvRWxZ84nYmM0yQEe801O2G5VcWqX60gJycqK
+   bTjURQKQHL3UefMcdJU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=jqmobile.ru;
+ b=c9jrt9UlYQVw7/fHf2kbQL8grqMIqnyxWI0ppE4WDsv2TJl18FnccDTONuJxUOL5vhBI1+XMAeQk
+   72RUEAECY9XPSwiZIkDLoYVTpJ2OV+FAbH8TR7BStBkgyqRybiXcdCI7Z/sTmkKh8NLikmL/qAOW
+   vuW+W5yUit7DAAGWHzY=;
+Message-ID: <a2f0b9500f1d373e9297218d6b6f4542b6859c@jqmobile.ru>
+Reply-To: "Skinner Piter" <admin@jqmobile.ru>
+From: "Skinner Piter" <admin@jqmobile.ru>
+To: <info@tiautogarage.jp>
+Subject: Please note nice offers
+Date: Thu, 13 Dec 2018 02:18:02 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="21dbd7d0e236199a46430ab4904465fc4067"
+X-Priority: 1
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25199/Wed Dec 12 11:21:46 2018
+
+--21dbd7d0e236199a46430ab4904465fc4067
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Hey What we have here is an important offer Are you in?
+
+--21dbd7d0e236199a46430ab4904465fc4067
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A=20
+href=3D"http://red.studygood.com/SDKSXTWVSGFZDIB">&nbsp;Hey=20
+What we have here is an important offer=20
+Are you in?  </A></DIV></BODY></HTML>
+
+--21dbd7d0e236199a46430ab4904465fc4067--
+

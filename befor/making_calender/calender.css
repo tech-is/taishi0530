@@ -1,0 +1,62 @@
+.header{
+    text-align: center;    
+}
+
+h1{
+    font-size:80px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+h3{
+    font-size:50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+button{
+    width:100px;
+    margin:5px 60px 15px 60px;
+    background-color:#fff;
+    padding:0px 50px 0px 50px;
+    font-size:40px;
+}
+
+.btn{
+    font-size:30px;
+    width: 10;
+}
+
+.week{
+    height:60px;        
+    text-align:center;
+    font-size:30px;
+}
+
+th {
+    height: 20px;
+    width: 120px;
+    text-align: center;
+}
+
+td {
+    height: 120px;
+    width: 120px;
+    font-size:30px;
+}
+
+.red{
+    background-color:#FF6666; 
+}
+
+.blue{
+   background-color:#006699; 
+}
+
+.holidays{
+    background-color:#FF6666; 
+}
+
+.today{
+    background-color:#FF8856;
+    opacity: 0.8;
+}
+

@@ -1,0 +1,53 @@
+Return-Path: <admin@advelstudio.com>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,SPF_HELO_PASS,URIBL_BLOCKED
+	autolearn=ham autolearn_force=no version=3.4.0
+Received: (qmail 567839 invoked by uid 89); 9 Dec 2018 23:01:40 +0900
+Received: from advelstudio.com (5.189.228.77)
+  by c4.hpms1.jp with SMTP; 9 Dec 2018 23:01:40 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at advelstudio.com designates 5.189.228.77 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=advelstudio.com;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=admin@advelstudio.com;
+ bh=bb5umu2mfQk3aXr5EwGA8HceUt8=;
+ b=GEx5mL18ksznZAYRYnHZTNIung7vRRe579AeFmEbmT5L0B4AZmHGqexz71EjSAzomDr2Pg68wZNA
+   yDfV1McgnCQ9gWj66OUV1OujtGwRuViKg2PnNfT9TaeOY9jUwY3/xZNOqcNaifbf4DQADfqGQqQI
+   1fVueHt7lFeQSqToKfo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=advelstudio.com;
+ b=VhOLQridGg6nJIaLrwm+LYTGBmVZBKpSIQe4CRoKc/4LZdxa5kq4l01m1nnvANcYTqjoqf6g9xIc
+   ZSsVuqdz2Xcsup42ES6ADZbLFYbr+HTm0iD9WW568cTqTPNMbQiqIAq5llzNlCTgs9YdvQRifutH
+   hwhZw9MWyJjg1HKTUx0=;
+Message-ID: <87a7208c7b0c2e220491277480460c0028916be5@advelstudio.com>
+Reply-To: "Uoters Bleyz" <admin@advelstudio.com>
+From: "Uoters Bleyz" <admin@advelstudio.com>
+To: <info@tiautogarage.jp>
+Subject: Behold is  an important offers
+Date: Sun, 9 Dec 2018 17:01:33 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="82773e91c61a30397570c66a8c381215979b0f"
+X-Priority: 1
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25190/Sun Dec  9 11:14:25 2018
+
+--82773e91c61a30397570c66a8c381215979b0f
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Hey an important offers To qualify click on the link below
+
+--82773e91c61a30397570c66a8c381215979b0f
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A href=3D"http://bit.ly/2jB7tWk">&nbsp;Hey=20
+  an important offers=20
+To qualify click on the link below  </A></DIV></BODY></HTML>
+
+--82773e91c61a30397570c66a8c381215979b0f--
+

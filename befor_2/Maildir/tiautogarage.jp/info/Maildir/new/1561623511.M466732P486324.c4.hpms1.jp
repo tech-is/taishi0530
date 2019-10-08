@@ -1,0 +1,173 @@
+Return-Path: <SRS0=QwbLQb=U2=fasobf.com=abf@yourhostingaccount.com>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.7 required=6.0 tests=ADVANCE_FEE_5_NEW_MONEY,
+	BAYES_50,DKIM_INVALID,DKIM_SIGNED,FREEMAIL_FORGED_REPLYTO,HK_SCAM_N2,
+	HTML_MESSAGE,JM_SOUGHT_FRAUD_3,LOTS_OF_MONEY,MONEY_FRAUD_8,SPF_HELO_NONE,
+	T_MONEY_PERCENT autolearn=no autolearn_force=no version=3.4.0
+X-Spam-Report: 
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4332]
+	*  0.0 SPF_HELO_NONE SPF: HELO does not publish an SPF Record
+	*  1.1 HK_SCAM_N2 BODY: No description available.
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  3.0 JM_SOUGHT_FRAUD_3 Body contains frequently-spammed text patterns
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  0.1 DKIM_INVALID DKIM or DK signature exists, but is not valid
+	*  2.1 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+	*  0.0 T_MONEY_PERCENT X% of a lot of money for you
+	*  1.8 MONEY_FRAUD_8 Lots of money and very many fraud phrases
+	*  1.8 ADVANCE_FEE_5_NEW_MONEY Advance Fee fraud and lots of money
+Received: (qmail 486317 invoked by uid 89); 27 Jun 2019 17:18:21 +0900
+Received: from mail18.yourhostingaccount.com (HELO walmailout08.yourhostingaccount.com) (65.254.254.79)
+  by c4.hpms1.jp with AES256-GCM-SHA384 encrypted SMTP; 27 Jun 2019 17:18:21 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at yourhostingaccount.com designates 65.254.254.79 as permitted sender)
+Received: from mailscan10.yourhostingaccount.com ([10.1.15.10] helo=walmailscan10.yourhostingaccount.com)
+	by walmailout08.yourhostingaccount.com with esmtp (Exim)
+	id 1hgPbn-0003AR-9g
+	for info@tiautogarage.jp; Thu, 27 Jun 2019 04:18:19 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=fasobf.com;
+	 s=dkim; h=Sender:Message-ID:Reply-To:Subject:To:From:Date:Content-Type:
+	MIME-Version:Cc:Content-Transfer-Encoding:Content-ID:Content-Description:
+	Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:
+	In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:List-Subscribe:
+	List-Post:List-Owner:List-Archive;
+	bh=UGuAP3SBznz4nGCFoX8Kbj7QTvOuRc2mS2bnTgzcitQ=; b=3gjSCcTrF/fSLHhhNxbSFDL78q
+	PUql+UTrUbpqnrEyqvxMBGBGVfHx3xaI9Je71MYwYgM0tae9PfJ1KNESEvCbcnL5Ja1JYL0P5V9SN
+	eK1sLj2mLS+H5ggEQNW8v8Rh5uLp9mlGy1rEuFFKTAtOpZKUjEcHIxoQv1wMZ+/+v3Ukxd6ehstgv
+	4U2CDarQOBizfeJEws+vPkz5AyXHWVIlFvbau1FPML2M8/YRv9nXRq4lj0FmjyrBAHkEHMSbRje3z
+	cvZeyilfPUvOj7jwIHEcl3XXeU7fyhym/CiaVHsU/OnDDvP3eBYGIcIdwRvXp/wUGToCEGF1Yvz4p
+	4KvZvehQ==;
+Received: from [10.114.3.31] (helo=walimpout11)
+	by walmailscan10.yourhostingaccount.com with esmtp (Exim)
+	id 1hgPbf-0005Sn-W6; Thu, 27 Jun 2019 04:18:11 -0400
+Received: from walwebmail08.yourhostingaccount.com ([10.1.16.8])
+	by walimpout11 with 
+	id VkHo200020ASE2q01kHrZC; Thu, 27 Jun 2019 04:18:11 -0400
+X-EN-SP-DIR: OUT
+X-EN-SP-SQ: 1
+Received: from [127.0.0.1] (helo=fatcow)
+	by walwebmail08.yourhostingaccount.com with esmtp (Exim)
+	id 1hgPbI-0007YC-F5; Thu, 27 Jun 2019 04:17:48 -0400
+Received: from [197.210.62.36]
+ by email.fatcow.com
+ with HTTP (HTTP/1.1 POST); Thu, 27 Jun 2019 04:17:48 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_3b1a6acb649ab96ab542b9af6a9ffbfb"
+Date: Thu, 27 Jun 2019 04:17:48 -0400
+From: Raphael Kamara <abf@fasobf.com>
+To: undisclosed-recipients:;
+Subject: *****SPAM***** From Raphael Kamara...............
+Reply-To: raphkamara@gmail.com
+Mail-Reply-To: raphkamara@gmail.com
+Message-ID: <79cf5fe401e241ca46ddddbd79abe163@fasobf.com>
+X-Sender: abf@fasobf.com
+User-Agent: Roundcube Webmail/1.3.8
+X-EN-AuthUser: abf@fasobf.com
+Sender:  Raphael Kamara <abf@fasobf.com>
+X-Spam-Prev-Subject: From Raphael Kamara...............
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25492/Wed Jun 26 17:00:16 2019
+
+--=_3b1a6acb649ab96ab542b9af6a9ffbfb
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII
+
+Good day dear,
+
+Please permit me to inform you of my desire of going into business
+relationship with you. I got your contact from the International web
+site directory. I prayed over it and selected your name among other
+names due to what my mind told me that you are a reputable and trust
+worthy person I can expose my ordeal to and do business with. So I must
+not hesitate to confide in you for this simple and sincere business.
+
+I am Raphael Kamara and my younger sister Juliet Kamara, the only son
+and daughter of late Mr and Mrs Vincent Kamara. My father was a very
+wealthy cocoa merchant in Abidjan, the economic capital of Ivory Coast,
+before he was poisoned to death by his business associates on one of
+their outing to discus on a business deal.
+
+When my mother died on the 6th October 2016, my father took me special
+because I am the only son and my younger sister Juliet, we are
+motherless then, before the death of my father on 30th August 2018 in a
+private hospital here in Abidjan, he secretly called me on his bedside
+and told me that he has a sum of $7.500.000 (seven million, five hundred
+thousand US dollars) left in a suspense account in a local Bank here in
+Abidjan, that he used my name as his only son for the next of kin in
+deposit of the fund. He explained to me that it was because of this
+wealth and some huge amount of money his business associates supposed to
+balance him from the deal they had, that he was poisoned by his business
+associates, that I should seek for a God fearing foreign partner in a
+country of my choice where I will transfer this money and use it for
+investment purpose, (such as real estate management).
+
+Please, I am honourably seeking your assistance in the following ways.
+1) To receive the money for me in your account by providing a Bank
+account where this money would be transferred to.
+2) To serve as the guardian of this since I am a boy of 19 years and I
+do not have business experience.
+3) To help me come over to your country as soon as the money is
+transferred to your account so that we will continue our education and
+a new life.
+
+I am willing to give you 20% of the sum as compensation for effort input
+after the successful transfer of this fund to your designate
+account overseas. Anticipating to hear from you quick please. Thanks and
+God Bless.
+
+yours faithfully
+Raphael and Juliet
+--=_3b1a6acb649ab96ab542b9af6a9ffbfb
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: Verdana,Gen=
+eva,sans-serif'>
+<p><br /></p>
+<div>
+<div class=3D"pre" style=3D"margin: 0; padding: 0; font-family: monospace">=
+Good day dear,<br /> <br /> Please permit me to inform you of my desire of =
+going into business relationship with you. I got your contact from the Inte=
+rnational web site directory. I prayed over it and selected your name among=
+ other names due to what my mind told me that you are a reputable and trust=
+ worthy person I can expose my ordeal to and do business with. So I must no=
+t hesitate to confide in you for this simple and sincere business.<br /> <b=
+r /> I am Raphael Kamara and my younger sister Juliet Kamara, the only son =
+and daughter of late Mr and Mrs Vincent Kamara. My father was a very wealth=
+y cocoa merchant in Abidjan, the economic capital of Ivory Coast, before he=
+ was poisoned to death by his business associates on one of their outing to=
+ discus on a business deal.<br /> <br /> When my mother died on the 6th Oct=
+ober 2016, my father took me special because I am the only son and my young=
+er sister Juliet, we are motherless then, before the death of my father on =
+30th August 2018 in a private hospital here in Abidjan, he secretly called =
+me on his bedside and told me that he has a sum of $7.500.000 (seven millio=
+n, five hundred thousand US dollars) left in a suspense account in a local =
+Bank here in Abidjan, that he used my name as his only son for the next of =
+kin in deposit of the fund. He explained to me that it was because of this =
+wealth and some huge amount of money his business associates supposed to ba=
+lance him from the deal they had, that he was poisoned by his business asso=
+ciates, that I should seek for a God fearing foreign partner in a country o=
+f my choice where I will transfer this money and use it for investment purp=
+ose, (such as real estate management).<br /> <br /> Please, I am honourably=
+ seeking your assistance in the following ways.<br /> 1) To receive the mon=
+ey for me in your account by providing a Bank account where this money woul=
+d be transferred to.<br /> 2) To serve as the guardian of this since I am a=
+ boy of 19 years and I do not have business experience.<br /> 3) To help me=
+ come over to your country as soon as the money is transferred to your acco=
+unt so that we will continue our education and<br /> a new life.<br /> <br =
+/> I am willing to give you 20% of the sum as compensation for effort input=
+ after the successful transfer of this fund to your designate<br /> account=
+ overseas. Anticipating to hear from you quick please. Thanks and God Bless=
+=2E<br /> <br /> yours faithfully<br /> Raphael and Juliet</div>
+</div>
+</body></html>
+
+--=_3b1a6acb649ab96ab542b9af6a9ffbfb--
+

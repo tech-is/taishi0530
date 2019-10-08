@@ -1,0 +1,56 @@
+Return-Path: <admin@floraman.ru>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,SPF_HELO_PASS,URIBL_BLOCKED
+	autolearn=ham autolearn_force=no version=3.4.0
+Received: (qmail 45915 invoked by uid 89); 24 Dec 2018 08:45:38 +0900
+Received: from floraman.ru (79.143.28.242)
+  by c4.hpms1.jp with SMTP; 24 Dec 2018 08:45:38 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at floraman.ru designates 79.143.28.242 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=floraman.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=admin@floraman.ru;
+ bh=RRyeC8QcfQxyTUb67n6SK7IEJQw=;
+ b=PQuX2vrF/u8hIfnEyq4zapFWMNQXttjyC01jFoP1wLrvyvZIZiwuqPrmGLYOB8Gt4Ez/o9R58PK0
+   2z/B9gyKyaOQgO6SlMW80RjJnoTbbAl+5awUekH/EduutfNtjs7DPe6DdnWu0BuAxHjpTVhp82PD
+   5+5Oj805dhB05yEw9lc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=floraman.ru;
+ b=CR4Zv2bGbHG6AfCEJpq+XT/GB9z8p4qhRuU8r1UiXmItmjE7ta5LjGsM+DK3yBSa8LFO5uJMDgHv
+   aDF9kjcFN1GhytSTgdMxQL2NyFKGrhhkF/E2IPQ87zgPOKXPS846AwaDY6vUmi5TMTzihDkmhbJK
+   ej1Hs/mK1yE8kAYF1LQ=;
+Message-ID: <a6c0912bdf0a942b08f6702328fcc4082bdc506877@floraman.ru>
+Reply-To: "expansion" <admin@floraman.ru>
+From: "expansion" <admin@floraman.ru>
+To: <info@tiautogarage.jp>
+Subject: An order
+Date: Mon, 24 Dec 2018 02:45:34 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="006e278acaad878f6366d07c9a8ea4a5e36ea1"
+X-Priority: 1
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25232/Sun Dec 23 15:24:02 2018
+
+--006e278acaad878f6366d07c9a8ea4a5e36ea1
+Content-Type: text/plain; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+Good day
+We Send the list of positions which is necessary.
+
+--006e278acaad878f6366d07c9a8ea4a5e36ea1
+Content-Type: text/html; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML xmlns:o =3D "urn:schemas-microsoft-com:office:office"><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows=
+-1251">
+</HEAD>
+<BODY bgColor=3D#ffffff>Good day<BR><A=20
+href=3D"http://www.designme.com.ua/media/editors/codemirror/mode/cobol/li=
+st_of_positions.rar">We=20
+Send</A> the list of positions which is=20
+necessary. </BODY></HTML>
+
+--006e278acaad878f6366d07c9a8ea4a5e36ea1--
+

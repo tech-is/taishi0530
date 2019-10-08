@@ -1,0 +1,49 @@
+Return-Path: <info@videofor24.ru>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: *
+X-Spam-Status: No, score=1.4 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FSL_BULK_SIG,HTML_MESSAGE,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CHECK,SPF_HELO_PASS,URIBL_BLOCKED autolearn=no autolearn_force=no
+	version=3.4.0
+Received: (qmail 227170 invoked by uid 89); 4 Feb 2019 19:11:40 +0900
+Received: from videofor24.ru (92.53.78.62)
+  by c4.hpms1.jp with SMTP; 4 Feb 2019 19:11:40 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at videofor24.ru designates 92.53.78.62 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=videofor24.ru;
+ h=Message-ID:From:To:Subject:Date:MIME-Version:Content-Type;
+ bh=4hGj+JIj3exEeFcXcUn+5k1Wk4Y=;
+ b=mAeIVCNvhe+RtHCJtX84TAKjItdxoI4zWNpSerBVs8SwbB1pOJiVdy9eWfyXBrry8QARrRz0AD1w
+   prX4kzJMtnfhkv8UKcGo0XRpk7Fhyubv6sLlLD8VI7LSrnktjLwc7RbCb8AW6HmtyaF73AGsiigw
+   kHbBGAN2AVR0qdjQNxIj92zSpocJZkmW7byRSQwZI1nU6KQOEPFlXNe9Bc9almphQ54zbegPnEFT
+   jHMLXMf7buGVuPOgLEoVW/90txQWkJJWuTo0Kk+DxauYqZXKH5UYZE2u/9B5rc3gEww/IFsJ6F+T
+   ospjnBaoQE/c75GUocjMqZi3cIHiXKCLOhteYQ==
+Message-ID: <2f645af64738d4d8feeb5d0efa3cc6caf177bf48@videofor24.ru>
+From: "Eric Hugginswilson" <info@videofor24.ru>
+To: <info@tiautogarage.jp>
+Subject: Bacilio Ojeda Ozoani Makua
+Date: Mon, 4 Feb 2019 13:11:24 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="89737f784a9eb1528e8bc27c588cbed9e208"
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25348/Sat Feb  2 19:46:49 2019
+
+--89737f784a9eb1528e8bc27c588cbed9e208
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Erick Darmawan Phi A Nong http://ZU36Q.TK
+
+--89737f784a9eb1528e8bc27c588cbed9e208
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft>&nbsp;Erick Darmawan Phi A Nong=20
+http://ZU36Q.TK</DIV></BODY></HTML>
+
+--89737f784a9eb1528e8bc27c588cbed9e208--
+

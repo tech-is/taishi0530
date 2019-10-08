@@ -1,0 +1,53 @@
+Return-Path: <admin@jurnal-dlya-vas2018.ru>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,SPF_HELO_PASS,URIBL_BLOCKED
+	autolearn=ham autolearn_force=no version=3.4.0
+Received: (qmail 172083 invoked by uid 89); 13 Dec 2018 18:45:29 +0900
+Received: from jurnal-dlya-vas2018.ru (46.161.39.182)
+  by c4.hpms1.jp with SMTP; 13 Dec 2018 18:45:29 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at jurnal-dlya-vas2018.ru designates 46.161.39.182 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=jurnal-dlya-vas2018.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=admin@jurnal-dlya-vas2018.ru;
+ bh=ZnV2mcEEeCOs2c5bc7Ovpf80WBs=;
+ b=elBH1n8IRwsks1F2/FcYBnNwP3nSBtZtk/vChwD3/sJek/oHElA/LEUURnNTTb2aBCfZmO82MOVu
+   re0+tHD+L2P38NwSapEd0cSX0VOoKl7x2motYtndkNSYDtxj9cWcVrmS0TLcxDaUuOfrl5Jx7pc7
+   s9gWyJV/YVDmqNdrv7s=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=jurnal-dlya-vas2018.ru;
+ b=k3xruWZ8T8Gi+rpPg2eN2OSZbU7NWIMkTf6eyAVDPZHXc9x3OFrrx4u95D22aHYm1xOmKVobJvTK
+   ZHBvjXPQA54tPvZctqddsWFWwLjaN+KGlukhiDOo3boD80xXMxMTud9GMzFktWwv6Q5DxJza47px
+   9itkzAWq81tN6AJhytU=;
+Message-ID: <8d17973b8af519153346f0a357916b674f6a9543@jurnal-dlya-vas2018.ru>
+Reply-To: =?utf-8?B?RHpoZW5raW5zIEXCrXJuZXN0?= <admin@jurnal-dlya-vas2018.ru>
+From: =?utf-8?B?RHpoZW5raW5zIEXCrXJuZXN0?= <admin@jurnal-dlya-vas2018.ru>
+To: <info@tiautogarage.jp>
+Subject: Behold is  an important offers
+Date: Thu, 13 Dec 2018 12:42:11 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0a6128c19e8ca6af0306b01cfafed4d3a771d3"
+X-Priority: 1
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25202/Thu Dec 13 11:35:22 2018
+
+--0a6128c19e8ca6af0306b01cfafed4d3a771d3
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Hey Good news ! a fine offer To qualify click on the link below
+
+--0a6128c19e8ca6af0306b01cfafed4d3a771d3
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A href=3D"http://bit.ly/2UE9wu6">&nbsp;Hey=20
+Good news !  a fine offer=20
+To qualify click on the link below  </A></DIV></BODY></HTML>
+
+--0a6128c19e8ca6af0306b01cfafed4d3a771d3--
+

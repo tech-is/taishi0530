@@ -1,0 +1,180 @@
+Return-Path: <ads-noreply@indeed.com>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-8.8 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,MIME_HTML_ONLY,SPF_HELO_NONE,
+	T_DKIMWL_WL_HIGH,USER_IN_DEF_DKIM_WL autolearn=no autolearn_force=no
+	version=3.4.0
+Received: (qmail 899312 invoked by uid 89); 11 Jun 2019 09:32:45 +0900
+Received: from mail64.indeed.com (198.58.75.64)
+  by c4.hpms1.jp with AES256-GCM-SHA384 encrypted SMTP; 11 Jun 2019 09:32:45 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at _spf2.indeed.com designates 198.58.75.64 as permitted sender)
+Received: from aus-mexec62.localdomain (unknown [10.1.3.210])
+	by mail64.indeed.com (Postfix) with ESMTP id 45N9vH5KbMz7YVPW
+	for <info@tiautogarage.jp>; Mon, 10 Jun 2019 19:32:43 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeed.com;
+	s=default; t=1560213163;
+	bh=9QuKot1BOkD48qr7NlF5lZmOcVTJipExBSNNntcJkpw=;
+	h=Date:To:From:Subject;
+	b=FhgoYYzndYaGjG0nBSD4geAEKS3G20EP7z6iQXFysuseyyaPMopI/TCOQ/NYSNa/9
+	 RgFcOM0ZkSigxBhsSj23wLbVbndlPHpLD7dB30EF6kNFNgbg83RQdAPQkS3N12usTa
+	 ISZrkkz6u98kmaBZ9qD4sA/F2UqcHbCNL6VZ0vA0=
+Received: from localhost.localdomain (localhost [127.0.0.1])
+	by aus-mexec62.localdomain (Postfix) with ESMTP id 42189C0E3A4
+	for <info@tiautogarage.jp>; Mon, 10 Jun 2019 19:32:43 -0500 (CDT)
+X-PHPMAILER-DKIM: phpmailer.worxware.com
+DKIM-Signature: v=1; a=rsa-sha1; q=dns/txt; l=7115; s=default;
+	t=1560213163; c=relaxed/simple;
+	h=From:To:Subject;
+	d=indeed.com; i=@indeed.com;
+	z=From:=20Indeed=20<ads-noreply@indeed.com>
+	|To:=20info@tiautogarage.jp
+	|Subject:=20=3D?UTF-8?Q?=3DE6=3DB1=3D82=3DE4=3DBA=3DBA=3DE3=3D81=3DAE=3DE5=3D8B=3D9F=3DE9=3D9B=3D86=3DE3=3D81=3D8C?=3D=20=3D?UTF-8?Q?=3DE4=3DBC=3D91=3DE6=3DAD=3DA2=3DE3=3D81=3D95=3DE3=3D82=3D8C=3DE3=3D81=3DBE=3DE3=3D81=3D97=3DE3=3D81=3D9F?=3D=20=3D?UTF-8?Q?:_=3DE2=3D80=3DBB=3DE6=3D80=3DA5=3DE5=3D8B=3D9F=3DE2=3D80=3DBB=3DE3=3D82=3DA2?=3D=20=3D?UTF-8?Q?=3DE3=3D83=3D83=3DE3=3D83=3D88=3DE3=3D83=3D9B=3DE3=3D83=3DBC=3DE3=3D83=3DA0=3DE3=3D81=3DAA=3DE7=3DB4=3DA0?=3D=20=3D?UTF-8?Q?=3DE6=3D95=3DB5=3DE3=3D81=3DAA=3DE3=3D81=3D8A=3DE5=3DBA=3D97=3DE2=3D98=3D86=3DE5=3DA4=3D9C=3DE3=3D81=3DAE?=3D=20=3D?UTF-8?Q?=3DE3=3D81=3D8A=3DE5=3DBA=3D97=3DE3=3D81=3DAE=3DE7=3DB0=3DA1=3DE5=3D8D=3D98=3DE3=3D81=3DAA=3DE6=3D8E=3DA5?=3D=20=3D?UTF-8?Q?=3DE5=3DAE=3DA2=3DE2=3D98=3D86_-_=3DE6=3DBB=3D8B=3DE8=3DB3=3D80?=3D=20=3D?UTF-8?Q?=3DE7=3D9C=3D8C_=3DE8=3DBF=3D91=3DE6=3DB1=3D9F=3DE5=3D85=3DAB=3DE5=3DB9=3DA1=3DE5=3DB8=3D82?=3D;
+	bh=RS1XtaxxSTCogueOWNUhOHxsK54=;
+	b=
+Date: Mon, 10 Jun 2019 19:32:43 -0500
+To: info@tiautogarage.jp
+From: Indeed <ads-noreply@indeed.com>
+Subject: =?UTF-8?Q?=E6=B1=82=E4=BA=BA=E3=81=AE=E5=8B=9F=E9=9B=86=E3=81=8C?= =?UTF-8?Q?=E4=BC=91=E6=AD=A2=E3=81=95=E3=82=8C=E3=81=BE=E3=81=97=E3=81=9F?= =?UTF-8?Q?:_=E2=80=BB=E6=80=A5=E5=8B=9F=E2=80=BB=E3=82=A2?= =?UTF-8?Q?=E3=83=83=E3=83=88=E3=83=9B=E3=83=BC=E3=83=A0=E3=81=AA=E7=B4=A0?= =?UTF-8?Q?=E6=95=B5=E3=81=AA=E3=81=8A=E5=BA=97=E2=98=86=E5=A4=9C=E3=81=AE?= =?UTF-8?Q?=E3=81=8A=E5=BA=97=E3=81=AE=E7=B0=A1=E5=8D=98=E3=81=AA=E6=8E=A5?= =?UTF-8?Q?=E5=AE=A2=E2=98=86_-_=E6=BB=8B=E8=B3=80?= =?UTF-8?Q?=E7=9C=8C_=E8=BF=91=E6=B1=9F=E5=85=AB=E5=B9=A1=E5=B8=82?=
+Message-ID: <84b62b64f4bc5c707171e98eb05695a8@localhost.localdomain>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.worxware.com)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25476/Mon Jun 10 16:55:34 2019
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    </head>
+    <body style="">
+        <div style="line-height: 16px; font-family: Arial, sans-serif;">
+            <table style="width: 500px; margin-left: 10px; font-size:12px">
+                <tr>
+                    <td style="padding-bottom: 10px;">
+                        <img src="https://ads.indeed.com/images/email/indeed-logo-small.png?refUid=1dd1v5rg42gss800" alt="indeed.com"/>
+                    </td>
+                </tr>
+
+                
+    <tr style="font-size:16px;">
+        <td>
+            <div style="margin: 15px 0 15px 0;" >
+                <div style="font-weight: bold;color: #CC0000;">
+                    
+                        
+                            求人の募集が休止されました。求人をアクティブにするために新しい終了日を設定してください。
+                        
+                        
+                    
+                </div>
+            </div>
+            <table style="width:100%;background-color: #FFF3D9;border-spacing:10px;">
+                <tr>
+                    <td style="padding:10px 0px 10px 15px;width:40px;">
+                        <img style="width:40px;height:40px;" src="https://d1ewxbznfa539k.cloudfront.net/advw/s/10d222c/notice_icon.png" alt="!"/>
+                    </td>
+                    <td style="padding:10px 0 10px 0;">
+                        <div style="display:inline-block;">
+                            <div>
+                                ※急募※アットホームな素敵なお店☆夜のお店の簡単な接客☆
+                            </div>
+                            <div style="font-size:14px;">
+                                <span>Zizi　ジジ</span> - <span style="color:#666666">滋賀県 近江八幡市</span>
+                            </div>
+                            <div style="font-size:14px;color:#666666;">
+                                <span>応募者:&nbsp;3</span>
+                                <span>広告出費額:&nbsp;<bdi>￥27,814</bdi></span>
+                                <span>終了日：&nbsp;6月10日</span>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+            <div style="margin-top:15px;font-weight:bold;">
+                求人をアクティブにするために新しい終了日を設定してください。
+            </div>
+            <div style="margin-top: 5px">
+                <div style="margin-bottom: 5px;">
+                    
+                    <a 
+    
+        
+            
+            
+        
+    
+    
+
+href="https://employers.indeed.com/update-end-date?id=e1997ecfd522&days=14&amp;refUid=1dd1v5rg42gss800&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=extendenddatealert&amp;lid=end_date_two_week&amp;isid=extendenddatealert&amp;ikw=end_date_two_week" style="font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:normal;color:#0000cc;text-decoration:underline;">
+                        2 週間延長する
+                    </a>
+                </div>
+                <div style="margin-bottom: 5px;">
+                    
+                    <a 
+    
+        
+            
+            
+        
+    
+    
+
+href="https://employers.indeed.com/update-end-date?id=e1997ecfd522&days=30&amp;refUid=1dd1v5rg42gss800&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=extendenddatealert&amp;lid=end_date_one_month&amp;isid=extendenddatealert&amp;ikw=end_date_one_month" style="font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:normal;color:#0000cc;text-decoration:underline;">
+                        1 カ月延長する
+                    </a>
+                </div>
+                <a href="https://employers.indeed.com/m?token=edit-job%3Fid%3De1997ecfd522&amp;refUid=1dd1v5rg42gss800&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=extendenddatealert&amp;lid=edit_job&amp;isid=extendenddatealert&amp;ikw=edit_job" style="font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:normal;color:#0000cc;text-decoration:underline;">
+                    または別の終了日を設定する
+                </a>
+            </div>
+            <div style="margin: 15px 0 15px 0;">
+                <div style="font-weight:bold;">
+                    募集が終了しましたか？
+                </div>
+                <div style="margin-top:5px;">
+                    求人の<a href="https://employers.indeed.com/m?token=edit-job%3Fid%3De1997ecfd522&amp;refUid=1dd1v5rg42gss800&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=extendenddatealert&amp;lid=edit_job&amp;isid=extendenddatealert&amp;ikw=edit_job" style="font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:normal;color:#0000cc;text-decoration:underline;">ステータスを変更</a>
+                </div>
+            </div>
+            <hr noshade="" size="2" style="color:#ccc;background-color:#ccc;border-color:#ccc;">
+            <table>
+                <tr style="font-size:12px">
+                    <td>
+                        <a href="https://employers.indeed.com?refUid=1dd1v5rg42gss800&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=extendenddatealert" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">アカウントにログイン</a>
+                    </td>
+                    <td>
+                        
+                            <div style="margin-left: 20px;">
+                                ご質問がありますか?
+                                <a href="https://ads.indeed.com/contact_indeed?hl=ja&co=JP&amp;refUid=1dd1v5rg42gss800&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=extendenddatealert&amp;lid=contactus&amp;isid=extendenddatealert&amp;ikw=contactus" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">
+                                    お問い合わせ
+                                </a>
+                            </div>
+                        
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+
+
+                
+
+            
+            </table>
+
+            
+
+            <hr noshade="" size="2" style="color:#ccc;background-color:#ccc;border-color:#ccc;margin-left: 5px">
+
+            <div style="margin-left: 10px;color:#6f6f6f;font-size:smaller;"><a href="http://www.indeed.jp?utm_source=indeed&utm_medium=advemail&utm_campaign=ads"><font color="#2164f3"><b>Indeed</b></font></a> - あらゆる仕事 まとめて検索 | Indeed Singapore Operations (Pte.) Ltd., 50 Collyer Quay #05-05, OUE Bayfront, Singapore 049321</div>
+        </div>
+    </body>
+</html>
+
+

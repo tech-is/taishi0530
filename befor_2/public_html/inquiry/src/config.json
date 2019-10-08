@@ -1,0 +1,53 @@
+{
+  "h1": "お問い合わせ",
+  "h2": {
+    "index": "お問い合わせ内容の入力",
+    "confirm": "お問い合わせ内容の確認",
+    "submit": "お問い合わせ完了"
+  },
+  "sender": "TI COATING",
+  "mailto": "info@tiautogarage.jp",
+  "mailfrom": "info@tiautogarage.jp",
+  "subject": "お問い合わせフォームより",
+  "subject2": "お問い合わせありがとうございました",
+  "message": "ご不明な点等ございましたら、お気軽にお問い合わせください。<br><span class=\"required\">※必須</span>の項目は必ず入力してください。",
+  "url": "",
+  "fields": [
+    {
+      "label": "お名前",
+      "type": "text",
+      "options": {
+        "required": true,
+        "max": 50,
+        "placeholder": ""
+      }
+    },
+    {
+      "label": "メールアドレス",
+      "type": "email",
+      "options": {
+        "required": true,
+        "max": 100,
+        "placeholder": ""
+      }
+    },
+    {
+      "label": "電話番号",
+      "type": "tel",
+      "options": {
+        "required": true,
+        "max": 20,
+        "placeholder": ""
+      }
+    },
+    {
+      "label": "お問い合わせ内容",
+      "type": "textarea",
+      "options": {
+        "required": true,
+        "max": 1000,
+        "placeholder": ""
+      }
+    }
+  ]
+}

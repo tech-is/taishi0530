@@ -1,0 +1,14 @@
+#RewriteEngine On
+#ORIGINALDOMAIN_SETTING_START
+#RewriteCond %{HTTPS} on [NC,OR]
+#RewriteCond %{HTTP:HTTPS} on [NC]
+#RewriteRule ^(.*)$ - [L]
+
+#RewriteCond %{HTTPS} !on [NC]
+#RewriteCond %{HTTP:HTTPS} !on [NC]
+#RewriteRule ^(.*)$ https://%{HTTP:ORG_HTTP_HOST}%{HTTP:ORG_REQUEST_URI} [L,R=301]
+
+#RewriteCond %{HTTPS} off
+#RewriteRule ^(.*)$ https://%{HTTP:ORG_HTTP_HOST}%{HTTP:ORG_REQUEST_URI} [L,R=301]
+#ORIGINALDOMAIN_SETTING_END
+

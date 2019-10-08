@@ -1,0 +1,118 @@
+Return-Path: <spiral-error-fced03940f0c405ca07809a863faa3f7@rcv26.smp.ne.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,URIBL_BLOCKED autolearn=ham autolearn_force=no version=3.4.0
+Received: (qmail 842235 invoked by uid 89); 26 Apr 2019 10:00:03 +0900
+Received: from agent2601.smp.ne.jp (59.106.4.41)
+  by c4.hpms1.jp with AES256-GCM-SHA384 encrypted SMTP; 26 Apr 2019 10:00:03 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at smp.ne.jp designates 59.106.4.41 as permitted sender)
+Received: (qmail 20753 invoked by uid 200); 26 Apr 2019 10:00:03 +0900
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=n01.smp.ne.jp;
+	s=D20190422-spiral; t=1556240403;
+	bh=QycSLJrOkQDi0gYnaFaazbXogbfVVQSbx3TIsaCZrgY=;
+	h=Message-Id:Date:From:Subject:To:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=mUFHeYLKRzvl3IT3R+cztVBxyvG2FptnZ/YuUe7YbVTxwIYekN0OpZpWeNvh5lDw1
+	 phCzVIjOd1hkNrJ2J0I11GuzwFurZ6HNFugVtK9fevm/TCCYOmPXX3Skf78KdGUUW3
+	 QeZaCkeHrRqkS7y+YvtAR0wTps2tNNVg67SJRkmTZak0Pj+2vFQbXdGRhv8lCCV02V
+	 dzV1R7W6Lhwqq8cg3MXpn3t2gySbk6SBNM74yxrZbJGcF6Jcvl9C8pZj5iMFUm3dE+
+	 +WqbanQppvbOYyz+N9vnwQb9VUeuQ8iXYoy/M+P2oF5FEtQ/ICCsuCNuku0gBLgIiN
+	 btcPK8Vrhscvg==
+Message-Id: <SMP606_598679_560.1556240403@agent2601.smp.ne.jp>
+Date: Fri, 26 Apr 2019 10:00:03 +0900
+From: IT=?iso-2022-jp?B?GyRCRjNGfjtZMWc7djZIPz1AQUJlOVQlQSE8JWAbKEI=?= <find-a@gmo-sol.jp>
+Subject: =?iso-2022-jp?B?GyRCIig6RkF3IighWko/QC4bKEIyORskQkcvRVkbKEJJVA==?=
+ =?iso-2022-jp?B?GyRCRjNGfkpkPXU2YiFbOHoyTEpzOXAkSyREJCQkRhsoQg==?=
+To: info@tiautogarage.jp
+User-Agent: Spiral/1.12; Messaging Agent
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25430/Thu Apr 25 16:58:44 2019
+
+TI$B!!(BAUTO$B!!(BGARAGE $B8fCf(B
+	
+$B$$$D$bBgJQ$*@$OC$K$J$C$F$*$j$^$9!#(B	
+GMO$B%=%j%e!<%7%g%s%Q!<%H%J!<3t<02q<R(B 	
+IT$BF3F~Jd=u6b%5%]!<%H%A!<%`$G$4$6$$$^$9!#(B	
+	
+$B"(K\%a!<%kFbMF$O!"(B	
+   4$B7n(B16$BF|!J2P!K(B18$B!'(B00$B$K$*Aw$j$$$?$7$^$7$?%a!<%k$HF10l$H$J$j$^$9!#(B	
+$B"($J$*!"K\%a!<%k$H9T$-0c$$$H$J$j$4BP1~$$$?$@$$$F$*$j$^$7$?$i!"(B	
+$B!!2?B4$4MF<O$/$@$5$$$^$;!#(B	
+	
+IT$BF3F~Jd=u6b$N;v6H<B@S8z2LJs9p$K$D$$$F$4O"Mm$$$?$7$^$7$?!#(B	
+	
+$B8z2LJs9p$O?=@A%^%$%Z!<%8$K%m%0%$%s$7!"(B	
+$B$*5RMM$K?tCM$J$I$NF~NO$r$7$F$$$?$@$/I,MW$,$4$6$$$^$9!#(B	
+$B$46(NO$N$[$I!"$I$&$>$h$m$7$/$*4j$$$$$?$7$^$9!#(B	
+	
+$B$4F~NO$$$?$@$/9`L\$O2<5-$H$J$j$^$9!#(B	
+$BGd>e!"862A!"=>6H0w?t!"(B1$B?MEv$?$j$NG/4VO+F/;~4V(B	
+$B=87WBP>]4|4V!'(B2018$BG/(B4$B7n(B31$BF|!A(B2019$BG/(B3$B7n(B31$BF|(B	
+$B!!"(7h;;4|Ey$N4X78>e!"<B@SCM$N=87W!&;;=P$,Fq$7$$>l9g!"(B	
+$B!!!!<B@SCM$,=87W$G$-$kG$0U$N#1G/4V!"(B	
+       $B$"$k$$$OD>6a$N<B@SCM$+$iM=B,$G$-$k35;;CM$K$F!"Js9p$r9T$C$F$/$@$5$$!#(B	
+$BJs9pA`:n2hLL$dCm0UE@Ey$K$D$-$^$7$F$O!"2<5-(BURL$B$r$43NG'$/$@$5$$(B.	
+URL:https://gmo-sol.jp/doc/it-hojo/h29_report/index.html?utm_medium=email&utm_source=KS29-0006218
+---------------------$BJs9pJ}K!(B---------------------	
+	
+$B%^%$%Z!<%8!!%m%0%$%s2hLL(B	
+https://portal.it-hojo.jp/mypage	
+	
+$B-!>e5-(BURL$B$K%"%/%;%9$7!"(B	
+$B!!%^%$%Z!<%83+@_;~$K:n@.$$$?$@$$$?(BID$B$H%Q%9%o!<%I$rF~NO$7$F%m%0%$%s!#(B	
+$B-":8>e$N!V?=@A<T%a%K%e!<!W$r%/%j%C%/$7!"(B	
+$B!!I=<($5$l$k!V8z2LJs9p>\:Y!W$r%/%j%C%/!#(B	
+$B-#!V@k@@;v9`!W$K%A%'%C%/!#(B	
+$B-$!V<B@SF~NO2hLL$X!W$r%/%j%C%/!#(B	
+$B-%2<$X%9%/%m!<%k$7!"2+?'$GI=<($5$l$F$$$k9`L\$X!V<B@S?tCM!W$rF~NO!#(B	
+$B!!"(7h;;4|Ey$N4X78>e!"<B@SCM$N=87W!&;;=P$,Fq$7$$>l9g!"(B	
+$B!!!!<B@SCM$,=87W$G$-$kG$0U$N#1G/4V!"(B	
+$B!!!!$"$k$$$OD>6a$N<B@SCM$+$iM=A[$G$-$k35;;CM$NF~NO$r$*4j$$$$$?$7$^$9!#(B	
+$B-&2<J}$X0\F0$7!"!ZFH<+;XI8![Fb$N!V<B@S?tCM!W$X?tCM$rF~NO!#(B	
+$BFH<+;XI8$N?tCM$O!V(B14$B!W$G$4$6$$$^$9!#(B	
+	
+$B-'!V(BIT$B%D!<%kF3F~$K$h$C$F<B8=$7$?8z2L!W$X$N$45-F~$OG$0U$H$J$j$^$9!#(B	
+$B-(1&2<$K$"$k!V3NG'%\%?%s!W$r%/%j%C%/!#(B	
+$B-)3NG'2hLL$,I=<($5$l$^$9!#(B	
+$B!!0lHV2<$^$G0\F0$7!"!Z(BIT$BF3F~;Y1g;v6H<T$KDs=P$r0MMj![$r%/%j%C%/!#(B	
+	
+--------------------------------------------------	
+	
+$BITL@E@Ey$4$6$$$^$7$?$i!"(B	
+$BEv<RJd=u6b%5%]!<%H%A!<%`!J(B0120-32-0510$B!!%,%$%@%s%9(B1$BHV!K(B	
+$B$^$G$4O"Mm$/$@$5$$!#(B	
+	
+$B$*<j?t$r$*$+$1$$$?$7$^$9$,!"(B	
+$B2?B459$7$/$*4j$$?=$7>e$2$^$9!#(B	
+	
+$B!=!=!=!=!=!=!=!=!Z(BG.W$B5Y6H$N$*CN$i$;![!=!=!=!=!=!=!=!=!=(B 	
+$B!!!!@?$K>!<j$J$,$i!"J@<R$G$O(B	
+$B!!!!(B2019$BG/(B4$B7n(B27$BF|(B($BEZ(B)$B$h$j(B2019$BG/(B5$B7n(B6$BF|(B($B7n(B)$B$^$G(B 	
+$B!!!!5Y6H$H$5$;$F$$$?$@$-$^$9!#(B 	
+$B!!!!1D6H3+;O$O(B2019$BG/(B5$B7n(B7$BF|(B($B2P(B)10$B!'(B00$B$+$i$H$J$j$^$9!#(B 	
+	
+$B!!!!$4M}2rD:$-$^$9$h$&2?B4!"59$7$/$*4j$$$$$?$7$^$9!#(B 	
+$B!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=(B 	
+$B!~!!!!!!!!!!(BIT$BF3F~;Y1g;v6H?=@ABe9T%A!<%`!!!!!!!!!!!!(B $B!~(B 	
+$B!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=(B 	
+$B!!%U%j!<%@%$%d%k(B $B!'(B0120-32-0510$B!!(B($BJ?F|(B10$B!'(B00$B!A(B18$B!'(B00) 	
+$B!!(BE-mail$B!!!!!!!!(B $B!'(Bfind-a@gmo-sol.jp 	
+$B!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=(B 	
+$B!~!!!!!!(B GMO$B%=%j%e!<%7%g%s%Q!<%H%J!<3t<02q<R!!!!!!(B $B!~(B 	
+$B!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=(B 	
+$B!!!!(B $B$*$+$2$5$^$G(B23$B<~G/!!$9$Y$F$N?M$K%$%s%?!<%M%C%H(B 	
+$B!!!!!!!!(B $BEv<R$OEl>Z0lIt>e>l(BGMO$B%$%s%?!<%M%C%H(B	
+$B!!!!!!!!!J>Z7t%3!<%I(B9449$B!K$N%0%k!<%W4k6H$G$9!#!!!!(B	
+$B!!(B          $B!!(B  $B"#(B GMO INTERNET GROUP$B!!"#!!(B 	
+                  $B!!(Bhttps://www.gmo.jp/ 	
+$B!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=(B 	
+$B5!L)>pJs$K4X$9$kCm0U;v9`!'$3$N(BE-mail$B$O!"H/?.<T$,0U?^$7$?(B 	
+$B<u?.<T$N$_$,MxMQ$9$k$3$H$r0U?^$7$?$b$N$G$9!#K|$,0l!"(B 	
+$B5.EB$,$3$N(BE-mail$B$NH/?.<T$,0U?^$7$?<u?.<T$G$J$$>l9g$K$O!"(B 	
+$BD>$A$KAw?.<T$X(B $B$NO"Mm$H$3$N(BE-mail$B$rGK4~4j$$$^$9!#(B	
+

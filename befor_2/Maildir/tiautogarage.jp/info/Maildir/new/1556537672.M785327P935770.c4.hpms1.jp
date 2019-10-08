@@ -1,0 +1,54 @@
+Return-Path: <no-reply@accounts.nintendo.com>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-9.5 required=6.0 tests=BAYES_00,DKIMWL_WL_HIGH,
+	DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED,USER_IN_DEF_DKIM_WL
+	autolearn=ham autolearn_force=no version=3.4.0
+Received: (qmail 935756 invoked by uid 89); 29 Apr 2019 20:34:22 +0900
+Received: from smtp12.accounts.nintendo.com (52.55.62.56)
+  by c4.hpms1.jp with SMTP; 29 Apr 2019 20:34:22 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at accounts.nintendo.com designates 52.55.62.56 as permitted sender)
+Received: from localhost.localdomain (unknown [10.127.13.15])
+	by smtp12.accounts.nintendo.com (Postfix) with ESMTP id 2D75C7776
+	for <info@tiautogarage.jp>; Mon, 29 Apr 2019 11:34:21 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=accounts.nintendo.com; s=default; t=1556537661;
+	bh=qkeyST3yoPMfcN9gWHUgQy52wSPcUq8WlVnMlJSjjOg=;
+	h=Subject:To:From:Date;
+	b=PSmmiqvYSgPMOE2KJmeeoQBfeR8HfPZrMIoxtvMMUOcpEvQo8jRz0c/H5dVr2nK7b
+	 WU4FnC7GBX2tUdKocHZ+a3IHrd94o3Eu0QPOfxdBqaBmekV9JcRkbNu/j5rhDinONI
+	 MK54ur8oyd5sm7yj6+fl+R0EBeRpnkVKPToyaMcA=
+Message-ID:
+ <bd8c441b-40f7-4f11-b0ec-e1df433f4c88_666951110-1556537661@accounts.nintendo.com>
+Subject:
+ [=?UTF-8?B?44GU5Yip55So5piO57Sw?=]=?UTF-8?B?IOWVhuWTgeOBruOBlOizvOWFpQ==?=
+To: "info@tiautogarage.jp" <info@tiautogarage.jp>
+From: "Nintendo" <no-reply@accounts.nintendo.com>
+Date: Mon, 29 Apr 2019 11:34:21 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25434/Mon Apr 29 16:57:17 2019
+
+44GT44Gu44Oh44O844Or44Gv5Lu75aSp5aCC44GL44KJ6Ieq5YuV44Gn6YCB5L+h44GX44Gm44GE
+44G+44GZ44CCCgotLS0tLS0tLS0tLS0tLS0tLS0tLQrjg4vjg7Pjg4bjg7Pjg4njg7zjgqLjgqvj
+gqbjg7Pjg4jvvJppbmZvQHRpYXV0b2dhcmFnZS5qcCDmp5gK44GK6LK344GE5LiK44GS5piO57Sw
+44KS44GK5bGK44GR44GE44Gf44GX44G+44GZ44CCCgo9PT09PT09PT09PT09PT09PT09PQrjgYro
+srfjgYTkuIrjgZLmmI7ntLAKPT09PT09PT09PT09PT09PT09PT0K4peL5piO57Sw5pu4Tm8uCjQz
+MTQ4MjU2NTEKCuKXi+eZuuihjOaXpeaZgjoKMjAxOS8wNC8yOSAyMDozNDoyMCAoSlNUKQoK4peL
+6LO85YWl44Ki44Kr44Km44Oz44OIOgppbmZvQHRpYXV0b2dhcmFnZS5qcApKUAoK4peL44GU6LO8
+5YWl5pel5pmCOgoyMDE5LzA0LzI5IDIwOjM0OjIwIChKU1QpCgril4vjgZTos7zlhaXllYblk4E6
+CkZJRkEgMTgKCuKXi+ODh+ODkOOCpOOCueOCv+OCpOODlzoKTklOVEVORE8gU1dJVENICgotLS0t
+LS0tLS0tLS0tLS0tLS0tLQrjgYrmlK/miZXjgYTlkIjoqIjph5HpoY06CjEsOTQ05YaG44CAKOWG
+heeojuOAgDE0NOWGhikKCuKAu+izvOWFpeOBruOCreODo+ODs+OCu+ODq+OChOi/lOmHkeOBr+OB
+p+OBjeOBvuOBm+OCk+OAggoKLS0tLS0tLS0tLS0tLS0tLS0tLS0gCuOBk+OBruODoeODvOODq+OC
+ouODieODrOOCueOBq+OBr+i/lOS/oeOBp+OBjeOBvuOBm+OCk+OAggrjgZTkuI3mmI7jgarngrnn
+rYnjgYzjgZTjgZbjgYTjgb7jgZfjgZ/jgonjgIHkuIvoqJjjgb7jgafjgYrllY/jgYTlkIjjgo/j
+gZvjgY/jgaDjgZXjgYTjgIIKCuKWvE5pbnRlbmRvIFN3aXRjaOOCteODneODvOODiOOCteOCpOOD
+iApodHRwczovL3d3dy5uaW50ZW5kby5jby5qcC9zdXBwb3J0L3N3aXRjaAoK4pa844GK5ZWP44GE
+5ZCI44KP44Gb5YWI6Zu76Kmx55Wq5Y+3CjA1NzAtMDIwLTIxMAoKLS0tLS0tLS0tLS0tLS0tLS0t
+LS0gCuS7u+WkqeWgguagquW8j+S8muekviAK5Lqs6YO95bqc5Lqs6YO95biC5Y2X5Yy65LiK6bOl
+57696Ym+56uL55S677yR77yR77yN77yR
+

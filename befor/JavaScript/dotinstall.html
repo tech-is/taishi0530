@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript Practice</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="">
+    <style>
+        body{
+            display: flex;
+            flex-wrap: wrap;
+
+        }
+        .box {
+            width: 100px;
+            height: 100px;
+            background: skyblue;
+            cursor: pointer;
+            transition: 0.8s;
+            margin: 0 8px 8px 0;
+            text-align: center;
+            line-height: 100px;
+        }
+
+        .win {
+            background: pink;
+            border-radius: 50%; 
+            transform: rotate(360deg);
+        }
+
+        .lose { 
+            transform: scale(0.9);
+        }
+
+
+
+    </style>
+</head>
+<body>
+    <!-- <div id = "target1" class = "box"></div>
+    <div id = "target2" class = "box"></div>
+    <div id = "target3" class = "box"></div> -->
+
+    <script>
+        'use strict';
+
+        const num = 5;
+
+        /*Math.random() 0以上1未満の数字を生成する
+        Math.floor() 小数点以下を切り捨ててくれる*/
+        const winner = Math.floor(Math.random() * num); //0-4
+
+        for(let i = 0; i < num; i++){
+            const div = document.createElement('div');
+            div.classList.add('box');
+            if(i === winner) {
+                div.dataset.result = 'win';
+            }else{
+                div.dataset.result = 'lose';
+            }
+
+            div.addEventListener('click', function(){
+                if(div.dataset.result === 'win'){
+                    div.textContent = 'Win!'
+                    div.classList.add('win');
+                } else{
+                    div.textContent = 'Lose'
+                    div.classList.add('lose');
+                }
+            })
+
+            document.body.appendChild(div);
+
+        }
+
+
+        // // ブラウザが厳密なエラーチェックをしてくれる
+        // 'use strict';
+        // /*
+        // document.getElementById('target')
+        // ターゲット要素を指定する。
+
+        // addEventListener('click', function() {});
+        // イベントリスナーという
+        // targetがクリックされたとき
+        // */
+        // const target1 = document.getElementById('target1');
+        // const target2 = document.getElementById('target2');
+        // const target3 = document.getElementById('target3');
+
+        // target1.addEventListener('click', function() {
+        //     target1.classList.toggle('circle');
+        //     /*
+        //     toggle 
+        //     targetにcircleクラスがついていたらはずす、ついていなければつける
+        //     */
+        // });
+
+        // target2.addEventListener('click', function() {
+        //     target2.classList.toggle('circle');
+        // });
+
+        // target3.addEventListener('click', function() {
+        //     target3.classList.toggle('circle');
+        // });
+
+    </script>
+</body>

@@ -1,0 +1,57 @@
+Return-Path: <info@sberbank2019opros.ru>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,SPF_HELO_PASS autolearn=ham
+	autolearn_force=no version=3.4.0
+Received: (qmail 240072 invoked by uid 89); 13 Mar 2019 00:46:35 +0900
+Received: from sberbank2019opros.ru (92.53.91.220)
+  by c4.hpms1.jp with SMTP; 13 Mar 2019 00:46:35 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at sberbank2019opros.ru designates 92.53.91.220 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=sberbank2019opros.ru;
+ h=Message-ID:From:To:Subject:Date:MIME-Version:Content-Type;
+ bh=MFD4GHE9eWORLJq/VBlmeP09NXA=;
+ b=eZv4xQ+7mrBC92stFizQADjfLQoSr3JZONXqURHHTcf60UocNv0Vyh4uEDH9/9mAHVHcIapNIbGJ
+   jCm9qqXnLJRQF9gdE4XmhPysFUDXmWHNwQ0ye7rgzy3BMir0b1NQSTuBEQdNpsnUyBYzw7PT3UrA
+   hegREMWjiHaINB42vpDVNDklIrTCxz+bXDcPgxJUWJEz6DP3ldVPDoZO38pbKcd4JXkX09+vlQxr
+   8+oU9m+FrwbzeC2HEFHYcMqoqCOZG7PPPdCRxyVdnHIsukGJM1mhli7EOyMmMfJ/E8iIJnr8/gNi
+   ZXTLcYh0AyCA5xnIje3by1jzAgZ3RMzW0IO/WQ==
+Message-ID: <8799d77bcab559557366d08377b14b476ee2fac2@sberbank2019opros.ru>
+From: "Katie Lynn Clark" <info@sberbank2019opros.ru>
+To: <info@tiautogarage.jp>
+Subject: Copy of: Good man
+Date: Tue, 12 Mar 2019 18:46:32 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="a2da937a25371d14d8dd6bc721250f092df75d"
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25386/Tue Mar 12 17:15:09 2019
+
+--a2da937a25371d14d8dd6bc721250f092df75d
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello Behold is an amazing offer
+
+Hello Here is an important offers
+
+--a2da937a25371d14d8dd6bc721250f092df75d
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><FONT size=3D2 face=3DArial>
+<DIV align=3Dleft><FONT size=3D2 face=3DArial><A=20
+href=3D"https://drive.google.com/file/d/1QKu4BNTn78ZXetXFKqQ9Q5MZ0u2LmEr2=
+/preview">Hello Behold is =20
+an amazing offer</A></FONT></DIV></FONT></DIV>
+<DIV align=3Dleft><FONT size=3D2 face=3DArial><A=20
+href=3D"https://drive.google.com/file/d/1pdkBJdCdXOSeQ1O6thA_zslK6JUZKvWs=
+/preview">Hello Here is=20
+an important offers </A></FONT></DIV></BODY></HTML>
+
+--a2da937a25371d14d8dd6bc721250f092df75d--
+

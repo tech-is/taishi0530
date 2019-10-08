@@ -1,0 +1,191 @@
+Return-Path: <bounce-000071794-000501603db55d@manage3.sonicmail.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=6.0 tests=BAYES_00,DKIMWL_WL_MED,
+	DKIM_SIGNED,DKIM_VALID,SPF_HELO_PASS,URIBL_BLOCKED autolearn=ham
+	autolearn_force=no version=3.4.0
+Received: (qmail 601757 invoked by uid 89); 26 Apr 2019 15:06:34 +0900
+Received: from delivery9.manage3.sonicmail.jp (HELO manage3.sonicmail.jp) (203.133.232.176)
+  by c4.hpms1.jp with SMTP; 26 Apr 2019 15:06:34 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at spf.gao.ne.jp designates 203.133.232.176 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=dkim.cuenote.jp;
+	s=y174; t=1556258794; x=1556863594;
+	bh=sWS8JF27fPs1/UU1zRXCfKPCZf3dtl+AhxwrTS6Nqio=;
+	h=Date:From:Subject:To;
+	b=bsSf/Umt3r7h5Q/RkMGyRYYprOw5NVoFX+ToVKmTqEM+LRlc43y4HEOAnsUQ
+	 x8OX3T+/7FAaDR02FEtVO0Xu0/1EX4cD9FbF4lMskGT9be6YvlBm5kLqF9wbb
+	 kxw+sHKBD+CJscNaTSVmfFARFWKMtSb4WkSI1KOOXK4IEN/otA=
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=ISO-2022-JP
+Date: Fri, 26 Apr 2019 15:06:34 +0900
+Errors-To: bounce-000071794-000501603db55d@manage3.sonicmail.jp
+From: <magazine@hanshintigers.jp>
+Message-ID: <e6e4f3ba-82fa-4649-b7fb-7f3b4914353a@manage3.sonicmail.jp>
+MIME-Version: 1.0
+Subject: =?ISO-2022-JP?B?GyRCNWVDRDh4PDAlYSVrJV4lLCFWGyhCV2Vla2x5IA==?=
+ =?ISO-2022-JP?B?GyRCJT8lJCUsITwlORsoQiEbJEIhVxsoQg==?=
+To: <info@tiautogarage.jp>
+X-Priority: 3
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25430/Thu Apr 25 16:58:44 2019
+
+------------------------------------------------------------
+　球団公式メルマガ「Weekly タイガース！」　 ＝2019/04/26＝
+　　　　　　　　　　　　　　　　　　　　発行：阪神タイガース
+------------------------------------------------------------
+
+明日からタイガースは12連戦と長い戦いが続きます！
+平成最後の一戦にはファーストピッチに井川慶さんが登場します！
+
+
+【目次】
+------------------------------------------------------------
+★ タイガース最新情報
+------------------------------------------------------------
+★ イベントのお知らせ
+------------------------------------------------------------
+★ チケットのお知らせ
+------------------------------------------------------------
+★ グッズショップからのお知らせ
+------------------------------------------------------------
+★ 公式ファンクラブからのお知らせ
+------------------------------------------------------------
+★ 公式モバイルサイトからのお知らせ
+------------------------------------------------------------
+
+
+◆◆◆ファンクラブ会員様へお得な情報！提携施設のご案内◆◆◆
+2019年度公式ファンクラブ・ファンクラブKIDS会員様へお得な情報！
+提携施設のご案内です。Joshinの店舗で1回2,000円以上お買い上げの方に、
+ファンクラブ会員証のご提示でジョーシンポイント200ポイントをプレゼント！
+http://hanshintigers.jp/rd/2608/
+
+
+◆「虎魂(KODAMA)4月はメッセンジャー選手」◆
+節目の10年 “歴史”への挑戦＜後編＞を配信！
+長く日本で活躍するためにメッセンジャー選手が心掛けてきたこととは。
+http://hanshintigers.jp/rd/2683/
+
+
+◆◇◆球団ニュース◆◇◆
+・ゆめタウン 4/28徳島、4/29丹波にトラッキーがやってくる！(4/21)
+http://hanshintigers.jp/rd/2674/
+
+・機動戦士ガンダム コラボナイターイベント実施のご案内（4/22)
+http://hanshintigers.jp/rd/2675/
+
+・“甲子園粉もん祭” 開催のお知らせ(4/23)
+http://hanshintigers.jp/rd/2676/
+
+・ 5月の壁紙カレンダーを更新！5月は西選手が登場！(4/23)
+http://hanshintigers.jp/rd/2677/
+
+・ ベースボールスクール無料体験会追加開催のご案内(4/23)
+http://hanshintigers.jp/rd/2678/
+
+・伊藤和雄選手について(4/25)
+http://hanshintigers.jp/rd/2689/
+
+・〜映画『アベンジャーズ/エンドゲーム』公開記念〜
+MARVEL(マーベル)×タイガース オリジナルコラボグッズ発売(4/26)
+http://hanshintigers.jp/rd/2679/
+
+・「平成最後のファーストピッチ」に井川慶氏が登場！(4/26)
+http://hanshintigers.jp/rd/2680/
+
+その他の球団ニュースはこちらから！
+http://hanshintigers.jp/rd/359/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆試合情報◆◇◆
+4/27(土)対 中日 (ナゴヤD) 14:00
+4/28(日)対 中日 (ナゴヤD) 14:00
+4/29(月・祝)対 中日 (ナゴヤD) 14:00
+4/30(火・休)対 広島東洋 (甲子園) 18:00
+5/1(水・祝)対 広島東洋 (甲子園) 14:00
+5/2(木・休)対 広島東洋 (甲子園) 14:00
+
+試合結果・今後の試合日程はこちらから
+http://hanshintigers.jp/rd/2619/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆イベント◆◇◆
+5/11(土)はTORACO DAY！当日、阪神甲子園球場外周ミズノスクエアでは、
+「トラ耳ヘアスタイル体験」や「選手フォトパネルブース」など
+試合前から楽しんでもらえるイベントを開催します！
+http://hanshintigers.jp/rd/2687/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆チケット◆◇◆
+阪神甲子園球場で開催いたします7/8(月)〜10(水)の対巨人戦入場券を、
+ただいま電話・インターネットなどで発売中です。
+店舗では明日27日(土)からの発売となります。
+http://hanshintigers.jp/rd/2681/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆グッズショップ◆◇◆
+■T-SHOP
+--------------------------------------------
+☆機動戦士ガンダム40周年記念☆阪神タイガース
+コラボグッズを5/17(金)より販売開始予定！！
+--------------------------------------------
+http://hanshintigers.jp/rd/2682/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式ファンクラブ◆◇◆
+★FCレギュラー甲子園・京セラ販売中★
+8・9月の巨人戦を除くレギュラーシーズン公式戦の
+チケットを絶賛販売中！
+↓購入はマイページから↓
+http://hanshintigers.jp/rd/1/
+
+★2019年度ファンクラブ会員追加募集中★
+2019年度ファンクラブ会員の追加募集を実施中！
+http://hanshintigers.jp/rd/2581/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式モバイルサイト◆◇◆
+6/22(土)に阪神甲子園球場で行われる
+「日本生命セ・パ交流戦 2019」対西武戦の観戦チケットを
+モバイル会員様限定で抽選で10組20名様にプレゼント致します！
+締切は5/6(月・振休)23時59分まで。
+http://hanshintigers.jp/rd/2666/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆SNS◆◇◆
+タイガースの最新情報をイチ早くキャッチ！
+・Facebook   http://hanshintigers.jp/rd/907/
+
+・Twitter    http://hanshintigers.jp/rd/908/
+
+
+---阪神タイガースオフィシャルスポンサー---------------------
+
+Joshin
+http://hanshintigers.jp/rd/369/
+
+ミズノ
+http://hanshintigers.jp/rd/370/
+
+ローソン
+http://hanshintigers.jp/rd/371/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+※このメールマガジンの購読は無料です。
+※配信予定 ： 定期配信（毎週1回金曜予定） ＋ スポット配信（不定期）
+※このメールは返信できません。
+
+配信停止はこちら↓
+http://hanshintigers.jp/rd/372/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Copyright(C) HANSHIN Tigers. All Rights Reserved.
+

@@ -1,0 +1,239 @@
+Return-Path: <ads-noreply@indeed.com>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-8.8 required=6.0 tests=BAYES_00,DKIMWL_WL_HIGH,
+	DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,MIME_HTML_ONLY,
+	SPF_HELO_NONE,URIBL_BLOCKED,USER_IN_DEF_DKIM_WL autolearn=no
+	autolearn_force=no version=3.4.0
+Received: (qmail 643848 invoked by uid 89); 21 May 2019 21:32:52 +0900
+Received: from mail64.indeed.com (198.58.75.64)
+  by c4.hpms1.jp with AES256-GCM-SHA384 encrypted SMTP; 21 May 2019 21:32:52 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at _spf2.indeed.com designates 198.58.75.64 as permitted sender)
+Received: from aus-mexec62.localdomain (unknown [10.1.3.212])
+	by mail64.indeed.com (Postfix) with ESMTP id 457Zst4pz9z7RmK6
+	for <info@tiautogarage.jp>; Tue, 21 May 2019 07:32:50 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeed.com;
+	s=default; t=1558441970;
+	bh=umHez0jCpP7I/3RG5pMDTj7mB4IW9lMh0SoLeRwkuCw=;
+	h=Date:To:From:Subject;
+	b=jnqXc8VTAoP7EMXsT0XFX+NAfTzKEIitXDX2NP1i7HM+weWazH6YbLa5z/B79b9fV
+	 YDskikXiA/HDhJdLAa5hFyw20kSLbfYm0PjzoCS7x1KI8PfuQ3ZfMtDSxqusTLm1KA
+	 UtDC0Q3ivOeETJvWSwzWo2Yxwn9qVEEgf/zn5QDs=
+Received: from localhost.localdomain (localhost [127.0.0.1])
+	by aus-mexec62.localdomain (Postfix) with ESMTP id 72E19C03397
+	for <info@tiautogarage.jp>; Tue, 21 May 2019 07:32:50 -0500 (CDT)
+X-PHPMAILER-DKIM: phpmailer.worxware.com
+DKIM-Signature: v=1; a=rsa-sha1; q=dns/txt; l=8312; s=default;
+	t=1558441970; c=relaxed/simple;
+	h=From:To:Subject;
+	d=indeed.com; i=@indeed.com;
+	z=From:=20Indeed=20<ads-noreply@indeed.com>
+	|To:=20info@tiautogarage.jp
+	|Subject:=20=3D?UTF-8?Q?Indeed_=3DE3=3D81=3DAB=3DE9=3D96=3DA2=3DE3=3D81=3D99=3DE3=3D82=3D8B=3DE3=3D82=3DA2?=3D=20=3D?UTF-8?Q?=3DE3=3D83=3DB3=3DE3=3D82=3DB1=3DE3=3D83=3DBC=3DE3=3D83=3D88=3DE3=3D81=3DAB=3DE3=3D81=3D94?=3D=20=3D?UTF-8?Q?=3DE5=3D8D=3D94=3DE5=3D8A=3D9B=3DE3=3D81=3D8F=3DE3=3D81=3DA0=3DE3=3D81=3D95=3DE3=3D81=3D84?=3D;
+	bh=pTyv4kI5kLeIyj2fB+laDvXF7nU=;
+	b=
+Date: Tue, 21 May 2019 07:32:50 -0500
+To: info@tiautogarage.jp
+From: Indeed <ads-noreply@indeed.com>
+Subject: =?UTF-8?Q?Indeed_=E3=81=AB=E9=96=A2=E3=81=99=E3=82=8B=E3=82=A2?= =?UTF-8?Q?=E3=83=B3=E3=82=B1=E3=83=BC=E3=83=88=E3=81=AB=E3=81=94?= =?UTF-8?Q?=E5=8D=94=E5=8A=9B=E3=81=8F=E3=81=A0=E3=81=95=E3=81=84?=
+Message-ID: <81f24d87d0d5bc5848860d06dcf56015@localhost.localdomain>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.worxware.com)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25456/Tue May 21 16:56:54 2019
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    </head>
+    <body style="">
+        <div style="line-height: 16px; font-family: Arial, sans-serif;">
+            <table style="width: 500px; margin-left: 10px; font-size:12px">
+                <tr>
+                    <td style="padding-bottom: 10px;">
+                        <img src="https://ads.indeed.com/images/email/indeed-logo-small.png?refUid=1dbd61e6o0a39000" alt="indeed.com"/>
+                    </td>
+                </tr>
+
+                
+    <tr>
+        <td style="padding-bottom: 10px;">
+            
+                <p>
+                    井上 様、
+                </p>
+            
+            <p>採用にあたり Indeed をご利用いただき、ありがとうございます。</p>
+            <p>アンケートへご協力いただき、サービスについてお客様の評価をお伺いできますと幸いです。 皆さまからのご意見は貴重であり、頂いた回答はすべて確認しております。何かご意見がございましたら詳細をお送りください。</p>
+            <p style="font-weight: bold;">
+                Indeed を、ご友人・ご知人に推奨したいと思いますか?
+                <br/>
+                （下記の番号のいずれかをクリックしてください）
+            </p>
+            <p style="font-weight: bold; font-size: 16px">
+                
+                    <a 
+    
+        
+            
+            
+        
+    
+    
+
+href="https://ads.indeed.com/survey/46f14c4733c62cdc?hl=ja&rating=0&amp;refUid=1dbd61e6o0a39000&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">0</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a 
+    
+        
+            
+            
+        
+    
+    
+
+href="https://ads.indeed.com/survey/46f14c4733c62cdc?hl=ja&rating=1&amp;refUid=1dbd61e6o0a39000&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">1</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a 
+    
+        
+            
+            
+        
+    
+    
+
+href="https://ads.indeed.com/survey/46f14c4733c62cdc?hl=ja&rating=2&amp;refUid=1dbd61e6o0a39000&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">2</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a 
+    
+        
+            
+            
+        
+    
+    
+
+href="https://ads.indeed.com/survey/46f14c4733c62cdc?hl=ja&rating=3&amp;refUid=1dbd61e6o0a39000&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">3</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a 
+    
+        
+            
+            
+        
+    
+    
+
+href="https://ads.indeed.com/survey/46f14c4733c62cdc?hl=ja&rating=4&amp;refUid=1dbd61e6o0a39000&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">4</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a 
+    
+        
+            
+            
+        
+    
+    
+
+href="https://ads.indeed.com/survey/46f14c4733c62cdc?hl=ja&rating=5&amp;refUid=1dbd61e6o0a39000&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">5</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a 
+    
+        
+            
+            
+        
+    
+    
+
+href="https://ads.indeed.com/survey/46f14c4733c62cdc?hl=ja&rating=6&amp;refUid=1dbd61e6o0a39000&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">6</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a 
+    
+        
+            
+            
+        
+    
+    
+
+href="https://ads.indeed.com/survey/46f14c4733c62cdc?hl=ja&rating=7&amp;refUid=1dbd61e6o0a39000&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">7</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a 
+    
+        
+            
+            
+        
+    
+    
+
+href="https://ads.indeed.com/survey/46f14c4733c62cdc?hl=ja&rating=8&amp;refUid=1dbd61e6o0a39000&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">8</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a 
+    
+        
+            
+            
+        
+    
+    
+
+href="https://ads.indeed.com/survey/46f14c4733c62cdc?hl=ja&rating=9&amp;refUid=1dbd61e6o0a39000&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">9</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a 
+    
+        
+            
+            
+        
+    
+    
+
+href="https://ads.indeed.com/survey/46f14c4733c62cdc?hl=ja&rating=10&amp;refUid=1dbd61e6o0a39000&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">10</a>
+                
+            </p>
+            <p>（全くそう思わない場合は「0」、とてもそう思う場合は「10」を選択してください）</p>
+            <p>
+                このアンケートがうまく表示されない場合は、<a href="https://ads.indeed.com/survey/46f14c4733c62cdc?hl=ja&amp;refUid=1dbd61e6o0a39000&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">オンラインでもご回答いただけます</a>。
+            </p>
+            <p>貴重なご意見並びに貴社の採用活動に Indeed をお選びいただき、ありがとうございます。</p>
+            <p>
+                <br/>
+                Michele Watson<br/>
+                クライアントサクセス、Senior Vice President
+            </p>
+        </td>
+    </tr>
+
+
+                
+                    <tr>
+                        <td style="padding-bottom: 10px;">
+                            Indeed<br />
+                                <a href="http://www.indeed.jp/?utm_source=indeed&utm_medium=advemail&utm_campaign=ads" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">www.indeed.jp</a><br />
+                            
+                            
+                        </td>
+                    </tr>
+                
+
+            
+            </table>
+
+            
+
+            <hr noshade="" size="2" style="color:#ccc;background-color:#ccc;border-color:#ccc;margin-left: 5px">
+
+            <div style="margin-left: 10px;color:#6f6f6f;font-size:smaller;"><a href="http://www.indeed.jp?utm_source=indeed&utm_medium=advemail&utm_campaign=ads"><font color="#2164f3"><b>Indeed</b></font></a> - あらゆる仕事 まとめて検索 | Indeed Singapore Operations (Pte.) Ltd., 50 Collyer Quay #05-05, OUE Bayfront, Singapore 049321</div>
+        </div>
+    </body>
+</html>
+
+

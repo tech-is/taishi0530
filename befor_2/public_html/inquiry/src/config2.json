@@ -1,0 +1,163 @@
+{
+  "h1": "お問い合わせ",
+  "h2": {
+    "index": "お問い合わせ内容の入力",
+    "confirm": "お問い合わせ内容の確認",
+    "submit": "お問い合わせ完了"
+  },
+  "sender": "",
+  "mailto": "",
+  "mailfrom": "",
+  "subject": "お問い合わせフォームより",
+  "subject2": "お問い合わせありがとうございました",
+  "message": "ご不明な点等ございましたら、お気軽にお問い合わせください。<br><span class=\"required\">※必須</span>の項目は必ず入力してください。",
+  "url": "",
+  "fields": [
+    {
+      "label": "お名前",
+      "type": "text",
+      "options": {
+        "required": true,
+        "max": 50,
+        "placeholder": "",
+        "note": "説明文をここに書きます"
+      }
+    },
+    {
+      "label": "メールアドレス",
+      "type": "email",
+      "options": {
+        "required": false,
+        "max": 100,
+        "compare": "email"
+      }
+    },
+    {
+      "label": "メールアドレス確認",
+      "type": "email",
+      "options": {
+        "required": false,
+        "max": 100,
+        "compare": "email"
+      }
+    },
+    {
+      "label": "電話番号",
+      "type": "tel",
+      "options": {
+        "required": false,
+        "max": 20,
+        "placeholder": ""
+      }
+    },
+    {
+      "label": "お問い合わせ内容",
+      "type": "textarea",
+      "options": {
+        "required": true,
+        "max": 1000,
+        "placeholder": ""
+      }
+    },
+    {
+      "label": "ご年齢",
+      "type": "number",
+      "options": {
+        "required": true,
+        "min": 0,
+        "max": 200,
+        "before": "満",
+        "after": "歳"
+      }
+    },
+    {
+      "label": "性別",
+      "type": "radio",
+      "options": {
+        "required": true,
+        "items": ["男", "女"]
+      }
+    },
+    {
+      "label": "郵便番号",
+      "type": "text",
+      "options": {
+        "required": false,
+        "max": 8,
+        "class": "p-postal-code"
+      }
+    },
+    {
+      "label": "ご住所",
+      "type": "text",
+      "options": {
+        "required": false,
+        "max": 200,
+        "class": "p-region p-locality p-street-address p-extended-address"
+      }
+    },
+    {
+      "label": "チェックボックス(複数選択可)",
+      "type": "checkbox",
+      "options": {
+        "required": true,
+        "items": ["選択肢その１", "選択肢その２", "選択肢その３", "選択肢その４", "選択肢その５", "選択肢その６"]
+      }
+    },
+    {
+      "label": "プルダウン",
+      "type": "select",
+      "options": {
+        "required": true,
+        "default": "選択してください",
+        "items": ["選択肢その１", "選択肢その２", "選択肢その３", "選択肢その４"]
+      }
+    },
+    {
+      "label": "複数項目",
+      "connect": "start",
+      "type": "number",
+      "options": {
+        "required": true,
+        "min": 0,
+        "max": 10,
+        "before": "大人",
+        "after": "人",
+        "value": 0
+      }
+    },
+    {
+      "label": "複数項目",
+      "connect": "middle",
+      "type": "number",
+      "options": {
+        "required": true,
+        "min": 0,
+        "max": 10,
+        "before": "子供",
+        "after": "人",
+        "value": 0
+      }
+    },
+    {
+      "label": "複数項目",
+      "connect": "end",
+      "type": "number",
+      "options": {
+        "required": true,
+        "min": 0,
+        "max": 10,
+        "before": "祖父母",
+        "after": "人",
+        "value": 0
+      }
+    },
+    {
+      "label": "日付",
+      "type": "date",
+      "options": {
+        "required": true
+      }
+    }
+  ],
+}

@@ -1,0 +1,54 @@
+Return-Path: <admin@fun007.ru>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,SPF_HELO_PASS,URIBL_BLOCKED
+	autolearn=ham autolearn_force=no version=3.4.0
+Received: (qmail 968264 invoked by uid 89); 14 Dec 2018 03:06:12 +0900
+Received: from fun007.ru (188.246.233.73)
+  by c4.hpms1.jp with SMTP; 14 Dec 2018 03:06:12 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at fun007.ru designates 188.246.233.73 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=fun007.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=admin@fun007.ru;
+ bh=x3D/2QAHoFcyTECzO0qQ29I40E0=;
+ b=JBM2E5oE2v3S18x7x/x4ZxFtXLYGLywjmna5RMbPyrFs2RVV1FshH04MQhoRL6DHT/m7wEXZrNg+
+   TqKMd8RHaTOP1XXm5OU1MTqD3bBjV1EAO2k7JQwrGRWYlmnPqaWnnTD5zVJw0r7P38Yw5ji31XJA
+   UXzbe4sVr2HqraevN9I=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=fun007.ru;
+ b=bVc6GY7yzYToOakNzaVvPd8ABDmRbonaiGBJGUHggQv8quHj1qY/Ig3Dl7yy//Z4HBgGN9udxv1E
+   33zxtkmI0V0PdnSTJ3PoS0+nUQ7cF/A8y7Z/TDvBG8ETRA9g8F6eyBNcpitMx78i/jgohVUhBbc8
+   HnF1OgVpPa89FR2ZCLI=;
+Message-ID: <2097de37687a5059f5f046ea0c0822259c184f@fun007.ru>
+Reply-To: =?utf-8?B?S2luZyBFwq1udG9uaQ==?= <admin@fun007.ru>
+From: =?utf-8?B?S2luZyBFwq1udG9uaQ==?= <admin@fun007.ru>
+To: <info@tiautogarage.jp>
+Subject: That is nice offers
+Date: Thu, 13 Dec 2018 21:04:34 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0bf1fdfac81c33b06c69209eba6e4fb214a2"
+X-Priority: 1
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25202/Thu Dec 13 11:35:22 2018
+
+--0bf1fdfac81c33b06c69209eba6e4fb214a2
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0 What we have here is an interesting offers To qualify click on the=
+ link below
+
+--0bf1fdfac81c33b06c69209eba6e4fb214a2
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A href=3D"http://bit.ly/2UFdNh4">&nbsp; =20
+What we have here is an interesting offers=20
+To qualify click on the link below  </A></DIV></BODY></HTML>
+
+--0bf1fdfac81c33b06c69209eba6e4fb214a2--
+

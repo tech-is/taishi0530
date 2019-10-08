@@ -1,0 +1,114 @@
+Return-Path: <info@hust.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,NORMAL_HTTP_TO_IP,URIBL_BLOCKED autolearn=ham
+	autolearn_force=no version=3.4.0
+Received: (qmail 80410 invoked by uid 89); 14 May 2019 16:06:08 +0900
+Received: from ns.hustms.jp (210.143.103.42)
+  by c4.hpms1.jp with SMTP; 14 May 2019 16:06:08 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at hust.jp designates 210.143.103.42 as permitted sender)
+Received: from [192.168.1.17] (p337047-ipngn12601marunouchi.tokyo.ocn.ne.jp [153.201.136.47])
+	by ns.hustms.jp (Postfix) with ESMTPA id 7ECEE37E3A7A
+	for <info@tiautogarage.jp>; Tue, 14 May 2019 16:06:08 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hust.jp;
+	s=dkimselector; t=1557817568;
+	bh=F1SRHxE5XKAJ6lX/QHYBuEA76m/mMLsptp5Wn9Ekxco=;
+	h=Date:Subject:From:To;
+	b=J4Nmg/UwA31mM9HkZ6XA2oLyuZ6WdaDoEU+39AYcyzrZpdikQq48/jbtGmCIQDVQX
+	 4sd8x9RDgjSjQy5qD4j1DFzXDkO3DVki2h/hRXkYEFcL1quaLF46Ct/eF54v4PfB90
+	 FRfDR0Voxtv+m2eXVFhh7sbjfvKj1yWeDisfH+fc=
+MIME-Version: 1.0
+Date: Tue, 14 May 2019 16:06:08 +0900
+Message-ID: <JxVC96FXvjdrs.RUcmq5V.vQc@hust.jp>
+Subject: =?ISO-2022-JP?B?GyRCIVQlTyU5JUglTSVDJUgkRyQ5IVUbKEIgGyRCPiYbKEI=?=
+	=?ISO-2022-JP?B?GyRCSUokTj1QMlkkSEF3JGo+dUhWOWYkTiQ0MEZGYiE/MGY+ZRsoQg==?=
+	=?ISO-2022-JP?B?IBskQjUuQmcbKEIgGyRCTU0bKEI=?=
+From: =?ISO-2022-JP?B?GyRCJU8lOSVIJU0lQyVIM3Q8MDJxPFIbKEI=?=
+	<info@hust.jp>
+To: info@tiautogarage.jp
+X-Mailer: JsvMail 16.0 (Shuriken 2018)
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25448/Mon May 13 16:57:34 2019
+
+井上 貴大 様
+
+ハストネット株式会社 斉藤です。
+
+この度は、大変お世話になっております。
+
+商品の出荷が完了しましたので、送り状番号をお知らせ致します。
+
+※配送は一般路線便のため、お時間のご指定は承れませんが、商品の送り状番号
+をもとに、お荷物の配達状況などを直接ご確認頂けますのでご利用ください。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+●令和元年５月１５日（水）お届け予定の商品についてご案内致します。
+
+※貨物の氾濫や交通渋滞、天候等により、稀にお届け予定日に遅延が生じる場合
+がございます。
+
+大変お手数ではございますが、配送状況に関しましては、直接運送会社へご確認
+くださいますようお願い申し上げます。
+
+------------------------------------------------------------------------
+
+［ヤマト運輸　TEL：0120-01-9625］
+
+ 製品名：天板　2枚　1個口　→　送り状 No.303113523064
+ 製品名：天板　3枚　1個口　→　送り状 No.303113523053
+
+ お荷物お問い合わせページ
+  http://toi.kuronekoyamato.co.jp/cgi-bin/tneko
+
+------------------------------------------------------------------------
+
+［荒木運輸：大阪主管店　TEL：06-6728-6888］
+
+ 製品名：テーブル脚　5台　3個口　→　送り状 No.51290956905
+
+ お荷物お問い合わせページ
+  http://210.168.243.164/araki/scripts/dsrs_search02.asp?doaLDXML=dno01
+
+※誠に恐れ入りますが、荒木運輸お荷物問い合わせサービスで確認致しますと、
+既に配達完了となっております。お日にちが前後いたしましたこと、大変申し訳
+ございません。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【商品の配送について】
+
+配送時の受渡しは、配送車両の進入可能な所迄で、梱包姿のままのお渡しとなり、
+稀に、大型荷物などは荷下ろしの補助をお願いする場合があります。
+
+配送時のご不在や荷渡しが出来ない場合の再配達・保管などは有料になることが
+あります。また当日の再配達を承れない場合もありますので予めご了承下さい。
+
+尚、納品日のご変更は、既にルートが組まれている場合や出荷間近のタイミング
+では、ご対応出来かねてしまうか有料になってしまう場合があります。
+
+また交通事情や天候、自然災害の配送遅延による営業保証などはございません。
+
+------------------------------------------------------------------------
+
+【運送事故や商品不良時のご案内】
+
+ http://www.hust.jp/info6.html （商品は到着後直ちにご確認下さい）
+
+────────────────────────────────────
+
+ご質問、ご不明な点などございましたら、どうぞお気軽にご相談下さい。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+■ハストネット株式会社
+〒190-0014 東京都立川市緑町7-1 アーバス立川高松駅前ビル7F
+公式サイト： http://www.hust.jp/  Mail： info@hust.jp
+業務用ＷＥＢサイト総合案内
+Tel：0120-45-9950(フリーダイヤル)／Tel：042-512-7117(代)
+Fax：0120-45-9952(フリーダイヤル)／Fax：042-548-1555(代)
+月〜金曜日 9:00〜18:00 (12:00〜13:00を除く) ※土 日 祝日は休業日です。
+

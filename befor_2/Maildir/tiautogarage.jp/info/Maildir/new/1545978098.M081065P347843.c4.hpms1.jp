@@ -1,0 +1,163 @@
+Return-Path: <bounce-000067274-0004945255921b@manage3.sonicmail.jp>
+Delivered-To: tiautogarage.jp-info@tiautogarage.jp
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on c4.hpms1.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=6.0 tests=BAYES_00,DKIMWL_WL_MED,
+	DKIM_SIGNED,DKIM_VALID,SPF_HELO_PASS,URIBL_BLOCKED autolearn=ham
+	autolearn_force=no version=3.4.0
+Received: (qmail 347833 invoked by uid 89); 28 Dec 2018 15:21:27 +0900
+Received: from delivery1.manage3.sonicmail.jp (HELO manage3.sonicmail.jp) (203.133.232.168)
+  by c4.hpms1.jp with SMTP; 28 Dec 2018 15:21:27 +0900
+Received-SPF: pass (c4.hpms1.jp: SPF record at spf.gao.ne.jp designates 203.133.232.168 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=dkim.cuenote.jp;
+	s=y164; t=1545978087; x=1546582887;
+	bh=YfG6WfRQy1C3eOv0phnAQWEXWKukarmnrT27MPCYhaQ=;
+	h=Date:From:Subject:To;
+	b=pYfJrR5P2+aMli/ep0k8u3ir4/WnlG3ewX7+7s1ljivrQWZpHPXyxnSkE4A7
+	 ReXwL7/KWi5BGF4zrKJZRqV2gDWcbhwUS+lgYx7hDjec/MlnOD1A60jvBEScS
+	 JaQoJbUPWEf31Lpj9vKzVDr4Xq1cYi46Xr0USqRIMTzP04PAk0=
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=ISO-2022-JP
+Date: Fri, 28 Dec 2018 15:21:27 +0900
+Errors-To: bounce-000067274-0004945255921b@manage3.sonicmail.jp
+From: <magazine@hanshintigers.jp>
+Message-ID: <ce44c0e7-cb55-49b8-ad95-60f96858089f@manage3.sonicmail.jp>
+MIME-Version: 1.0
+Subject: =?ISO-2022-JP?B?GyRCNWVDRDh4PDAlYSVrJV4lLCFWGyhCV2Vla2x5IA==?=
+ =?ISO-2022-JP?B?GyRCJT8lJCUsITwlORsoQiEbJEIhVxsoQg==?=
+To: <info@tiautogarage.jp>
+X-Priority: 3
+X-Virus-Status: No
+X-Virus-Checker-Version: clamassassin 1.2.2 with clamdscan / ClamAV 0.99.2/25244/Thu Dec 27 15:29:28 2018
+
+------------------------------------------------------------
+　球団公式メルマガ「Weekly タイガース！」　 ＝2018/12/28号＝
+　　　　　　　　　　　　　　　　　　　　発行：阪神タイガース
+------------------------------------------------------------
+
+2018年も残りわずか。本年最後の配信となります。
+ご愛読いただき、ありがとうございました。来年もどうぞ宜しくお願いいたします。
+
+
+【目次】
+------------------------------------------------------------
+★ タイガース最新情報
+------------------------------------------------------------
+★ チケットのお知らせ
+------------------------------------------------------------
+★ グッズショップからのお知らせ
+------------------------------------------------------------
+★ 公式ファンクラブからのお知らせ
+------------------------------------------------------------
+★ 公式スマホ・携帯サイトからのお知らせ
+------------------------------------------------------------
+
+
+◆◆ファンクラブ会員様へお得な情報！提携施設のご案内◆◆
+2018年度公式ファンクラブ・ファンクラブKIDS会員様へお得な情報！
+提携施設のご案内です。Joshinの店舗で1回2,000円以上お買い上げの方に、
+ファンクラブ会員証のご提示でジョーシンポイント200ポイントをプレゼント！
+http://hanshintigers.jp/rd/1980/
+
+
+◆「虎魂(KODAMA)12月は岩貞選手」◆
+プロ5年目のシーズンで得た反省と手応え＜後編＞を配信！
+来季の課題が明確となった神宮での2試合とは。
+http://hanshintigers.jp/rd/2483/
+
+
+◆◇◆球団ニュース◆◇◆
+・北條史也選手が大阪母子医療センターを訪問(12/22)
+http://hanshintigers.jp/rd/2488/
+
+・1月の壁紙カレンダーを更新！今月は矢野監督が登場！(12/25)
+http://hanshintigers.jp/rd/2489/
+
+・2019年『OPEN KOSHIEN〜年間予約席現地見学会〜』の開催について(12/25)
+http://hanshintigers.jp/rd/2490/
+
+・板山祐太郎選手の入籍について(12/26)
+http://hanshintigers.jp/rd/2491/
+
+・2019年団体入場券の発売について(12/26)
+http://hanshintigers.jp/rd/2492/
+
+・外国人選手との契約締結について(12/28)
+http://hanshintigers.jp/rd/2494/
+
+・背番号の決定について(12/28)
+http://hanshintigers.jp/rd/2495/
+
+・岩貞祐太選手が地震復興支援の義援金贈呈および野球ボールを寄贈(12/28)
+http://hanshintigers.jp/rd/2493/
+
+その他の球団ニュースはこちらから！
+http://hanshintigers.jp/rd/359/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆チケット◆◇◆
+2019年「いち早パック」を発売しております！
+「ホリデー/サタデー・巨人戦セット」、
+「トクトク回数券」、「京セラドーム大阪
+　タイガースシーズンチケット」の3種類。
+数量限定ですのでお早めに！
+http://hanshintigers.jp/rd/2432/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆グッズショップ◆◇◆
+■T-SHOP
+--------------------------------------------
+★どうぞ良いお年をお迎えください★
+2019年も『タイガースカレンダー』で新しい1年のスタート！！
+http://hanshintigers.jp/rd/2496/
+--------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式ファンクラブ◆◇◆
+■ファンクラブ事務局の年末年始休業日について
+12/28(金)〜 1/7(月)まで年末年始休業日となります。
+詳細はこちらをご覧ください。
+http://hanshintigers.jp/rd/2482/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆公式スマホ・携帯サイト◆◇◆
+球団公式スマホ携帯サイトでは、
+2018年オフシーズン特別企画として糸原健斗選手、大山悠輔選手、植田海選手による
+タイガースのウラ側を語っていただく「ウラ虎の冬2018」を配信！
+最終回は“似顔絵対決”でガチバトルを展開！
+http://hanshintigers.jp/rd/2497/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◇◆SNS◆◇◆
+タイガースの最新情報をイチ早くキャッチ！
+・Facebook   http://hanshintigers.jp/rd/907/
+
+・Twitter    http://hanshintigers.jp/rd/908/
+
+
+---阪神タイガースオフィシャルスポンサー---------------------
+
+Joshin
+http://hanshintigers.jp/rd/369/
+
+ミズノ
+http://hanshintigers.jp/rd/370/
+
+ローソン
+http://hanshintigers.jp/rd/371/
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+※このメールマガジンの購読は無料です。
+※配信予定 ： 定期配信（毎週1回金曜予定） ＋ スポット配信（不定期）
+※このメールは返信できません。
+
+配信停止はこちら↓
+http://hanshintigers.jp/rd/372/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Copyright(C) HANSHIN Tigers. All Rights Reserved.
+
